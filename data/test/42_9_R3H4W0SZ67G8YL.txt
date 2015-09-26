@@ -1,0 +1,2 @@
+(ROOT (SINV (VP (VBD Did) (SBAR (S (NP (PRP you)) (VP (VBP analyze))))) (NP (NP (DT the) (NN water)) (CC or) (NP (NP (RB just) (VBG making) (NNS generalizations)) (PRN (-LRB- -LRB-) (`` ``) (S (NP (PRP it)) (ADVP (RB certainly)) (VP (VBZ removes) (NP (NP (JJ harmful) (JJ bacterial)) (, ,) (NP (NNS cysts)) (, ,) (CC and) (NP (NN protozoa)))) (. .)) ('' '') (-RRB- -RRB-))))))
+(ROOT (FRAG (INTJ (UH Yeah)) (, ,) (ADVP (VBN thought) (RB so)) (. .)))

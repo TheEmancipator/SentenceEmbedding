@@ -1,0 +1,2 @@
+(ROOT (S (S (NP (PRP I)) (VP (VBD got) (S (NP (NP (DT this)) (PP (IN as) (NP (DT a) (NNP Christmas)))) (ADJP (JJ present) (PP (IN for) (NP (PRP$ my) (NN brother))))))) (, ,) (CC and) (S (NP (DT the) (JJ whole) (NN family)) (VP (VBD loved) (NP (PRP it)))) (. !)))
+(ROOT (S (NP (PRP They)) (VP (VBP are) (UCP (ADJP (RB so) (JJ funny)) (CC and) (NP (NP (DT a) (JJ great) (NN fun) (NN kind)) (PP (IN of) (NP (NN joke)))))) (. .)))

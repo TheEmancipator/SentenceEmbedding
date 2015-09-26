@@ -1,0 +1,2 @@
+(ROOT (S (NP (NP (DT The) (NN translation)) (PP (IN of) (NP (DT this) (NN book)))) (VP (VBD left) (ADJP (JJ much) (S (VP (TO to) (VP (VB be) (VP (VBN desired) (PP (IN in) (NP (PRP$ my) (NN estimation))))))))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBD was) (ADJP (JJ dificult) (S (VP (TO to) (VP (VB relate) (PP (TO to) (NP (DT the) (NNS characters)))))))) (. .)))

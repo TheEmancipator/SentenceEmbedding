@@ -1,0 +1,8 @@
+(ROOT (S (NP (PRP We)) (VP (VBD purchased) (NP (CD two) (NNS droids)) (PP (IN with) (NP (JJ high) (NNS hopes)))) (. .)))
+(ROOT (S (NP (PRP$ My) (NN husband)) (VP (VBZ loves) (NP (PRP$ his))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP do) (RB not)) (. .)))
+(ROOT (S (PP (IN After) (S (VP (VBG going) (NP (RB back) (JJ everyday)) (PP (IN for) (NP (NP (DT a) (NN week)) (PP (TO to) (NP (NNP Verizon)))))))) (NP (PRP they)) (VP (VBP are) (VP (VBG telling) (NP (PRP me)) (SBAR (IN that) (S (NP (PRP$ my) (NN finger) (NN tempature)) (VP (VP (VBZ is) (PP (TO to) (ADJP (JJ high)))) (CC and) (VP (VBZ does) (RB n't) (VP (VB work) (ADVP (RB well)) (PP (IN with) (NP (DT the) (NN touchscreen) (NN pad)))))))))) (. .)))
+(ROOT (S (ADVP (JJ Funny)) (NP (PRP I)) (VP (VBP 'm) (VP (NN typing) (NP (NP (DT this)) (PP (IN on) (NP (PRP$ my) (JJ new) (NNP IPad)))))) (. .)))
+(ROOT (S (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG taking) (PRT (RP back)) (NP (PRP$ my) (NN droid))))) (CC and) (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB already)) (VP (VBN gone) (ADVP (RB back)) (PP (TO to) (NP (PRP$ my) (NNP Blackberry)))))) (. .)))
+(ROOT (NP (NN Bummer) (. .)))
+(ROOT (PP (NP (ADJP (RB Very) (JJ disappointed)) (NNP Sad)) (IN in) (NP (NNP LA))))

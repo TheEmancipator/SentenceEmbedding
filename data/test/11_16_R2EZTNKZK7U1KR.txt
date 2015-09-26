@@ -1,0 +1,7 @@
+(ROOT (S (NP (PRP I)) (VP (VBD bought) (NP (DT this) (NN camera)) (S (VP (VBG thinking) (SBAR (IN that) (S (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (JJ great))))))))) (. .)))
+(ROOT (S (ADVP (RB However)) (NP (PRP I)) (VP (VBD was) (ADJP (RB terribly) (JJ incorrect))) (. .)))
+(ROOT (S (SBAR (RB Even) (IN though) (S (NP (DT this) (NN camera)) (VP (VBZ has) (NP (NP (JJ cool) (NNS features)) (SBAR (IN like) (S (NP (EX there)) (VP (VBP touch) (NP (NN screen))))))))) (, ,) (NP (PRP it)) (VP (VBZ takes) (SBAR (S (NP (NP (JJ terrible) (NNS pictures)) (CC and) (NP (NP (DT some) (NNS features)) (PP (IN like) (NP (DT the) (NN smile) (NN recognition))))) (VP (VBZ does) (RB n't) (ADVP (RB even)) (VP (VB work)))))) (. .)))
+(ROOT (S (PP (IN In) (NP (NN addition))) (NP (NP (DT the) (NN battery) (NN life) (JJ last)) (PP (IN about) (NP (NP (CD 5) (NNS hours)) (CC and) (NP (PRP it))))) (VP (VBZ takes) (S (NP (QP (RB about) (CD 4))) (VP (TO to) (VP (VB charge) (NP (PRP it)))))) (. .)))
+(ROOT (S (ADVP (RB Finally)) (NP (RB there) (NN camera)) (VP (VBZ does) (RB n't) (ADVP (RB even)) (VP (VB come) (PP (IN with) (NP (NNS directions))))) (. .)))
+(ROOT (S (NP (NP (DT All)) (SBAR (S (NP (PRP it)) (VP (VBZ comes) (PP (IN with)))))) (VP (VBZ is) (NP (NP (DT a) (JJ quick) (NN review)) (SBAR (WHNP (WDT that)) (S (VP (VBZ tells) (S (NP (DT the) (NN owner)) (ADJP (RB almost) (NN nothing)))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP am) (ADJP (JJ Sorry) (SBAR (S (NP (PRP I)) (VP (VBD made) (NP (DT this) (NN purchase)))))))))

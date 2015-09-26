@@ -1,0 +1,4 @@
+(ROOT (S (NP (DT This)) (VP (VBZ makes) (NP (NP (DT a) (JJ good) (NN cup)) (PP (IN of) (NP (JJ green) (NN tea))))) (. .)))
+(ROOT (S (NP (DT The) (JJ mild) (NN flavor)) (VP (VBZ is) (ADJP (ADJP (JJ refreshing)) (CC and) (ADJP (RB not) (RB too) (JJ bitter)))) (. .)))
+(ROOT (S (S (NP (PRP I)) (ADVP (RB typically)) (VP (VBP make) (NP (NP (DT this)) (PP (IN as) (NP (DT a) (JJ hot) (NN beverage)))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ is) (ADVP (RB also)) (NP (ADJP (RB very) (JJ good)) (NN cold)))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP prefer) (S (NP (DT this) (NN tea)) (ADJP (JJ unsweetened)))) (. .)))

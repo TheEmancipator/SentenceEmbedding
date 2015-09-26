@@ -1,0 +1,6 @@
+(ROOT (S (NP (NNP Molly)) (ADVP (RB really)) (VP (VBZ shines) (PP (IN through) (PP (IN on) (NP (DT this) (NN movie))))) (. .)))
+(ROOT (S (NP (PRP You)) (ADVP (RB just)) (VP (VB begin) (S (VP (TO to) (VP (VB realize) (SBAR (WHADVP (WRB how) (ADJP (JJ talented))) (S (NP (PRP she)) (ADVP (RB really)) (VP (VBZ is)))))))) (. .)))
+(ROOT (S (NP (PRP She)) (VP (MD can) (VP (VB be) (ADJP (JJ sexy) (, ,) (JJ sultry) (, ,) (JJ emotional) (CC and) (JJ funny)))) (. .)))
+(ROOT (S (NP (PRP$ Her) (NN acting)) (VP (VBZ is) (UCP (ADJP (JJ underated)) (CC and) (NP (NP (DT the) (NN movie)) (SBAR (S (NP (PRP itself)) (VP (VBZ is) (ADJP (JJ excellent)))))))) (. .)))
+(ROOT (S (NP (NP (DT This) (NN movie)) (, ,) (ADJP (IN as) (PP (IN with) (NP (DT the) (NNP Breakfast) (NNP Club)))) (, ,)) (VP (VBZ is) (NP (NP (DT an) (JJ excellent) (NN learning) (NN lesson)) (PP (IN for) (NP (NNS teens))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBD recommed) (S (NP (DT this) (NN movie)) (ADJP (RB highly) (PP (TO to) (NP (DT all))))) (, ,) (SBAR (IN as) (S (NP (NN time)) (VP (VBZ has) (RB not) (VP (VBN diminished) (NP (DT the) (NN message)) (SBAR (IN that) (S (NP (DT this) (JJ great) (NN film)) (VP (VBZ sends) (PRT (RP out)))))))))) (. .)))

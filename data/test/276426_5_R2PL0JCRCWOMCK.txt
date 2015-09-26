@@ -1,0 +1,2 @@
+(ROOT (S (NP (PRP I)) (VP (VBP see) (S (NP (NP (DT the) (NN popularity)) (PP (IN of) (NP (NNP Twilight)))) (VP (VBG being) (NP (NP (JJ human) (POS 's)) (NN weakness))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP expect) (ADJP (ADJP (JJR better)) (SBAR (IN because) (S (NP (PRP we)) (VP (VBP 're) (ADJP (ADJP (JJR better)) (PP (IN than) (NP (NP (DT this) (JJ codependent) (, ,) (JJ whining) (, ,) (JJ immature) (NN fantasy)) (VP (VBN designed) (S (VP (TO to) (VP (VB appeal) (PP (TO to) (NP (NP (DT the) (JJS worst)) (PP (IN of) (NP (NNS people))))))))))))))))) (. .)))

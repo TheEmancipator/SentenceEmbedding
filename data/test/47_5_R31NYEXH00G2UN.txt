@@ -1,0 +1,4 @@
+(ROOT (S (NP (DT This) (NN gift)) (VP (VBZ is) (ADJP (JJ perfect) (PP (IN for) (NP (NN anyone))))) (. .)))
+(ROOT (S (PP (IN After) (NP (DT all))) (, ,) (NP (NN bacon)) (VP (VBZ is) (NP (NP (DT the) (NN world) (POS 's)) (JJ perfect) (NN accessory) (NN meat))) (. .)))
+(ROOT (S (S (NP (PRP I)) (VP (VBD gave) (NP (DT these)) (PP (IN as) (S (VP (VBG stocking) (NP (NNS stuffers)) (PP (IN at) (NP (PRP$ my) (NN family))) (NP-TMP (NNP Christmas))))))) (, ,) (CC and) (S (NP (PRP they)) (VP (VBD were) (NP (DT THE) (JJ favorite) (NN item)))) (. .)))
+(ROOT (S (VP (VP (VBZ Looks) (ADJP (JJ delicious))) (CC and) (VP (VBZ is) (ADJP (JJ functional)))) (. .)))

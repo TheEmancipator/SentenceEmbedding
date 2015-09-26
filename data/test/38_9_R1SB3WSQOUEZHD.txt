@@ -1,0 +1,2 @@
+(ROOT (S (NP (PRP I)) (VP (VP (VBD got) (NP (DT this) (NN product)) (PP (IN as) (NP (DT a) (`` ``) (NN gift) ('' '')))) (CC and) (VP (VBD was) (ADJP (RB very) (JJ surprised)))) (. !)))
+(ROOT (S (PP (IN For) (NP (RB only) (CD 99cents))) (NP (PRP I)) (VP (VBP 'm) (VP (VBG thinking) (PP (IN about) (S (VP (VBG getting) (NP (PRP them)) (SBAR (IN as) (S (NP (NN party)) (VP (VBZ favors) (NP (NN :-RRB-))))))))))))

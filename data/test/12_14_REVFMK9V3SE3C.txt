@@ -1,0 +1,2 @@
+(ROOT (NP (NP (NN Spore) (NNS breaks)) (NP (NNP Windows) (NNP Media) (NNP Center)) (. .)))
+(ROOT (S (SBAR (RB Once) (S (NP (NNP Securom)) (VP (VBD was) (VP (VBN installed))))) (, ,) (NP (PRP I)) (VP (VBP have) (RB n't) (VP (VBN been) (ADJP (JJ able) (S (VP (TO to) (VP (VB record) (NP (DT any) (NN television)) (PP (IN with) (NP (PRP$ my) (NN computer))))))))) (. .)))

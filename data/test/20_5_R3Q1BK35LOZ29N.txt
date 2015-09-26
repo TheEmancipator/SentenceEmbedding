@@ -1,0 +1,6 @@
+(ROOT (S (NP (DT This) (NN movie)) (VP (VBZ is) (ADJP (JJ awesome))) (. .)))
+(ROOT (S (PP (IN After) (NP (JJ careful) (NN consideration))) (, ,) (S (NP (JJ ive)) (VP (VBD decided) (SBAR (IN that) (S (NP (DT no) (NN person)) (VP (MD could) (ADVP (RB possibly)) (VP (VB make) (NP (DT a) (NN movie) (NNP THIS) (NNP BAD)) (SBAR (IN unless) (S (NP (DT that)) (VP (VBZ is) (NP (PRP$ their) (NN goal))))))))))) (: ;) (CC and) (S (NP (NN boy)) (VP (VBZ does) (S (NP (NNP Uwe) (NNP Boll)) (VP (VB deliver))))) (. .)))
+(ROOT (S (NP (NN Everything)) (VP (VBZ is) (UCP (ADJP (JJ perfect)) (: :) (NP (NP (DT the) (NN dialogue)) (, ,) (NP (DT the) (NN cast)) (, ,) (NP (NN cinematography)) (, ,) (NP (NN music)) (, ,) (NP (JJ sound) (NNS effects)) (, ,) (NP (NN wow))))) (. .)))
+(ROOT (UCP (NP (NP (NNP Wrap)) (NP (NP (DT these) (NNS elements)) (PP (IN into) (NP (DT an) (JJ incoherent) (NN storyline))))) (CC and) (S (NP (PRP you)) (VP (VBP have) (NP (NP (PDT all) (DT the) (NNS ingredients)) (PP (IN for) (NP (NP (DT an) (JJ alcohol-fueled) (NN film) (NN party)) (PP (IN of) (NP (NN epic) (NNS proportions)))))))) (. .)))
+(ROOT (S (NP (NP (DT A) (NN movie)) (ADJP (RB so) (JJ bad) (SBAR (S (NP (PRP it)) (VP (VBZ has) (S (VP (TO to) (VP (VB be) (VP (VBN seen) (S (VP (TO to)))))))))))) (VP (VBN believed)) (. .)))
+(ROOT (NP (NP (NNP MARCO)) (NP (CD !!!))))

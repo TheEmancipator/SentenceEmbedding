@@ -1,0 +1,2 @@
+(ROOT (S (ADVP (RB Sometimes)) (NP (NP (DT a) (NN novel)) (SBAR (WHNP (WDT that)) (S (VP (VBZ jumps) (S (S (ADVP (RB back) (CC and) (RB forth)) (PP (IN in) (NP (NN time) (NNS works)))) (CC and) (S (ADVP (RB sometimes)) (NP (PRP it)))))))) (VP (VBZ does) (RB n't)) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VP (VBD found) (S (NP (DT this) (NN book)) (ADJP (RB very) (JJ difficult)) (S (VP (TO to) (VP (VB read)))))) (CC and) (VP (VBD did) (RB n't) (VP (VB enjoy) (NP (PRP it)) (ADVP (IN at) (DT all))))) (. .)))

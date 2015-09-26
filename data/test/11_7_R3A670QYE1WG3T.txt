@@ -1,0 +1,2 @@
+(ROOT (S (NP (NP (PRP$ My) (CD 2) (NN year)) (ADJP (JJ old))) (VP (VBZ has) (VP (VBN tried) (NP (NP (DT all) (NNS flavors) (CC and) (NNS screams)) (FRAG (INTJ (`` ``) (UH No) (. !) ('' ''))))))))
+(ROOT (S (SBAR (WHADVP (WRB When)) (S (NP (PRP she)) (VP (VBZ sees) (ADJP (JJ these.She))))) (VP (VBZ loves) (NP (DT the) (NNP Plum) (NNPS Tots)) (ADVP (NP (JJ fruity) (NNS Fingerfuls)) (IN though))) (. .)))

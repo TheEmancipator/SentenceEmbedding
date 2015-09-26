@@ -1,0 +1,4 @@
+(ROOT (S (NP (PRP I)) (VP (VBP am) (ADJP (RB very) (JJ happy) (PP (IN with) (NP (DT the) (NN purchase))))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (VP (VBN made) (PP (IN of) (NP (NP (DT the) (JJR thicker) (NN car) (NN cover)) (PP (IN like) (NP (NP (NN material)) (PP (RB instead) (IN of) (NP (JJ thin) (NN nylon))))))))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADJP (DT all) (JJ black) (PP (IN in) (NP (NN color))) (PP (IN with) (NP (NP (DT a) (JJ nice) (VBN printed) (NN logo)) (PP (IN in) (NP (DT the) (NN front))))))) (. .)))
+(ROOT (S (VP (VBZ Fits) (NP (PRP$ my) (NNP Kawasaki) (NNP Ninja)) (PP (RB just) (NP (NN fine)))) (. .)))

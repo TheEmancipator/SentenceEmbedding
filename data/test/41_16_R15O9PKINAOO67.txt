@@ -1,0 +1,5 @@
+(ROOT (S (IN so) (NP (PRP I)) (VP (VBD had) (S (VP (TO to) (VP (VB give) (NP (PRP it)) (NP (DT a) (NN read)))))) (. .)))
+(ROOT (FRAG (FRAG (X (ADVP (RB Actually)) (NP (RB quite) (DT a) (NN fun))) (NP (NN book))) (: -) (FRAG (NP (DT some) (JJ unexpected) (NNS things)) (: -) (FRAG (RB not) (ADJP (RB completely) (JJ predictable))) (. .))))
+(ROOT (S (NP (NP (DT A) (JJ little) (JJ obvious)) (PP (IN in) (NP (PRP it)))) (VP (VBZ 's) (UCP (VP (VBG moralizing)) (, ,) (CC but) (PP (RB not) (IN in) (NP (DT an) (JJ overbearing) (NN way))))) (. .)))
+(ROOT (S (VP (NP (NP (NNP Worth)) (NP-TMP (DT the) (NN time)) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB be) (VP (VBN entertained)))))))))) (. .)))
+(ROOT (S (S (NP-TMP (NP (DT Some) (JJ good) (NN turns-of-phrase)) (CC and) (NP (NNS characters))) (NP (PRP you)) (VP (MD can) (VP (VB care) (ADVP (RB about))))) (, ,) (CC and) (S (NP (DT the) (NN story) (NNS clips)) (PP (IN along) (PP (IN at) (NP (DT a) (JJ good) (NN pace))))) (. .)))

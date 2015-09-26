@@ -1,0 +1,6 @@
+(ROOT (S (NP (DT A) (NN neighbor)) (VP (VBD shared) (NP (DT this) (NN book)) (PP (IN with) (NP (PRP me)))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VP (VBD made) (NP (NP (JJ several)) (PP (IN of) (NP (DT the) (JJ easy) (NNS patterns))))) (CC and) (VP (VBD fell) (PP (IN in) (NP (NN love))) (PP (IN with) (NP (PRP it))))) (. .)))
+(ROOT (S (NP (PRP We)) (VP (VBD gave) (NP (PRP it)) (SBAR (IN as) (S (S (NP (DT a) (NNP Christmas)) (ADJP (JJ present) (PP (TO to) (NP (JJ several) (NNS friends) (CC and) (NNS relatives))))) (CC and) (S (NP (PRP they)) (VP (VBD were) (ADJP (JJ delighted) (PP (IN with) (NP (PRP it))))))))) (. .)))
+(ROOT (S (NP (DT The) (NNS directions)) (VP (VBP are) (ADJP (JJ easy) (S (VP (TO to) (VP (VB follow)))))) (. .)))
+(ROOT (S (NP (DT This)) (VP (MD would) (VP (VB be) (NP (NP (DT a) (JJ great) (NN project) (NN book)) (PP (IN for) (NP (NP (NNS kids)) (PP (IN for) (NP (NP (JJ cheap) (NN mother) (POS 's)) (NN day) (NNS presents)))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBD loved) (NP (PRP it))) (. !)))

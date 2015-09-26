@@ -1,0 +1,3 @@
+(ROOT (NP (NP (JJS Worst)) (NP (NP (NN book)) (NP (RB ever))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBD had) (NP (NP (PDT all) (DT this) (NN suspense)) (SBAR (WHNP (WDT that)) (S (VP (VBD led) (ADVP (RB absolutely)) (ADVP (RB nowhere))))))) (. .)))
+(ROOT (S (RB So) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG looking) (PP (IN for) (NP (NP (JJ extreme) (NN disappointment)) (, ,) (VP (VBP look) (ADVP (DT no) (RB further))))))))) (, ,) (NP (PRP you)) (VP (MD can) (VP (VB find) (NP (PRP it)) (PP (IN in) (NP (DT this) (NN book))))) (. .)))

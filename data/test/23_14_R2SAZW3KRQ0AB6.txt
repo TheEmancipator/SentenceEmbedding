@@ -1,0 +1,6 @@
+(ROOT (S (NP (PRP I)) (VP (VP (VBD bought) (NP (DT this) (NN item)) (PP (IN in) (NP (NP (NN case)) (PP (IN of) (SBAR (RB ever) (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (DT a) (NN car) (NN accident)))))))))) (CC and) (VP (VBD lost) (NP (DT an) (JJ important) (NN organ)))) (. .)))
+(ROOT (S (S (NP (PRP I)) (VP (VBP have) (VP (VBN used) (NP (PRP it)) (PP (IN on) (NP (PRP$ my) (JJ neutered) (NNS dogs) (CC and) (NNS cats)))))) (, ,) (CC but) (S (NP (NN nothing)) (VP (VBZ has) (VP (VBN grown) (ADVP (RB back))))) (. .)))
+(ROOT (SQ (VBZ Is) (NP (DT this)) (NP (NP (WDT what) (NX (NNP John))) (SBAR (S (NP (NNP Wayne) (NNP Bobbit)) (VP (VBD used) (S (VP (TO to) (VP (VB regenerate) (NP (PRP$ his) (NN organ))))))))) (. ?)))
+(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP buy) (NP (DT this))))) (, ,) (NP (NP (DT the) (NN organ)) (SBAR (S (NP (PRP you)) (VP (VBP have) (VP (VBN lost)))))) (VP (VBZ is) (NP (PRP$ your) (NN brain))) (. .)))
+(ROOT (S (NP (EX There)) (VP (VBZ is) (NP (NP (DT no) (NN chance)) (PP (IN of) (S (VP (VBG getting) (ADVP (IN that) (RB back))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP give) (NP (PRP it)) (NP (NP (CD one) (NN star)) (, ,) (ADVP (RB just))) (PP (IN for) (S (VP (VBG having) (S (NP (DT the) (NN nerve)) (VP (TO to) (VP (VB make) (NP (PRP$ its) (NNS claims))))))))) (. .)))

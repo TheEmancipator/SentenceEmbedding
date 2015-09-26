@@ -1,0 +1,5 @@
+(ROOT (S (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB actually)) (S (VP (ADVP (RB never)) (VB read) (NP (DT this) (RB before)))))) (, ,) (CC but) (S (SBAR (IN since) (S (NP (PRP I)) (VP (MD could) (VP (VB get) (NP (PRP it)) (PP (IN for) (NP (NP (JJ free)) (PP (IN on) (NP (PRP$ my) (NNP Kindle))))))))) (, ,) (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP it)) (VP (VBD was) (PP (IN worth) (NP (DT a) (NN try)))))))) (. .)))
+(ROOT (ADVP (RB So) (RB right) (. !)))
+(ROOT (S (NP (PRP It)) (VP (VBZ deserves) (NP (PRP$ its) (NN reputation))) (. .)))
+(ROOT (NP (NP (DT A) (JJ swashbuckling) (NN tale)) (PP (IN of) (NP (NN intrigue) (CC and) (NN fun))) (. .)))
+(ROOT (S (ADVP (ADVP (RB Truly)) (PP (IN worth) (NP (DT the) (NN time)))) (NP (PRP it)) (VP (VBD took) (S (VP (TO to) (VP (VB read) (NP (PRP it)))))) (. .)))

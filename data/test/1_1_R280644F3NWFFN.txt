@@ -1,0 +1,7 @@
+(ROOT (S (NP (PRP I)) (VP (VBD did) (VP (VB buy) (NP (DT this) (NN book)))) (. .)))
+(ROOT (S (S (NP (NNS Liberals)) (VP (MD will) (RB not) (VP (VB buy) (NP (DT this) (NN book))))) (, ,) (IN so) (S (NP (PRP$ their) (NN opinion)) (VP (VBZ is) (ADJP (JJ worthless)))) (. .)))
+(ROOT (S (ADVP (IN Besides)) (NP (NP (JJS most)) (PP (IN of) (NP (PRP them)))) (VP (VBP cant) (RB even) (VP (VB read) (ADVP (RB clearly) (RB enough)) (S (VP (TO to) (VP (VB get) (NP (DT the) (NN joke))))))) (. .)))
+(ROOT (S (NP (NP (NN Anger) (CC and) (NN frustration)) (SBAR (WHNP (WDT that)) (S (S (NP (NNPS Conservatives)) (VP (VBP are) (ADJP (JJ clever) (CC and) (JJ witty)) (PP (IN with) (NP (NP (DT a) (NN dash)) (PP (IN of) (NP (NN smarta)) (X (SYM **))))))) (, ,) (CC and) (S (NP (PRP they)) (VP (VBP resort) (PP (TO to) (S (VP (VBG reviewing) (NP (DT a) (NN book)) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP know) (S (NP (PRP they)) (ADJP (JJ wouldnt)))))))))))))) (VP (VBP spend) (NP (DT a) (NN penny)) (PP (IN on))) (. .)))
+(ROOT (S (ADVP (IN Besides)) (NP (PRP it)) (VP (MD would) (VP (VB take) (ADJP (RB too) (JJ much) (PP (IN of) (NP (PRP$ their) (NN welfare) (NN check)))) (S (VP (TO to) (VP (VB buy) (NP (PRP it))))))) (. !)))
+(ROOT (S (VP (VBN Quit) (S (VP (VBG trying) (S (VP (TO to) (VP (VB sabotage) (NP (DT this) (NN book)))))))) (. .)))
+(ROOT (S (ADVP (RB Just)) (VP (VB go) (ADVP (RB away))) (. .)))

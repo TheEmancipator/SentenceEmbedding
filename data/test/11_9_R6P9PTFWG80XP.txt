@@ -1,0 +1,5 @@
+(ROOT (S (S (NP (PRP We)) (VP (VBD borrowed) (NP (PRP it)) (PP (IN from) (NP (DT the) (NN library))) (S (VP (TO to) (VP (VB try) (NP (PRP it)) (PRT (RP out))))))) (, ,) (CC and) (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (JJ big) (NN hit)))) (. .)))
+(ROOT (S (NP (NP (PRP$ My) (NN son)) (, ,) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (NP (CD 4 1/2))))) (, ,)) (VP (VBZ loves) (NP (NP (DT this) (NN game)) (, ,) (ADJP (RB almost) (RB too) (JJ much)))) (. .)))
+(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT all)) (SBAR (S (NP (PRP he)) (VP (VP (VBZ thinks) (PP (IN about))) (CC and) (VP (VBZ wants) (S (VP (TO to) (VP (VB do)))))))))) (. !)))
+(ROOT (S (NP (PRP He)) (VP (VBZ wants) (S (VP (TO to) (VP (VB keep) (NP (PRP it)) (ADVP (RB forever)))))) (. .)))
+(ROOT (S (NP (EX There)) (VP (VBP are) (NP (NP (NNS lots)) (PP (IN of) (NP (NP (JJ funny) (NNS moments)) (PP (IN during) (NP (NP (DT the) (NN game)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VP (VBP make) (S (NP (PRP me)) (VP (NN laugh)))) (, ,) (CC but) (VP (VB go) (ADVP (RB right)) (PP (IN over) (NP (PRP$ his) (NN head))))))))))))) (. .)))

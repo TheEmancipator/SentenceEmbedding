@@ -1,0 +1,4 @@
+(ROOT (S (IN So) (S (NP (PRP I)) (VP (VBD downloaded) (NP (DT this)) (PP (IN from) (NP (NN adobe))))) (, ,) (CC and) (S (NP (PRP$ its)) (ADJP (JJ horrible))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBZ becomes) (S (NP (NN mission)) (ADJP (JJ impossible) (S (VP (TO to) (VP (VB do) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NP (DT the) (JJS simplest) (NNS things)) (SBAR (S (NP (PRP I)) (VP (MD could) (VP (VB do) (PP (IN in) (NP (NN CS4)))))))))))))))) (. .)))
+(ROOT (S (CC Plus) (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (JJ nice)) (SBAR (IN if) (S (NP (PRP it)) (VP (VBD did) (RB n't) (VP (VB crash) (NP (DT every) (JJ other) (NN hour)))))))) (. .)))
+(ROOT (S (CC And) (NP (PRP I)) (VP (VBP 'm) (VP (VBG running) (PRT (RP off)) (NP (DT a) (JJ high) (NN performance) (NN computer)))) (. .)))

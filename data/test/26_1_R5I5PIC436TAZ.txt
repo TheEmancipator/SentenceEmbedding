@@ -1,0 +1,4 @@
+(ROOT (S (S (NP (PRP$ My) (NN name)) (VP (VBZ is) (NP (NNP Shelby)))) (CC and) (S (NP (DT this)) (VP (VBZ is) (NP (NP (PRP$ my) (NN video) (NN review)) (PP (IN of) (NP (NP (PRP$ my) (JJ 5-month-old) (NN son)) (VP (VBG playing) (PP (IN with) (NP (NNP Sophie) (DT the) (NNP Giraffe))))))))) (. .)))
+(ROOT (S (NP (PRP We)) (VP (VBP love) (NP (NNP Sophie))) (. .)))
+(ROOT (S (S (NP (PRP She)) (VP (VBZ is) (ADJP (RB very) (JJ well-made)))) (CC and) (S (NP (PRP I)) (VP (VBP hope) (S (VP (VBG seeing) (SBAR (S (NP (NP (NNP Sophie)) (PP (IN in) (NP (NN action)))) (VP (MD will) (VP (VB be) (ADJP (JJ helpful) (PP (TO to) (NP (NNS others)))))))))))) (. .)))
+(ROOT (S (ADVP (RB Also)) (, ,) (NP (PRP I)) (VP (VBP think) (S (NP (PRP I)) (VP (VP (VB repeat) (NP (PRP myself)) (PP (NP (DT a) (JJ little)) (IN in) (NP (DT the) (NN video)))) (: --) (VP (ADJP (JJ sorry)) (PP (IN about) (NP (DT that))))))) (. !)))

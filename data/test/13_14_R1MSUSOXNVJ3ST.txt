@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNP Hasselhoff)) (VP (VBZ is) (ADJP (JJ easy) (PP (IN on) (NP (NP (DT the) (NNS eyes)) (, ,) (CC and) (PRN (PP (IN with) (NP (DT this)))) (, ,) (PP (IN on) (NP (DT the) (NNS ears))))))) (. .)))
+(ROOT (NP (NP (JJ Good) (NN show) (NN Mate)) (NP (CD !!))))

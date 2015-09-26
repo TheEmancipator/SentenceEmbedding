@@ -1,0 +1,8 @@
+(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB keep) (ADJP (DT this) (JJ short) (CC and) (JJ sweet)))) (. .)))
+(ROOT (S (NP (PRP We)) (VP (VBD ordered) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT these) (NNS rabbits)) (PP (IN for) (NP (NP (NP (PRP$ our) (NNS children)) (NP (DT this) (NNP Easter))) (CC and) (NP (NN boy)))) (SBAR (WHNP (WDT what)) (S (NP (DT a) (NN surprise)))))))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB NOT)) (NP (DT a) (NN living) (NN rabbit))) (. .)))
+(ROOT (S (S (NP (NN Someone)) (VP (VP (VBZ has) (VP (VBN killed) (NP (DT this) (NN rabbit)))) (CC and) (VP (VBD skinned) (NP (PRP it))))) (, ,) (NP (PRP I)) (VP (VBP suppose) (PP (IN for) (NP (NN eating)))) (. .)))
+(ROOT (S (ADVP (RB Anyway)) (, ,) (S (NP (PRP$ our) (NNS children)) (VP (VBD were) (VP (VBN traumatized)))) (CC and) (S (NP (NNP Easter)) (VP (VBZ is) (RB not) (NP (DT the) (JJ same) (NN holiday)) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD used) (S (VP (TO to) (VP (VB be) (PP (IN for) (NP (PRP us))))))))))) (. .)))
+(ROOT (S (PP (IN On) (NP (DT the) (NN upside))) (, ,) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB have) (S (VP (TO to) (VP (VB fill) (NP (PRP$ their) (NNP Easter) (NNS baskets)) (ADVP (RB anymore)) (SBAR (IN as) (S (NP (PRP we)) (VP (VBD told) (NP (PRP them)) (SBAR (S (NP (DT the) (NNP Easter) (NN bunny)) (VP (VBD was) (VP (VBN killed) (PP (IN by) (NP (NNP Amazon))))))))))))))) (. .)))
+(ROOT (FRAG (NP (NNP P.S.)) (. .)))
+(ROOT (S (NP (DT The) (NN rabbit)) (VP (VBD tasted) (ADJP (RB very) (JJ good))) (. .)))

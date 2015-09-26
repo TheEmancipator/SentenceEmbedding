@@ -1,0 +1,6 @@
+(ROOT (S (NP (PRP I)) (VP (VBP love) (NP (NP (DT the) (NN feel)) (PP (IN of) (NP (DT this) (NN thing))))) (. .)))
+(ROOT (S (CC But) (NP-TMP (RB yes)) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ true) (SBAR (IN that) (S (NP (PRP it)) (NP (JJ wont) (NN callibrate))))) (ADVP (RB well))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VP (VBD took) (NP (DT the) (JJ first) (CD one)) (ADVP (RB back))) (CC and) (VP (VBD replaced) (S (NP (PRP it)) (VP (VBG thinking) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ defective))))))))) (. .)))
+(ROOT (S (ADVP (RB Unfortunately)) (NP (DT the) (JJ next) (NN one)) (VP (VBD was) (ADJP (JJR worse))) (. .)))
+(ROOT (S (NP (DT The) (NN direction) (NN pad)) (VP (VBZ pulls) (PP (TO to) (NP (DT the) (NN left)))) (. .)))
+(ROOT (S (S (NP (PRP You)) (ADVP (RB also)) (VP (VBP have) (S (VP (TO to) (VP (VB download) (NP (NN software)) (PP (IN from) (NP (DT the) (NN Gravis) (NN site)))))))) (, ,) (CC and) (S (SBAR (IN though) (S (NP (DT this)) (VP (VBZ improves) (NP (NNS things)) (ADVP (RB somewhat))))) (, ,) (NP (DT the) (NN D-PAD)) (VP (VBZ remains) (NP (JJ faulty)))) (. .)))

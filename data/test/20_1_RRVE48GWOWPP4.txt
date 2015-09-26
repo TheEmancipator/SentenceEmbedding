@@ -1,0 +1,3 @@
+(ROOT (S (S (NP (NP (JJ Bought) (DT this)) (PP (IN for) (NP (NP (PRP$ my) (NN son)) (, ,) (NP (DT the) (NN detail))))) (VP (VBZ is) (ADJP (JJ great)))) (CC and) (S (NP (PRP he)) (VP (VBZ loves) (NP (PRP it)))) (. .)))
+(ROOT (S (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ third) (NN shirt)) (PP (IN from) (NP (DT these) (JJ manufactures/artist))) (SBAR (WHNP (WDT whatever)) (, ,) (S (NP (PRP I)) (VP (VBP have) (VP (VBN bought)))))))) (, ,) (NP (NN ALL)) (PP (IN Of) (NP (PRP them))) (VP (VBP have) (VP (VBN been) (ADJP (JJ fantastic)) (PP (IN in) (NP (NN quality) (CC and) (NN detail))))) (. .)))
+(ROOT (S (S (VP (MD Would) (VP (VB buy) (ADVP (RB again))))) (, ,) (VP (MD would) (VP (VB recommend) (PP (TO to) (NP (NNS others))))) (. .)))

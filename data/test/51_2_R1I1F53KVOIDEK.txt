@@ -1,0 +1,2 @@
+(ROOT (S (NP (PRP It)) (VP (VBD worked) (PP (IN for) (NP (PRP me))) (PP (IN on) (NP (NN skin) (NNS tags)))) (. .)))
+(ROOT (S (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD followed) (NP (DT the) (NNS directions)))) (, ,) (S (NP (PRP it)) (VP (VBD took) (NP (CD one)) (ADVP (RB off) (RB right) (RB away)))) (, ,) (S (NP (DT the) (JJ other) (CD one)) (VP (VBD took) (NP (CD two) (NNS applications)))) (. .)))

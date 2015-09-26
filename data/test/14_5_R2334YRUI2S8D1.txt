@@ -1,0 +1,3 @@
+(ROOT (NP (JJ terrible) (NN swill) (. .)))
+(ROOT (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VB belive) (SBAR (S (NP (DT this)) (VP (VBZ is) (PP (IN from) (NP (NP (DT the) (NN company)) (SBAR (WHNP (WDT that)) (S (VP (VBZ WANTS) (S (VP (TO to) (VP (VB sell) (NP (PRP you)) (NP (PRP$ their) (NN coffee) (NN maker))))))))))))))) (. .)))
+(ROOT (S (VP (VB Try) (NP (NP (DT the) (NNP Millstone)) (CC or) (SBAR (IN if) (S (NP (PRP you)) (VP (MD can) (VP (VB find) (S (NP (PRP it)) (NP (DT the) (NN Target) (NNS brands))) (ADVP (RB instead)))))))) (. .)))

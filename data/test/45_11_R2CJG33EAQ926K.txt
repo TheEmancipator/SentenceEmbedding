@@ -1,0 +1,3 @@
+(ROOT (FRAG (SBAR (WHNP (WP Who)) (S (VP (MD would) (VP (VB have) (VP (VBN thought) (SBAR (IN that) (S (NP (NN chrome) (NN metal)) (VP (MD would) (VP (VB make) (NP (PDT such) (DT an) (JJ outstanding) (NN instrument))))))))))) (. !)))
+(ROOT (S (CC And) (S (VP (TO to) (VP (VB think)))) (, ,) (S (NP (NP (DT the) (JJ wooden) (CD one)) (SBAR (S (NP (PRP I)) (VP (VBP have) (ADVP (RB always)) (VP (VBN used)))))) (VP (MD could) (VP (VB be) (VP (VBN replaced))))) (. !)))
+(ROOT (NP (NP (NN NO)) (NP (JJR MORE) (NNS SPLINTERS)) (. !)))

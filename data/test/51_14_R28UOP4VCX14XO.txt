@@ -1,0 +1,8 @@
+(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (VP (VBG following) (NP (DT these) (NNS guys)) (SBAR (IN since) (S (NP (PRP$ their) (NNP Tom)) (VP (VBZ Goes) (PP (TO To) (NP (DT The) (NNP Mayor) (NNS days))))))))) (. .)))
+(ROOT (S (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (PRP they)) (VP (VBP 're) (DT both) (ADJP (JJ brilliant))))))) (CC and) (ADVP (RB obviously)) (S (NP (NP (DT a) (NN host)) (PP (IN of) (NP (NP (NNS celebrities)) (NP (NP (DT the) (NN likes)) (PP (IN of) (NP (NP (NNP John) (NNP C.) (NNP Reilly)) (, ,) (NP (NNP Jeff) (NNP Goldblum)) (CC and) (NP (NNP Patten) (NNP Oswald)))))))) (VP (VB think) (ADVP (RB so) (RB too)))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (MD can) (VP (VB understand) (SBAR (IN though) (WHADVP (WRB how)) (S (NP (DT some) (NNS people)) (VP (MD would) (RB n't) (VP (VB like) (NP (PRP it)))))))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (DT those) (NN love) (PRP it))))) (CC or) (VP (VB hate) (SBAR (S (NP (PRP it)) (VP (VBZ shows)))))) (. .)))
+(ROOT (S (S (NP (NNP Tom)) (VP (VBZ Goes) (PP (TO To) (NP (NP (DT The) (NNP Mayor)) (SBAR (S (VP (VBD was) (ADJP (JJ great))))))))) (CC but) (S (NP (JJ Awesome) (NN Show)) (VP (VBZ is) (PP (IN on) (NP (DT a) (JJ whole) (JJ new) (NN level))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP am) (ADJP (RB hopelessly) (VBN addicted))) (. .)))
+(ROOT (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD heard) (SBAR (S (NP (PRP it)) (VP (VBD got) (VP (VBN picked) (PRT (RP up)) (PP (IN for) (NP (DT another) (CD 3) (NNS seasons))) (PP (IN by) (NP (NNP Cartoon) (NNP Network)))))))) (. .)))
+(ROOT (S (VP (VB Thank) (S (NP (PRP you)) (NP (NNP Lord) (CD !!!))))))

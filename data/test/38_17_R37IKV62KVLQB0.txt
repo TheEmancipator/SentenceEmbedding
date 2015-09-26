@@ -1,0 +1,3 @@
+(ROOT (FRAG (ADJP (RB Very) (JJ comfortable)) (S (VP (TO to) (VP (VP (VB wear)) (CC and) (VP (VBZ does) (RB n't) (VP (VB ride) (PRT (RP up)) (PP (IN like) (NP (NP (JJ many) (NNS camisoles)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN tried)))))))))))) (. .)))
+(ROOT (S (ADVP (RB Also)) (VP (VBZ is) (ADVP (JJR longer) (IN than))) (NP (NP (JJS most)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN tried)))))) (. .)))
+(ROOT (S (VP (MD Would) (ADVP (RB definitely)) (VP (VB recommend))) (. .)))

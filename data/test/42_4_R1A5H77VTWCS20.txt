@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (DT This) (NN book)) (VP (VBZ is) (ADJP (RB really) (JJ beautiful) (SBAR (S (NP (DT the) (NNS scenes)) (VP (VBP are) (PP (PP (IN like) (NP (DT a) (JJ gentle) (NN lullaby))) (CC and) (PP (TO to) (NP (NN boot))) (NP (PRP$ its) (JJ educational))))))))) (NP (PRP I)) (VP (VBP recommend) (NP (DT all) (NNP Thomas) (NNPS Lockers) (NNS books))) (. !)))

@@ -1,0 +1,7 @@
+(ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBN concerned) (SBAR (IN that) (S (, ,) (PP (VBN given) (NP (DT the) (NN price))) (, ,) (NP (PRP it)) (VP (MD would) (VP (VB be) (ADJP (JJ cheap)))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBD was) (ADVP (RB happily)) (ADJP (JJ surprised))) (. !)))
+(ROOT (S (S (NP (DT The) (NNS rings)) (VP (VBP are) (VP (VBN machined)))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ looks) (NP (JJ terrific)))) (. .)))
+(ROOT (S (NP (PRP You)) (VP (MD can) (VP (VB expect) (S (VP (TO to) (VP (VB pay) (NP (CD three) (NNS times)) (NP (NP (DT the) (NN price)) (PP (IN for) (NP (NP (DT a) (JJ similar) (NN piece)) (PP (IN on) (NP (JJ other) (NNS sites))))))))))) (. .)))
+(ROOT (FRAG (ADJP (ADJP (RB Probably) (RB too) (JJ small)) (PP (IN for) (NP (NP (NN someone)) (PP (IN over) (NP (DT a) (NN size) (`` ``) (JJ large) ('' '')))))) (, ,) (SBAR (IN unless) (S (NP (NP (JJ slim)) (PP (IN of))) (VP (VB build)))) (. .)))
+(ROOT (S (S (NP (DT The) (NNS rings)) (VP (VBP are) (NP (NN steel)))) (, ,) (IN so) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ heavy)))) (. !)))
+(ROOT (S (NP (PRP I)) (VP (VBP recommend) (NP (PRP it)) (ADVP (RB highly))) (. .)))

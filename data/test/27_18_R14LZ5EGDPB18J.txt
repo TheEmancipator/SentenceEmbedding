@@ -1,0 +1,2 @@
+(ROOT (FRAG (ADVP (RB Really) (PP (IN like) (NP (NP (DT this) (NN movie)) (CC and) (NP (PRP$ its) (NN sequeal))))) (NP (CD 10.5) (NN apocalypse)) (. .)))
+(ROOT (NP (NP (CD One)) (PP (IN of) (NP (NP (DT the) (JJS best) (NN earthquake) (NNS movies)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (VP (VBN seen)))))))))

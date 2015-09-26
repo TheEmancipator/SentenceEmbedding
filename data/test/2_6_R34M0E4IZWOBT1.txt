@@ -1,0 +1,4 @@
+(ROOT (S (NP (PRP I)) (VP (VP (VBD ordered) (NP (CD 5) (NNS bags))) (CC and) (VP (VB spread) (NP (PRP it)) (PP (DT all) (IN in) (NP (ADJP (RB newly) (S (VP (VBN tilled)))) (NN ground))))) (. .)))
+(ROOT (S (S (NP (PRP I)) (VP (VBD watered) (ADVP (RB regularly)))) (CC and) (ADVP (RB still)) (S (NP (NP (RB not) (CD one) (JJ single) (NN blade)) (PP (IN of) (NP (NN grass)))) (VP (VBZ has) (VP (VBN grown)))) (. .)))
+(ROOT (ADJP (RB Perhaps) (SBAR (S (NP (PRP it)) (VP (VBZ grows) (PP (IN in) (NP (NP (NNP Canada)) (CONJP (CC but) (RB not)) (NP (NNP Washington) (NNP State)))) (PP (IN !!)))))))
+(ROOT (S (VP (MD Would) (RB not) (VP (VB waste) (NP (PRP$ my) (NN money)) (ADVP (RB again)))) (. .)))

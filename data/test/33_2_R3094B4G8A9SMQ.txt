@@ -1,0 +1,2 @@
+(ROOT (S (NP (NP (NNP SO) (NNP GLAD)) (NP (DT this) (NN product))) (VP (VBZ is) (NP (JJ low) (NN calorie))) (. !)))
+(ROOT (S (PP (IN After) (NP (DT all))) (, ,) (NP (PRP$ my) (NNP Fifi) (NNP Trixiebelle)) (VP (VBZ has) (NP (NP (DT a) (NN hell)) (PP (IN of) (NP (NP (DT a) (NN time)) (VP (VBG keeping) (NP (NP (PRP$ her) (JJ girlish) (NN figure)) (PP (IN on) (NP (DT those) (JJ regular) (NN ole)))) ('' ') (NP (JJ high) (NN calorie) (NN dog) (NNS beers))))))) (. .)))

@@ -1,0 +1,4 @@
+(ROOT (S (NP (NP (CD One) (NN drawback)) (, ,) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD was) (VP (VBN delivered) (NP (DT the) (NN capsule))))))) (VP (VBD had) (NP (NP (DT no) (NN bolt)) (PP (IN on) (NP (DT the) (NN outside))))) (. .)))
+(ROOT (S (CC But) (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ handy)) (, ,) (SBAR (IN so) (S (NP (PRP I)) (VP (VBD installed) (NP (CD one)))))) (. .)))
+(ROOT (S (S (NP (PRP I)) (VP (VBP have) (VP (VBN been) (VP (VBG locking) (NP (DT the) (NN wife) (CC and) (NNS kids)) (PP (IN into) (NP (NP (DT the) (NN chamber)) (PP (IN from) (NP (CD 7pm) (TO to) (CD 7am))))) (NP-TMP (DT every) (NN evening)))))) (, ,) (CC and) (S (NP (NN boy)) (VP (VBP am) (NP (NP (PRP I)) (VP (VBN relaxed))))) (. .)))
+(ROOT (S (NP (DT This)) (ADVP (RB really)) (VP (VBZ works)) (. .)))

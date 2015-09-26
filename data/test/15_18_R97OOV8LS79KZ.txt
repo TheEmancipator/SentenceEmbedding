@@ -1,0 +1,7 @@
+(ROOT (S (VP (VBD Got) (NP (PRP it)) (PP (IN from) (NP (NNP Wal) (NNP Mart))) (PP (IN for) (NP (QP (CD 298) ($ $))))) (. .)))
+(ROOT (S (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ great) (NN netbook) (NNS pros)))) (: -) (S (PP (IN After) (S (VP (VBG uninstalling) (SBAR (S (NP (NP (NNP Google) (NNP Toolbar) (CC and) (NNP McAfee)) (CC and) (NP (JJ other) (JJ useless) (NN software))) (VP (VBD came) (PP (IN with) (NP (DT the) (NN netbook))))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADVP (RB really)) (ADVP (RB fast)))) (. .)))
+(ROOT (S (NP (CD 1) (NN GB)) (VP (VBZ is) (ADJP (RB enough)) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP do) (NP (DT that) (NN cleanup)))))) (. .)))
+(ROOT (NP (: -) (NP (JJR Thinner)) (PP (IN than) (NP (NP (NN D150) (NN model)) (, ,) (NP (ADJP (RB very) (JJ light)) (NN weight)))) (. .)))
+(ROOT (S (: -) (S (NP (NN keyboard)) (VP (VBZ is) (NP (JJ small) (ADJP (RB still) (JJ usable)) (NNS cons)))) (: -) (S (NP (NN touchpad)) (VP (VBZ is) (RB n't) (NP (DT that) (JJ good)))) (, ,) (SBAR (S (NP (NP (NN gesture)) (PP (IN for) (NP (NN scroll)))) (VP (VBZ does) (RB n't) (VP (VB work) (ADVP (RB always)))))) (. .)))
+(ROOT (S (: -) (NP (NN screen)) (VP (VBZ is) (ADJP (JJ glossy) (, ,) (CC but) (JJ usable))) (. .)))
+(ROOT (S (S (NP (PRP I)) (VP (VBP prefer) (NP (JJ glossy) (NN screen)))) (, ,) (NP (DT some) (NNS people)) (VP (MD wo) (RB n't) (VP (VB like) (NP (PRP it)))) (. .)))

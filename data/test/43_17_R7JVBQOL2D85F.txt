@@ -1,0 +1,3 @@
+(ROOT (S (SBAR (WHADVP (WRB When)) (S (NP (PRP I)) (VP (VBD told) (NP (DT the) (NN seller)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP am) (VP (VBG having) (NP (NP (DT the) (JJ funeral) (NN service)) (PP (IN for) (NP (NP (PRP$ my) (NN dad)) (PP (IN in) (NP (QP (JJR less) (IN than) (DT a))))))))))) (NP-TMP (NN week))))) (, ,) (NP (PRP he)) (VP (VBD delivered) (NP (DT the) (NN urn)) (PP (TO to) (NP (PRP me))) (PP (IN in) (NP (NP (CD two) (NNS days)) (PP (IN with) (NP (DT no) (JJ extra) (NN charge)))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP am) (ADJP (RB extremely) (JJ happy) (PP (IN with) (NP (NP (DT the) (NN urn)) (CC and) (NP (DT the) (NN service)))))) (. .)))
+(ROOT (S (ADVP (RB Highly)) (VP (VB recommend)) (. .)))

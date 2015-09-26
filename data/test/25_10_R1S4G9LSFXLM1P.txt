@@ -1,0 +1,2 @@
+(ROOT (S (PP (VBG According) (PP (TO to) (NP (PRP$ my) (NP (NP (NNP Brother) (POS 's)) (NP (NNP Daughter)))))) (, ,) (NP (PRP it)) (VP (VBZ is) (NP (NP (NP (DT the) (JJS best) (NN game) (NN controller)) (SBAR (S (NP (PRP she)) (ADVP (RB ever)) (VP (VBD played) (PP (IN with)))))) (, ,) (NP (DT the) (JJ perfect) (NN color)) (CC and) (NP (NP (NNS lots)) (PP (IN of) (NP (NN fun)))))) (. .)))
+(ROOT (NP (NN RN)))

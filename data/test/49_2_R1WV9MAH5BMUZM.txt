@@ -1,0 +1,4 @@
+(ROOT (S (VP (VB Be) (ADJP (JJ aware) (SBAR (IN that) (S (NP (DT this)) (VP (VBZ is) (RB not) (ADJP (RP out)) (PP (IN until) (NP (NP (JJ next) (NN summer)) (: -) (NP (NNP June) (CD 24))))))))) (. .)))
+(ROOT (S (S (VP (VP (VBD Had) (NP (PRP it)) (PP (IN on) (NP (NN order))) (PP (IN since) (NP (NP (NNP Sept)) (PP (IN for) (NP (NP (DT an) (NNP Xmas)) (ADJP (JJ present))))))) (CC and) (VP (VBP am) (ADJP (JJ disappointed))))) (NP (DT no) (NN release) (NN date)) (VP (VBD was) (VP (VBN listed) (CC or) (VBN given) (PP (IN by) (NP (NNP Amazon))))) (. .)))
+(ROOT (S (VP (NN Ca) (VP (RB n't) (VB wait) (NP (CD !!!))))))
+(ROOT (FRAG (NP (NP (JJ Great) (NN season)) (: -) (NP (NP (JJR better)) (PP (IN than) (NP (CD 1))))) (, ,) (RB even) (PP (IN !!))))

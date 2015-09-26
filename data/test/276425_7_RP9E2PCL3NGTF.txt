@@ -1,0 +1,8 @@
+(ROOT (S (NP (DT This)) (VP (VBZ is) (ADJP (JJ arguable) (PP (IN with) (NP (NP (DT the) (JJS best) (NN gadget)) (SBAR (S (NP (PRP I)) (ADVP (RB ever)) (VP (VBD bought)))))))) (. .)))
+(ROOT (SINV (ADVP (RB Completely)) (VP (VBN changed) (NP (PRP$ my) (NN life) (NN style.This) (NN phone))) (VP (VBZ is)) (NP (NP (DT a) (NN mini-computer) (, ,) (NN camcoder) (, ,) (NN phone) (, ,) (NN music) (NN player) (CC and) (NN offcourse)) (NP (NP (JJ wireless) (NN phone)) (VP (VBN packed) (PP (IN in) (NP (DT a) (JJ tiny) (NN capsule)))))) (. .)))
+(ROOT (S (NP (NP (NNP HTC) (NN Sense) (NN UI)) (PP (IN on) (NP (NP (NN top)) (PP (IN of) (NP (NNP Android)))))) (VP (VBZ is) (ADJP (RB far) (JJR better)) (SBAR (IN than) (S (NP (DT the) (CD one)) (VP (VBZ comes) (PP (IN with) (NP (JJS latest) (NN iPhone4))))))) (. .)))
+(ROOT (S (NP (DT The) (JJ sad) (NN part)) (VP (VBZ is) (, ,) (SBAR (S (NP (JJ poor) (NN apple) (NN fan) (NNS boys)) (VP (VBP do) (RB n't) (VP (VB know) (NP (DT that)) (ADVP (RB yet))))))) (. .)))
+(ROOT (S (PP (ADVP (RB Apart)) (IN from) (NP (NP (DT the) (NNP UI)) (CC &) (NP (NN usability)))) (, ,) (NP (NP (DT the) (NN feature)) (SBAR (S (NP (PRP I)) (VP (VBP like) (ADVP (RBS most)))))) (VP (VBZ is) (NP (NN speech) (NN recognition))) (. .)))
+(ROOT (S (NP (DT This)) (VP (VP (VBZ works) (ADJP (RB amazingly) (JJ accurate))) (CC and) (VP (VBZ is) (ADVP (JJ much)) (ADJP (ADJP (JJR faster)) (PP (IN than) (NP (NN typing)))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP wish) (SBAR (S (NP (DT the) (NN battery) (NN life)) (VP (VBZ is) (ADVP (RB bit) (RBR longer)))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB charge) (NP (DT the) (NN phone)) (NP-TMP (NN everyday)))))) (. .)))

@@ -1,0 +1,3 @@
+(ROOT (S (NP (DT This) (NN battery)) (VP (VBD did) (RB not) (VP (VB work) (PP (IN in) (NP (PRP$ my) (ADJP (JJ old) (NP (NNP Uniden) (CD 2.4))) (NNP Ghz) (JJ cordless) (NN phone))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBD charged) (NP (PRP it)) (PP (IN for) (ADVP (RB well))) (PP (IN over) (NP (NP (CD 28) (NNS hours)) (, ,) (NP (NN nothing))))) (. .)))
+(ROOT (S (NP (JJ Worthless) (JJ Chinese)) (VP (VBN made) (NP (NN garbage))) (. .)))

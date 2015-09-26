@@ -1,0 +1,8 @@
+(ROOT (S (SBAR (IN ALthough) (S (`` ``) (NP (DT The) (NNP Village)) ('' '') (VP (VBD did) (VP (VB have) (S (NP (NP (JJ wonderful) (NN cinematography)) (CC and) (NP (DT an) (VBG underlying) (NN story)) (PP (IN of) (S (VP (VBG facing) (NP (PRP$ your) (NNS fears)) (PP (IN for) (NP (DT the) (NNS ones))))))) (NP (PRP you)) (VP (VBP love))))))) (, ,) (NP (PRP I)) (VP (VBD expected) (S (NP (PRP it)) (VP (TO to) (VP (VB be) (NP (DT a) (NN horror) (NN movie)))))) (. .)))
+(ROOT (S (S (NP (PRP I)) (VP (VBD was) (VP (VBG waiting) (PP (IN for) (NP (NP (DT some) (NN sense)) (PP (IN of) (NP (NN action) (CC or) (NN suspense))))) (PP (IN in) (NP (DT the) (NN movie)))))) (CC and) (S (NP (DT this)) (VP (VBD did) (RB not) (VP (VB happen) (ADVP (RB once))))) (. .)))
+(ROOT (S (NP (DT This)) (VP (VBD was) (NP (DT the) (JJ first) (NN movie)) (SBAR (IN that) (S (NP (PRP I)) (ADVP (RB almost)) (VP (VBD fell) (ADJP (RB asleep)) (S (VP (VBG watching))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ ready) (PP (IN for) (NP (PRP it)))) (S (VP (TO to) (VP (VB finish))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ glad) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD saw) (NP (PRP it)) (PP (IN on) (NP (NN employee) (NN preview))) (NP-TMP (NN night))))))) (. .)))
+(ROOT (S (NP (PRP It)) (ADVP (RB just)) (VP (VBD went) (ADVP (IN on) (CC and) (IN on))) (. .)))
+(ROOT (FRAG (PP (ADVP (RB Thats)) (RB just) (NP (NP (NN IMHO)) (ADVP (RB though)))) (. .)))
+(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBD liked) (NP (NP (`` ``) (NNS Signs) ('' '')) (CC or) (NP (NP (DT any)) (PP (IN of) (NP (DT the) (NN book))))) (PP (TO to) (NP (NP (NN movie) (NNS adaptations)) (PP (IN of) (NP (NNP Bronte)))))))) (, ,) (NP (PRP I)) (VP (VBP recommend) (NP (DT this) (NN movie))) (. .)))

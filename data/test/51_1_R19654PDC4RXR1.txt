@@ -1,0 +1,2 @@
+(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP are) (VP (VBG looking) (PP (IN for) (NP (NP (DT a) (NN lotion)) (SBAR (WHNP (WDT that)) (S (VP (MD wo) (RB n't) (VP (VB leave) (NP (PRP$ your) (NN face) (NN feeling) (NN greasy)))))))))))) (, ,) (ADVP (RB then)) (VP (VB look) (ADVP (DT no) (RB further))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT THE) (JJS best)) (PP (IN out) (NP (RB there))))) (. .)))

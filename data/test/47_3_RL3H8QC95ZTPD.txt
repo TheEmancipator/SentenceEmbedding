@@ -1,0 +1,4 @@
+(ROOT (S (NP (DT No)) (, ,) (S (VP (VB wait))) (, ,) (NP (PRP I)) (VP (VBP 'm) (VP (VBG being) (ADJP (JJ sarcastic)))) (. .)))
+(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ great) (NN novelty) (NN gift)) (PP (IN for) (NP (NNS preschoolers))))) (. .)))
+(ROOT (S (NP (DT No)) (, ,) (ADVP (DT no)) (, ,) (NP (PRP I)) (VP (VBD meant) (PP (IN for) (NP (NN hip) (JJ cynical) (NNS adults)))) (. .)))
+(ROOT (S (INTJ (UH Yeah)) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (PRP it))) (. .)))

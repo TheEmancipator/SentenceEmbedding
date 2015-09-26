@@ -1,0 +1,3 @@
+(ROOT (S (NP (PRP I)) (VP (VBP love) (S (NP (DT the) (NN watch)) (NP (NNP BUT)))) (. ?)))
+(ROOT (FRAG (WHNP (WDT What)) (SBAR (ADVP (RB so) (NP (NNP ECO)) (PP (IN about) (NP (NP (PRP it)) (`` ``) (NP (NNS batteries)) ('' '')))) (WHNP (WDT that)) (SQ (VP (VBP need) (S (VP (TO to) (VP (VB be) (VP (VP (VBN produced)) (CC and) (VP (ADJP (RB then) (JJ disposed)) (PP (IN of))))))))) (. ?))))
+(ROOT (S (S (NP (PRP I)) (VP (VBP know) (SBAR (IN that) (IN before) (S (NP (PRP I)) (VP (VBD bought) (NP (NN mine))))))) (CC but) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (JJ sure) (SBAR (S (NP (NP (DT a) (NN bunch)) (PP (IN of) (NP (NP (NN tree) (NNS huggers)) (SBAR (WHNP (WDT that)) (S (VP (VBD bought) (NP (CD one)))))))) (VP (VBD did) (RB n't))))))) (. !)))

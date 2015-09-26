@@ -1,0 +1,4 @@
+(ROOT (S (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ second) (NNP Magellan) (NNP RoadMate)) (NP (NP (QP (CD 1420) (CD 4.3))) (PP (IN in) (NP (NP (NNP GPS) (NNP Navigator)) (SBAR (S (NP (PRP I)) (VP (VBP have) (VP (VBN purchased))))))))))) (, ,) (NP (NP (PRP$ my) (NN wife)) (CC and) (NP (PRP I))) (DT both) (VP (VBP have) (NP (CD one))) (. .)))
+(ROOT (S (NP (NP (DT The) (CD 1420)) (NP (NNP GPS))) (VP (VBZ is) (ADJP (ADJP (RB very) (JJ light)) (CC and) (ADJP (NP (QP (RB only) (CD 1/2)) (NN inch)) (JJ thick)))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBZ has) (NP (DT an) (ADJP (JJ easy) (S (VP (TO to) (VP (VB use) (CC and) (VB read) (NP (NN touch)))))) (NN screen))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBD bought) (SBAR (S (NP (DT a) (NN bean) (NN bag)) (VP (VP (VBP mount)) (CC and) (VP (MD can) (ADVP (RB easily)) (VP (VB remove) (PP (IN from) (NP (NN car))) (S (VP (TO to) (VP (VB prevent) (NP (NN thieft))))))))))) (. .)))

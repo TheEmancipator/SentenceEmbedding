@@ -1,0 +1,6 @@
+(ROOT (FRAG (RB Not) (PP (ADVP (RB just)) (IN for) (NP (NNS kids))) (. .)))
+(ROOT (S (S (NP (PRP I)) (VP (VBP am) (NP (CD 50)))) (CC and) (S (NP (PRP$ my) (NN mamam)) (VP (VBZ is) (NP (NP (CD 70) (CC +)) (CC and) (NP (NP (PRP we)) (SBAR (WHNP (DT both)) (S (VP (VBD loved) (NP (PRP it))))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VP (VBD saw) (NP (NP (DT this) (CD one)) (SBAR (S (NP (DT the) (NP (DT the) (NN theater)) (CC but) (NP (NN mama))) (VP (VBZ is) (ADJP (JJ sick))))))) (CC and) (VP (MD could) (S (`` `) (S (NP (NNS nt)) (VP (VBP go)))))) (. .)))
+(ROOT (S (IN So) (NP (PRP I)) (VP (VBD bought) (NP (PRP it)) (PP (IN for) (NP (PRP$ her))) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBD came) (PRT (RP out)))))) (. .)))
+(ROOT (S (NP (NNP Home) (NN run)) (, ,) (VP (VBD loved) (NP (PRP it))) (. !)))
+(ROOT (NP (NP (JJ Good) (NN movie) (CC and) (JJ great) (NN story)) (PP (IN for) (NP (NP (CD 15)) (, ,) (NP (CD 25)) (, ,) (NP (CD 50)) (CC or) (NP (CD 70) (CC +)))) (. .)))

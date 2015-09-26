@@ -1,0 +1,8 @@
+(ROOT (SQ (VP (VB Think) (SBAR (S (NP (PRP you)) (VP (VBP are) (ADVP (ADVP (RBR smarter)) (PP (IN than) (NP (NN everyone)))) (ADJP (RB else)))))) (. ?)))
+(ROOT (SQ (VP (VB Understand) (NP (NP (DT the) (NN plight)) (PP (IN of) (NP (NNPS African-Americans)))) (PP (JJR more) (IN than) (NP (NP (NN anyone)) (, ,) (SBAR (IN because) (S (NP (PRP you)) (VP (VBP are) (ADJP (JJ open-mined)) (, ,) (PP (IN unlike) (NP (DT the) (JJ conformist) (NNS masses))))))))) (. ?)))
+(ROOT (S (RB Then) (NP (DT this) (NN book)) (VP (VBZ is) (ADJP (JJ perfect) (PP (IN for) (NP (PRP you))))) (. !)))
+(ROOT (S (ADVP (RB Now)) (, ,) (VP (VBP am) (NP (PRP I) (JJ racist))) (. ?)))
+(ROOT (FRAG (PP (IN Of) (NP (NN course) (RB not))) (. .)))
+(ROOT (S (S (VP (VBZ Is) (NP (PRP it)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP have) (NP (DT a) (NN problem)) (PP (IN with) (NP (NP (ADJP (JJ offensive) (CC or) (`` ``) (JJ provocative) ('' '')) (NN material)) (: ...) (NP (DT no))))))))) (, ,) (NP (PRP I)) (VP (VBP love) (NP (NNP Amistead))) (. .)))
+(ROOT (S (ADVP (RB Unfortunately)) (, ,) (PP (IN with) (NP (NP (DT a) (JJ touchy) (NN subject)) (PP (JJ such) (IN as) (NP (NP (NN race) (NNS issues)) (PP (IN in) (NP (NNP America))))))) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ hard) (S (VP (TO to) (VP (ADVP (RB actually)) (NN critique) (NP (NP (DT a) (NN book)) (PP (IN for) (NP (PRP$ its) (NN content))) (, ,) (PP (RB instead) (IN of) (NP (PRP$ its) (NN message))))))))) (. .)))
+(ROOT (S (CC But) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB see) (NP (NP (DT a) (JJ real) (NN piece)) (PP (IN of) (NP (NP (NN art)) (VP (VBG dealing) (PP (IN with) (NP (NN slavery))))))))))))) (, ,) (VP (VBP watch) (NP (NP (NNP Amistead)) (: ...) (ADJP (RB much) (JJR better)))) (. .)))

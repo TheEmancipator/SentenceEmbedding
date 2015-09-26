@@ -1,0 +1,2 @@
+(ROOT (S (S (NP (NNP Whenever) (NN anyone)) (VP (VBZ comes) (ADJP (IN over) (S (VP (TO to) (VP (VB play))))))) (, ,) (NP (DT this)) (VP (VBZ is) (ADJP (JJ perfect))) (. .)))
+(ROOT (S (VP (VP (VB Give) (NP (PRP him)) (NP (DT the) (JJ pink) (NN controller))) (, ,) (CC and) (VP (VBP do) (RB n't) (VP (VB let) (S (NP (PRP him)) (VP (VB forget) (SBAR (WHNP (WP who)) (S (VP (VBZ 's) (PP (IN in) (NP (NN charge))))))))))) (. .)))

@@ -1,0 +1,4 @@
+(ROOT (S (NP (DT This)) (VP (VBD was) (NP (DT a) (ADJP (ADVP (RB surprisingly) (RB well)) (VBN written)) (NN book))) (. .)))
+(ROOT (S (NP (DT The) (NN author)) (VP (VBZ takes) (NP (DT a) (RB fairly) (JJ unbiased) (NN perspective)) (PP (IN on) (NP (NP (NN Rush)) (VP (VBG addressing) (NP (NP (DT the) (JJ good)) (CC and) (NP (DT the) (JJ bad))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP appreciate) (SBAR (IN that) (S (NP (NN Rush)) (VP (VBD gave) (NP (DT the) (NN author) (NN access)) (PP (TO to) (NP (ADJP (RB so) (JJ many)) (NNS people))) (PP (IN in) (NP (PRP$ his) (NN life))) (, ,) (PP (VBG including) (NP (PRP$ his) (NN psychiatrist))))))) (. !)))
+(ROOT (S (NP (DT The) (NN book)) (VP (VBZ moves) (ADVP (RB along) (RB quickly)) (PP (RB not) (NP (NN dwelling))) (ADVP (ADVP (RB too) (RB long)) (PP (IN on) (NP (DT any) (CD one) (NN topic))))) (. .)))

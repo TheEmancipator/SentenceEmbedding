@@ -1,0 +1,5 @@
+(ROOT (S (NP (NN Ca)) (VP (RB n't) (VP (VB think) (PP (IN of) (NP (NP (NN anything)) (ADJP (JJ bad) (PP (IN about) (NP (PRP it)))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP use) (S (NP (PRP it)) (ADJP (JJ everyday)) (S (VP (VBG ripping) (NP (JJ 2x) (NN stock) (CC and) (NN building) (NNS cabinets) (CC and) (NN furniture) (NNS projects)))))) (. .)))
+(ROOT (S (NP (NP (NNP Works)) (ADJP (JJ good) (PP (IN for) (NP (NN dado) (NNS operations))))) (, ,) (VP (VBZ has) (NP (NP (DT an) (ADJP (JJ accurate)) (NN fence)) (CC and) (NP (ADJP (JJ easy) (JJ extendable)) (NN table)))) (. .)))
+(ROOT (S (NP (NNP Saw)) (VP (VBZ has) (NP (NP (NN plenty)) (PP (IN of) (NP (NP (NN power)) (PP (IN for) (NP (JJS most) (NNS operations))))))) (. .)))
+(ROOT (S (NP (NP (DT The) (NN portability)) (PP (IN of) (NP (DT this) (NN saw)))) (VP (VBZ is) (NP (ADJP (JJ great) (CC and) (RB easily)) (NNS stores)) (PP (RB away) (FRAG (WHADVP (WRB when)) (PP (RB not) (IN in) (NP (NN use)))))) (. .)))

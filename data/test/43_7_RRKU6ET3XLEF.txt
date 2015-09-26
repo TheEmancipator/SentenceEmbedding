@@ -1,0 +1,6 @@
+(ROOT (S (NP (PRP I)) (VP (VBD bought) (NP (DT these) (NNS bibles)) (S (VP (TO to) (VP (VB give) (PP (IN as) (NP (NP (NNS gifts)) (PP (TO to) (NP (PRP$ my) (NNS friends))))) (SBAR (IN that) (FRAG (NP (NN love) (NN stock) (NN car) (NN racing)))))))) (. .)))
+(ROOT (S (S (NP (PRP They)) (VP (VBD were) (VP (VBN impressed) (PP (IN with) (NP (NP (DT the) (NNS stories)) (PP (IN of) (NP (DT the) (NN race) (NNS drivers)))))))) (NP (PRP they)) (VP (VBD found) (PP (IN in) (NP (DT the) (NN bible)))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBD gave) (NP (CD one)) (PP (TO to) (NP (PRP$ my) (NN church) (S (VP (TO to) (VP (VB help) (VP (VB reach) (NP-TMP (NP (NP (JJ young) (NNS people)) (SBAR (WHNP (WDT that)) (S (VP (MD might) (VP (ADVP (RB otherwise)) (RB not) (NP (NN pickup))))))) (NP (DT a) (NN bible)))))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP wish) (SBAR (S (NP (PRP they)) (VP (MD would) (VP (VB make) (NP (CD one)) (PP (IN for) (NP (NN motorcycle) (NNS riders)))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VP (VBP am) (NP (NP (DT a) (NN member)) (PP (IN of) (NP (NNP CMA))))) (CC and) (VP (MD would) (VP (VB use) (NP (NP (DT this)) (PP (IN as) (NP (DT an) (NN outreach) (NN tool))))))) (. .)))
+(ROOT (FRAG (NP (NP (NNP Chris) (NNP Cline)) (, ,) (NP (NNP Overland) (NNP Park)) (, ,) (NP (NN KS)))))

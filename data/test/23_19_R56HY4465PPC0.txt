@@ -1,0 +1,4 @@
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (VP (VBG going) (S (VP (TO to) (VP (VB be) (ADJP (JJ hard) (S (VP (TO to) (VP (VB find) (NP (DT a) (ADJP (RBR more) (RB poorly) (VBN written)) (NN book)) (, ,) (PP (IN on) (NP (DT any) (NN subject)))))))))))) (. .)))
+(ROOT (S (NP (DT This) (CD one)) (VP (VBZ is) (ADJP (ADJP (RB not) (JJ instructive)) (, ,) (ADJP (JJ authoritative)) (, ,) (CC or) (ADJP (RB even) (RB simply) (JJ entertaining)))) (. .)))
+(ROOT (S (PP (IN In) (NP (DT a) (NN word))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (JJ horrible))) (. !)))
+(ROOT (S (VP (VBP Do) (RB n't) (VP (VB waste) (NP (PRP$ your) (NN time) (CC or) (NN money)))) (. .)))

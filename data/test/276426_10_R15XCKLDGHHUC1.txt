@@ -1,0 +1,6 @@
+(ROOT (S (NP (DT This) (NN case)) (VP (VBZ is) (ADVP (RB way)) (ADJP (JJR better)) (SBAR (IN than) (S (NP (PRP I)) (VP (VBD expected))))) (. .)))
+(ROOT (S (NP (DT The) (NN quality)) (VP (VBZ is) (ADJP (RB very) (JJ nice))) (. .)))
+(ROOT (S (S (NP (PRP I)) (VP (VBD was) (VP (VBN worried) (PP (IN about) (NP (NP (DT the) (NN kickstand)) (VP (VBG flipping) (PRT (RP out)) (NP (PDT all) (DT the) (NN time)))))))) (, ,) (CC but) (S (NP (PRP it)) (VP (VBZ stays) (VP (ADVP (RB securely)) (VBN shut) (PP (IN with) (NP (DT a) (NN magnet)))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (MD would) (VP (VB go) (ADVP (ADVP (RB as) (RB far)) (SBAR (IN as) (S (S (VP (TO to) (VP (VB say) (NP (DT this) (NN case))))) (VP (VBZ is) (ADVP (RB way) (JJR better)) (PP (IN than) (NP (DT the) (NN apple) (NN case))))))))) (. .)))
+(ROOT (NP (NP (NP (ADVP (RB Overall)) (DT a) (JJ great) (NN buy)) (CC and) (NP (ADJP (RB extremely) (JJ fast)) (NN shipping))) (. !)))
+(ROOT (NP (NNS Thanks)))

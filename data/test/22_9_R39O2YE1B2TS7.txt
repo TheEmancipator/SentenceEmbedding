@@ -1,0 +1,3 @@
+(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (NN must-read)) (PP (IN for) (NP (NN anyone))) (SBAR (WHNP (WP who)) (S (VP (VP (VBP encounter) (NP (JJ huge) (NNS ships)) (ADVP (JJ daily))) (CC and) (VP (VBP do) (RB not) (VP (VB want) (S (VP (TO to) (VP (VB get) (VP (VBN run) (PRT (RP over)) (PP (IN by) (NP (PRP them)))))))))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBD found) (S (NP (DT this) (NN book)) (ADJP (RB extremely) (JJ helpful)))) (. .)))
+(ROOT (S (PP (TO To) (NP (DT this) (NN day))) (, ,) (NP (PRP I)) (VP (VBP have) (ADVP (RB never)) (VP (VBN been) (VP (VBN run) (PRT (RP over)) (PP (IN by) (NP (DT a) (JJ single) (JJ huge) (NN ship))) (PP (IN !!)))))))

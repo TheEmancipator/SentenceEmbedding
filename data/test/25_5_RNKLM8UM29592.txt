@@ -1,0 +1,4 @@
+(ROOT (S (VP (VBN Received) (S (UCP (ADJP (JJ quick)) (CC and) (PP (IN in) (NP (JJ good) (NN condition)))))) (. .)))
+(ROOT (NP (NP (JJ Reasonable) (NN price)) (PP (IN for) (NP (JJ low) (NN quantity) (NNS orders))) (. .)))
+(ROOT (S (ADVP (RB Obviously)) (NP (NN anyone)) (VP (MD can) (VP (VP (VB watch) (NP (NP (DT the) (NN price)) (PP (IN of) (NP (NN silver))))) (CC and) (VP (VB know) (SBAR (IN if) (S (NP (PRP they)) (VP (VBP 're) (VP (VBG getting) (NP (DT a) (JJ good) (NN deal))))) (CC or) (RB not))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB order) (ADVP (RB again)) (PP (IN for) (NP (PRP$ my) (CD 1) (CC or) (CD 2))) (NP-TMP (NP (NN qty) (NN bar)) (CC or) (NP (NN coin) (NNS purchases))))) (. .)))

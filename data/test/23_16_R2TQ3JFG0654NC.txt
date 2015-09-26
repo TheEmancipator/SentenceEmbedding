@@ -1,0 +1,8 @@
+(ROOT (FRAG (SBAR (IN if) (FRAG (NP (NP (NP (PRP you)) (PP (IN like) (NP (PRP it)))) (CC or) (NP (NP (NN dont)) (, ,) (NP (PRP$ its) (ADJP (DT all) (JJ good) (JJ lighthearted)) (NN fun)))) (. .)))))
+(ROOT (S (S (NP (NN dont)) (VP (VB get) (ADJP (RB too) (JJ serious) (PP (IN with) (NP (PRP it)))))) (CC or) (S (NP (PRP it)) (VP (MD will) (VP (VB turn) (PRT (RP out)) (S (VP (TO to) (VP (VB be) (ADJP (ADJP (JJR more)) (PP (IN than) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (MD may) (VP (VB want) (S (VP (TO to) (VP (VB be) (PP (IN in))))))))))))))))) (. .)))
+(ROOT (S (NP-TMP (NP (DT the) (NN product)) (SBAR (S (NP (PRP itself)) (VP (VBZ is) (ADJP (JJ great)))))) (, ,) (NP (DT the) (NN board)) (VP (VBZ is) (ADJP (RB pretty) (JJ good))) (. .)))
+(ROOT (S (S (ADVP (RB however)) (NP (FW i)) (VP (VBP do) (VP (VB miss) (NP (DT the) (VBN felt) (NNS sliders))))) (, ,) (NP (DT this) (CD one)) (VP (VBZ has) (NP (JJ plastic) (NNS feet))) (. .)))
+(ROOT (S (NP (NN assembly)) (VP (VBZ is) (ADJP (JJ minimal) (CC and) (JJ doesnt)) (S (VP (VB take) (NP (DT an) (NN expert))))) (. .)))
+(ROOT (S (NP (NP (LS i) (NN havent)) (SBAR (S (VP (VBD used) (NP (PRP it)) (PP (IN in) (NP (DT the) (JJ dark))) (PP (RB so) (NP (FW i) (FW cant))))))) (VP (VBP say) (NP (NP (NN anything)) (PP (IN about) (NP (DT the) (JJ glowing) (NN aspect))))) (. .)))
+(ROOT (S (NP (NN im)) (ADVP (RB sure)) (PP (IN like) (NP (NP (JJS most)) (ADJP (NN glow) (PP (IN in) (NP (DT the) (JJ dark) (NNS things)))))) (NP (PRP you)) (VP (VP (VBP get) (NP (DT a) (JJ few) (NNS minutes))) (CC and) (VP (VBZ thats) (NP (PRP it)))) (. .)))
+(ROOT (FRAG (ADVP (RB overall)) (NP (NP (DT a) (JJ good) (JJ cheap) (NN ouija) (NN board)) (SBAR (S (VP (TO to) (VP (VB play) (PP (IN with)))))))))

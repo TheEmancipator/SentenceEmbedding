@@ -1,0 +1,4 @@
+(ROOT (S (NP (DT This) (NN camera)) (VP (VBZ packs) (NP (NP (DT a) (JJ powerful) (NN punch)) (PP (IN in) (NP (DT a) (JJ small) (NN package))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP like) (S (NP (DT the) (JJ mirrorless) (NN viewfinder)) (ADJP (ADJP (JJR better)) (PP (IN than) (NP (NN SLR) (NNS versions)))) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ allows) (NP (PRP me)) (PP (TO to) (NP (NP (NN preview) (DT the) (NN impact)) (PP (IN of) (NP (PRP$ my) (NN exposure) (NNS settings)))))))))) (. .)))
+(ROOT (S (NP (JJ Underexposed) (NNS images)) (ADVP (NP (NP (NN preview)) (PP (IN as) (NP (ADJP (JJ dark) (CC and) (JJ overexposed)) (NN preview)))) (IN as)) (VP (VBN washed) (PRT (RP out))) (. .)))
+(ROOT (S (ADVP (RB Ergonomically)) (, ,) (NP (DT this) (NN camera)) (VP (VBZ is) (ADJP (RB well) (VBN engineered))) (. .)))

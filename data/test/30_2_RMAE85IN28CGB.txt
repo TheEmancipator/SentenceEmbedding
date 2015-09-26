@@ -1,0 +1,5 @@
+(ROOT (S (SBAR (IN As) (S (S (NP (NNP Vince)) (VP (VBZ says) (PP (IN in) (NP (NP (DT the) (JJ commercial)) (`` ``) (S (NP (PRP you)) (VP (VBP 're) (VP (VBG gon) (S (VP (TO na) (VP (VB love) (NP (PRP$ my) (NNS nuts)))))))) ('' ''))))) (CC but) (S (NP (DT the) (NN slap)) (VP (VB chop))))) (VP (VBZ does) (RB n't) (VP (VB do) (NP (NP (DT a) (ADJP (RB very) (JJ good)) (NN job)) (PP (IN of) (S (VP (VBG chopping) (NP (PRP them)))))))) (. .)))
+(ROOT (S (NP (DT This) (NN thing)) (VP (VBZ is) (ADJP (JJ flimsy) (CC and) (JJ cheap))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBZ has) (NP (NP (DT a) (JJ hard) (NN time)) (VP (VBG chopping) (NP (NNS foods)) (PP (IN with) (NP (NNS peels)))))) (. .)))
+(ROOT (S (NP (NNP Food)) (VP (VP (VBZ goes) (ADVP (RB everywhere))) (CC and) (VP (VBZ gets) (VP (VBN stuck) (PP (IN in) (NP (DT the) (NNS blades)))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB recommend) (NP (DT this) (NN TV) (NN product)))) (. .)))

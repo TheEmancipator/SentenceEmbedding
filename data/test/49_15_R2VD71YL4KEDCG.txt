@@ -1,0 +1,4 @@
+(ROOT (S (NP (NNP Wish) (PRP I)) (VP (MD can) (VP (VB get) (NP (PRP$ my) (NN weekend)) (ADVP (RB back)))) (. .)))
+(ROOT (S (S (NP (PRP It)) (VP (VP (VBZ builds) (PRT (RP up)) (NP (NP (PRP$ your) (NN interest)) (ADVP (RB initially)))) (CC and) (ADVP (RB then)) (VP (VBZ drags)))) (CC and) (S (VP (TO to) (VP (VB top) (S (NP (PRP it))) (NP (PDT all) (DT a) (JJS worst) (NN ending))))) (. .)))
+(ROOT (NP (DT No) (NN idea) (SBAR (WHNP (WP what)) (S (VP (VBD was) (NP (NP (NP (NN author)) (VP (VBG trying) (S (VP (TO to) (VP (VB say)))) (, ,) (SBAR (IN as) (S (NP (NNS characters)) (VP (VBD were) (RB not) (ADJP (RB fully) (VBN developed))))))) (CC and) (NP (DT a) (JJ bad) (JJ bad) (JJ bad) (NN ending)))))) (. .)))
+(ROOT (S (VP (VB Thank) (NP (NP (NNP God)) (SBAR (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD bought) (NP (NP (CD one) (NN book)) (PP (IN of) (NP (NNP Tana) (NNP French))))))))) (. .)))

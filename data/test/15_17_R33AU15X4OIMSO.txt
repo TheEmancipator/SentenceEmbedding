@@ -1,0 +1,3 @@
+(ROOT (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ surprised) (SBAR (WHADJP (WRB how) (JJ good)) (S (NP (DT the) (NN movie)) (VP (VBD was)))))) (. .)))
+(ROOT (S (S (NP (PRP It)) (VP (VBD had) (NP (NP (NN everything)) (SBAR (S (NP (PRP you)) (VP (MD would) (VP (VB expect) (PP (IN from) (NP (DT a) (NN horror) (NN film)))))))))) (, ,) (CC but) (S (NP (PRP it)) (ADVP (RB also)) (VP (VBD had) (NP (NP (NNS alot)) (PP (IN of) (NP (JJ little) (NNS messages)))) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD found) (ADJP (JJ surprising))))))) (. .)))
+(ROOT (INTJ (JJ Good) (NN stuff)))

@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNP Skippy) (NNP Creamy)) (VP (VBZ is) (NP (NP (DT the) (ADJP (JJS best) (NN tasting))) (PP (IN of) (NP (NP (PDT all) (DT the) (NN peanut) (NNS butters)) (PP (IN on) (NP (DT the) (NN market))))))) (. .)))
+(ROOT (S (NP (PRP$ My) (NNS kids)) (VP (VBP love) (NP (NNP Skippy) (NNP Creamy))) (. !)))

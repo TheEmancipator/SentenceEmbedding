@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNS Gentlemen)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP are) (VP (VBG looking) (S (VP (TO to) (VP (VB experience) (NP (NP (DT the) (NNS pains)) (PP (IN of) (NP (NP (DT a) (NN child) (POS 's)) (NN birth)))) (PP (IN from) (NP (NP (DT a) (NN woman) (POS 's)) (NN perspective)))))))))) (NP (DT this)) (VP (VBZ is) (NP (NP (DT the) (NN product)) (PP (IN for) (NP (PRP you))))) (. .)))
+(ROOT (FRAG (ADVP (RB Never) (RB again)) (. .)))

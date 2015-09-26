@@ -1,0 +1,7 @@
+(ROOT (S (INTJ (UH Oops)) (, ,) (NP (PRP I)) (ADVP (RB just)) (VP (VBD channeled) (NP (JJ negative) (NN energy)) (PP (IN out) (NP (RB there)))) (. .)))
+(ROOT (S (IN So) (NP (PRP I)) (VP (MD will) (VP (VB get) (NP (JJ rubbish)) (ADVP (RB back)) (, ,) (S (NP (PRP$ my)) (ADJP (JJ bad))))) (. .)))
+(ROOT (S (ADVP (RB Actually)) (PRN (, ,) (SBAR (WHNP (WP what)) (S (`` ``) (NP (DT The) (JJ Secret)) ('' '') (VP (VBZ proves)))) (, ,)) (SBAR (WHADVP (WRB when)) (S (NP (PRP it)) (VP (VBZ comes) (PP (TO to) (NP (NP (DT the) (`` ``) (NN law)) (PP (IN of) (NP (NP (NN attraction)) ('' '') (SBAR (S (VP (VBZ is) (ADJP (JJ true)))))))))))) (: --) (NP (NN stupidity)) (VP (VBZ attracts) (NP (DT the) (JJ stupid))) (. .)))
+(ROOT (S (NP (DT That)) (VP (VBZ 's) (SBAR (WHADVP (WRB why)) (S (NP (JJ stupid) (NNS secrets)) (VP (VBP generate) (NP (JJ stupid) (NN money)))))) (. .)))
+(ROOT (S (S (NP (JJ Stupid)) (VP (VBZ is) (PP (IN as) (NP (JJ stupid) (NNS buys))))) (: ...) (S (NP (NNP Gosh)) (ADJP (JJ darn))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG being) (ADJP (JJ negative)) (ADVP (RB again)))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP need) (S (VP (TO to) (VP (VB burn) (NP (PRP me) (NP (NP (DT some) (JJR more)) (NP (NN DVD) (POS 's)))))))) (: ...)))

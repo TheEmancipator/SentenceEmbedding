@@ -1,0 +1,3 @@
+(ROOT (S (NP (PRP I)) (VP (VBP have) (RB not) (VP (VBN had) (NP (DT a) (NN chance)) (S (VP (TO to) (VP (ADVP (RB really)) (VB use) (NP (PRP it))))))) (. .)))
+(ROOT (S (S (NP (PRP I)) (VP (VBD bought) (NP (PRP it)) (PP (IN for) (NP (DT an) (NN emergency))))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT no) (NN doubt)) (SBAR (S (NP (PRP it)) (VP (MD will) (VP (VB work) (ADJP (JJ fine)) (SBAR (IN if) (S (NP (JJ military)) (VP (VBZ is) (VP (VBG using) (NP (PRP it))))))))))))) (. .)))
+(ROOT (NP (NN =-RRB-)))

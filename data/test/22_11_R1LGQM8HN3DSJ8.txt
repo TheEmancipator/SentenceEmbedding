@@ -1,0 +1,4 @@
+(ROOT (S (INTJ (UH Yes)) (, ,) (VP (VB please) (VP (VB feed) (S (NP (PRP$ your) (NNS children)) (NP (NP (NNS loads) (CC and) (NNS loads)) (PP (IN of) (S (VP (VBN hydrogenated) (NP (NN oil) (CC and) (NN sugar))))))))) (. .)))
+(ROOT (S (NP (DT The) (NN healthcare) (NN industry)) (VP (MD will) (VP (VB thank) (NP (PRP you)) (PP (IN for) (NP (NP (PRP$ their) (NN profit)) (PP (IN in) (NP (DT the) (NN future))))))) (. .)))
+(ROOT (S (VP (VB Consider) (S (VP (VBG buying) (NP (NP (JJ real)) (, ,) (RB freshly) (NP (NN ground) (NN peanut) (NN butter))) (ADVP (RB instead))))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VP (VBZ tastes) (ADJP (RB so) (RB much) (JJR better))) (CC and) (VP (VBZ is) (ADJP (RB so) (RB much) (JJR better)) (PP (IN for) (NP (PRP you))))) (. .)))

@@ -1,0 +1,6 @@
+(ROOT (FRAG (NP (NP (JJ Unbelievable) (NN video) (NN footage)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (VP (VBN complimented) (PP (IN by) (NP (DT the) (NN narrator)))))))) (. .)))
+(ROOT (NP (JJ Interesting) (NN information) (. .)))
+(ROOT (FRAG (ADJP (ADVP (RB Well)) (JJ worth)) (S (VP (VBN repeated) (NP (NN viewing)))) (. .)))
+(ROOT (S (NP (NP (RB Only) (NN criticism)) (SBAR (S (NP (PRP I)) (VP (MD would) (VP (VB have)))))) (VP (VBZ is) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (DT some) (NN repetition)))))) (. .)))
+(ROOT (FRAG (ADVP (RB Otherwise)) (, ,) (ADVP (JJ fantastic)) (. .)))
+(ROOT (S (NP (PRP$ My) (JJ four-year-old) (NN son)) (VP (VBZ loves) (S (VP (VBG watching) (NP (DT this)) (ADVP (RB constantly))))) (. .)))

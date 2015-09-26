@@ -1,0 +1,2 @@
+(ROOT (S (NP (DT no) (NN need) (S (VP (TO to) (VP (VB buy) (NP (NP (DT the) (ADJP (RBR more) (JJ expensive)) (JJ nose/ear) (NNS trimmers)) (, ,) (NP (DT this) (CD one))))))) (VP (VP (VBZ works) (ADVP (RB extremely) (RB well))) (CC and) (VP (MD wo) (RB n't) (VP (VB blow) (NP (DT the) (NN bank))))) (. .)))
+(ROOT (S (NP (NP ($ $) (CD 20)) (PP (IN for) (NP (NP (DT a) (NN trimmer)) (SBAR (WHNP (WDT that)) (S (ADVP (RB actually)) (VP (VBZ works))))))) (, ,) (NP (DT that)) (VP (VBZ 's) (NP (DT a) (NN bargain))) (. .)))

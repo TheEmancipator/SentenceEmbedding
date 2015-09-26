@@ -1,0 +1,4 @@
+(ROOT (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VB believe) (SBAR (S (NP (DT the) (NN television) (NN ad)) (VP (VBZ calls) (S (NP (DT this)) (NP (DT a) (NN thriller)))))))) (. .)))
+(ROOT (S (NP (NP (DT The) (JJ only) (NN thrilling) (NN part)) (PP (IN of) (NP (PRP it)))) (VP (VBD was) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD was) (VP (VBN finished) (PP (IN with) (NP (PRP it)))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBD continued) (S (VP (TO to) (VP (VB read) (NP (PRP it)) (SBAR (IN so) (S (NP (PRP I)) (VP (MD could) (VP (VB be) (VP (VBN done) (PP (IN with) (NP (PRP it)))))))))))) (. .)))
+(ROOT (S (ADVP (RB Maybe)) (NP (NP (NNP Patterson)) (PRN (-LRB- -LRB-) (CC or) (NP (NP (PRP$ his) (NNS writers)) (SBAR (WHNP (WDT that)) (S (VP (VBP do) (NP (DT the) (NN work)))))) (-RRB- -RRB-))) (VP (MD should) (VP (VP (VB write) (NP (JJR less) (NNS books))) (CC and) (VP (VB try) (PP (IN for) (NP (NN quality)))))) (. !)))

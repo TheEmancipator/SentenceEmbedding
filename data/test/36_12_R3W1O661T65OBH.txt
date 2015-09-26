@@ -1,0 +1,1 @@
+(ROOT (S (SBAR (IN Unless) (S (NP (PRP you)) (VP (VP (VBP want) (PP (TO to) (NP (NP (NN sweep)) (PP (IN on) (NP (PRP$ your) (NNS hands) (CC and) (NNS knees)))))) (, ,) (VP (VBP make) (ADJP (JJ sure)))))) (NP (PRP you)) (VP (VBP purchase) (S (NP (DT the)) (VP (VB handle) (ADVP (RB separately))))) (. !)))

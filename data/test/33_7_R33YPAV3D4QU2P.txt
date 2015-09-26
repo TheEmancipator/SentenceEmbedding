@@ -1,0 +1,2 @@
+(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP pay) (NP (NP ($ $) (CD 250)) (PP (IN for) (NP (DT this) (NN blender))))))) (NP (PRP you)) (VP (VBP need) (NP (NP (PRP$ your) (NN head)) (VP (VBN examined)))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBZ 's) (UCP (ADJP (JJ bulky) (, ,) (JJ heavy)) (CC and) (VP (VBZ does) (NP (DT the) (JJ exact) (JJ same) (NN thing)) (PP (IN as) (NP (DT any) (ADJP ($ $) (CD 25)) (NNP WalMart) (NN blender)))))) (. .)))

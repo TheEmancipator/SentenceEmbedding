@@ -1,0 +1,6 @@
+(ROOT (S (NP (PRP$ my) (NNS children)) (VP (VBD bought) (NP (DT this)) (PP (IN for) (NP (PRP$ their) (NN father))) (PP (IN for) (NP (NP (NN father) (POS 's)) (NN day)))) (. .)))
+(ROOT (S (NP (PRP$ his) (NN ipod)) (VP (VBD was) (VP (VBN stolen) (PP (IN about) (ADVP (NP (CD six) (NNS months)) (RB ago))))) (. .)))
+(ROOT (S (NP (PRP he)) (VP (VBZ goes) (ADVP (RB nowhere)) (PP (IN without) (NP (DT this) (JJ new) (JJ little) (NN toy)))) (. .)))
+(ROOT (S (NP (PRP he)) (VP (VBZ loves) (NP (PRP it))) (. .)))
+(ROOT (S (S (ADJP (JJ easy) (S (VP (TO to) (VP (VB use)))))) (CC and) (S (S (NP (PRP he)) (VP (VBZ has) (VP (VBN downloaded) (NP (NP (PRP$ his) (NN music)) (, ,) (NP (NP (NNS games)) (, ,) (NP (NNS pictures))))))) (CC and) (S (NP (PRP he)) (VP (MD can) (ADVP (RB even)) (VP (VB go) (PP (IN on) (NP (NP (DT the) (NN internet)) (PP (IN with) (NP (PRP it))))))))) (. .)))
+(ROOT (SBARQ (WHNP (WHNP (WDT what)) (ADJP (RBR more))) (SQ (MD could) (NP (PRP you)) (VP (VB ask) (PP (IN for)))) (. .)))

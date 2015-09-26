@@ -1,0 +1,2 @@
+(ROOT (S (NP (PRP I)) (VP (VBD bought) (NP (DT this) (NN herpes)) (PP (IN as) (NP (DT a) (NN gift))) (PP (IN for) (NP (PRP$ my) (NN brother)))) (. .)))
+(ROOT (S (VP (VP (NP (NNP Came)) (PP (IN in) (NP (JJ great) (NN condition)))) (CC and) (VP (VBZ sits) (ADJP (JJ great) (PP (IN on) (NP (NP (DT a) (NN desk)) (PP (IN for) (NP (VBG intersting) (NN decoration)))))))) (. .)))

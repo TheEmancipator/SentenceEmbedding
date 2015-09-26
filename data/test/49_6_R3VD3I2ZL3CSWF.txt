@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNS works)) (ADJP (JJ great)) (. .)))
+(ROOT (S (S (NP (PRP I)) (VP (VBP travel) (SBAR (S (PP (IN in) (NP (PRP$ my) (NN car))) (NP (CC &)) (VP (VBP have) (S (VP (TO to) (VP (VB sit) (S (NP (CC &)) (VP (VB work) (PP (IN on) (NP (PRP$ my) (NN computer))) (PP (ADVP (RB often)) (IN during) (NP (NN lunch))))))))))))) (: --) (S (NP (PRP$ its)) (NP (DT a) (NN lifesaver))) (. .)))

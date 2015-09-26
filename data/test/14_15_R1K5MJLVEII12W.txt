@@ -1,0 +1,6 @@
+(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (ADJP (RBS most) (JJ useful)) (NN product)) (SBAR (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB ever)) (VP (VBN purchased))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP use) (NP (PRP it)) (ADVP (RB probably) (NP (NP (CD 10-15) (NNS times)) (NP (DT a) (NN day)))) (, ,) (SBAR (IN because) (S (NP (PRP we)) (VP (VBP live) (PP (IN in) (NP (DT the) (NNS woods))) (SBAR (WHADVP (WRB where)) (S (NP (EX there)) (VP (VBP are) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NNS bugs))))))))))) (. .)))
+(ROOT (S (S (NP (PRP You)) (VP (MD can) (ADVP (RB even)) (VP (VB catch) (NP (NNS flies)) (PP (IN with) (NP (PRP it))) (PP (IN with) (NP (DT a) (JJ little) (NN practice)))))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP use) (NP (PRP it)) (PP (RB mostly) (IN for) (NP (NNS ladybugs) (CC and) (NNS stinkbugs))))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB very) (VP (VBG satisfying) (S (VP (TO to) (VP (VB use) (ADVP (RB as) (RB well))))))) (, ,) (CC and) (VP (VBZ keeps) (NP (NN bug) (NNS stains)) (PP (IN off) (NP (PRP$ your) (NNS walls))))) (. .)))
+(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP 're) (NP (DT a) (JJ humane) (NN bug) (NN enthusiast))))) (, ,) (NP (PRP you)) (VP (MD can) (ADVP (RB even)) (VP (VB set) (NP (PRP them)) (ADVP (JJ free) (IN outside)))) (. !)))
+(ROOT (NP (NN :-RRB-)))

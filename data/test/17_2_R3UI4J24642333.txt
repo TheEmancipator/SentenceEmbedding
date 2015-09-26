@@ -1,0 +1,5 @@
+(ROOT (S (NP (PRP I)) (VP (VBP love) (NP (DT these) (NNS wipes))) (. !)))
+(ROOT (S (S (NP (PRP They)) (VP (VBP are) (RB n't) (ADJP (RB too) (JJ thick)))) (CC and) (S (NP (DT the) (NN odor)) (VP (VBZ is) (UCP (ADJP (JJ nice)) (CC and) (ADVP (RB gently))))) (. .)))
+(ROOT (S (S (NP (NP (DT Some)) (PP (IN of) (NP (DT the) (JJ other) (NNS wipes)))) (VP (VBD had) (NP (DT a) (JJ strong) (NN odor)))) (, ,) (CC but) (S (NP (DT this)) (VP (VBP wipe) (SBAR (S (VP (VBZ is) (ADJP (JJ great))))))) (. .)))
+(ROOT (S (NP (PRP I)) (ADVP (RB also)) (VP (VBP love) (SBAR (IN that) (S (NP (PRP it)) (VP (VBD came) (PP (IN with) (NP (DT another) (NN container))))))) (. !)))
+(ROOT (S (SBAR (IN If) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB need) (S (NP (PRP it)) (VP (TO to) (VP (VB replace) (NP (DT the) (NNS wipes))))))))) (, ,) (NP (PRP I)) (VP (VBP use) (NP (PRP$ my) (JJ extra) (NNS containers)) (PP (IN for) (NP (NP (NNS crayons)) (, ,) (NP (NNS markers)) (, ,) (NP (NN match) (NN box) (NNS cars)) (, ,) (CC and) (NP (NNS legos))))) (. !)))

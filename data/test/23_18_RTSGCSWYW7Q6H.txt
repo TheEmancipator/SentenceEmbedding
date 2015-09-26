@@ -1,0 +1,7 @@
+(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (NN chick) (NN flick)) (VP (VBG masquerading) (PP (IN as) (NP (DT an) (JJ erotic) (NN thriller)))))) (. .)))
+(ROOT (S (S (NP (DT A) (ADJP (RB rather) (JJ sappy)) (NN love) (NN story)) (VP (VBZ is) (NP (NP (DT the) (NN center)) (PP (IN of) (NP (DT the) (NN movie)))))) (CC and) (S (NP (EX there)) (VP (VBZ 's) (NP (ADJP (RB very) (JJ little)) (NN suspense)))) (. .)))
+(ROOT (S (NP (DT The) (JJ only) (NN reedeming) (NN feature)) (VP (VBZ is) (NP (NP (NP (NNP Alyssa) (NNP Milano) (POS 's)) (NN performance)) (PP (IN as) (NP (NNP Lily))))) (. .)))
+(ROOT (S (S (NP (PRP She)) (VP (VBZ 's) (ADJP (RB really) (JJ good)))) (CC and) (S (NP (PRP I)) (VP (MD must) (VP (VB admit) (SBAR (S (NP (PRP$ her) (JJ nude) (NNS scenes)) (VP (VBP are) (ADVP (RB also)) (ADJP (RB very) (JJ sexy)))))))) (. .)))
+(ROOT (S (NP (DT The) (NN DVD)) (VP (VBZ contains) (NP (DT no) (NNS extras))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (MD would) (VP (VB have) (VP (VBN been) (ADJP (JJ interesting) (S (VP (TO to) (VP (VB have) (VP (VBN included) (UCP (NP (NNS interviews)) (CC and) (PP (IN behind) (NP (DT the) (NNS scenes)))))))))))) (. .)))
+(ROOT (NP (NP (DT All)) (PP (IN in) (NP (NP (DT all)) (, ,) (NP (NP (DT a) (NN movie)) (PP (IN for) (NP (NNP Alyssa) (NNP Milano) (NNS fans)))))) (ADVP (RB only)) (. .)))

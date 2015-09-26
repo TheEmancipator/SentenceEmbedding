@@ -1,0 +1,2 @@
+(ROOT (S (S (NP (LS i)) (VP (VBP 'm) (NP (NP (DT an) (JJ avid) (NN collector)) (PP (IN of) (NP (NN yeti) (NNS products)))))) (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ rare) (S (VP (TO to) (VP (VB come) (PP (IN across) (NP (JJ such) (NNS artifacts))))))))) (. .)))
+(ROOT (S (S (NP (LS i)) (VP (VBN purchased) (NP (DT this) (NN shirt)) (PP (IN at) (NP (DT a) (JJ different) (NN location))) (PP (IN near) (NP (PRP$ my) (NN hometown))))) (CC and) (S (NP (PRP it)) (VP (VBZ fits) (PP (IN like) (NP (DT a) (NN gem))))) (. .)))

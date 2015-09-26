@@ -1,0 +1,3 @@
+(ROOT (S (S (NP (NN Today)) (VP (VBZ is) (NP (NP (NNP Valentine) (POS 's)) (NN Day)))) (CC and) (S (NP (PRP I)) (VP (VBD hoped) (SBAR (IN that) (S (NP (NP (DT a) (JJ little) (NN splash)) (PP (IN of) (NP (DT this)))) (VP (MD would) (VP (VB drive) (S (NP (PRP$ my) (NN lady)) (ADJP (JJ wild))))))))) (. .)))
+(ROOT (S (CC But) (NP (UH alas)) (: ...) (S (NP (PRP I)) (VP (VBP sleep) (ADVP (RB alone)) (ADVP (RB again)))) (. .)))
+(ROOT (S (ADVP (RB Also)) (NP (PRP I)) (VP (VBP keep) (S (VP (VBG hearing) (NP (PDT all) (DT this)) (S (VP (VBG howling) (ADVP (JJ outside)) (NP (PRP$ my) (NN bedroom))))))) (. .)))

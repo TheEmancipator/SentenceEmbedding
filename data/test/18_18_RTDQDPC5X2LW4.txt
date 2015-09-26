@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (JJ Good) (NN luck)) (VP (VBG getting) (NP (NP (DT this)) (PP (IN on) (SBAR (RB once) (S (NP (PRP you)) (VP (VBP 've) (VP (VBN filled) (NP (PRP it)))))))))) (, ,) (CC and) (S (NP (JJ good) (NN luck)) (VP (VBG filling) (NP (PRP it)) (SBAR (RB once) (S (NP (PRP you)) (VP (VBP squeeze) (NP (PRP it)) (PP (IN on))))))) (. .)))

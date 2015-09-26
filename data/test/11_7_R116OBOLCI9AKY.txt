@@ -1,0 +1,2 @@
+(ROOT (FRAG (NP (JJ Great) (JJ healthy) (NN product)) (. .)))
+(ROOT (NP (S (S (NP (PRP I)) (VP (VBD purchased) (NP (PRP it)) (PP (IN for) (NP (NP (NN something)) (ADJP (JJ different) (S (VP (TO to) (VP (VB try))))))))) (CC and) (S (NP (DT both) (NP (PRP$ my) (NP (NP (CD 2) (CC &)) (ADJP (NP (CD 4) (NN yr)) (JJ old))))) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ tastes) (ADJP (JJ great) (PP (IN !!)))))))))))

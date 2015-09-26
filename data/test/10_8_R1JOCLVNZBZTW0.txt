@@ -1,0 +1,4 @@
+(ROOT (S (NP (DT This) (NN dvd)) (VP (VBZ is) (ADJP (JJ great)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP think) (SBAR (IN that) (S (NP (NP (NNP Gennifer) (NNP Flowers)) (, ,) (NP (NNP Paula) (NNP Jones)) (CC and) (NP (NNP Monica) (NNP Lewinsky))) (VP (VBD were) (NP (NP (DT the)) (SBAR (S (VP (VBZ highlights) (PP (IN of) (NP (DT the) (NNP Clinton) (NN administration)))))))))))))) (. .)))
+(ROOT (S (NP (EX There)) (VP (VBZ is) (NP (NP (RB almost) (DT no) (JJ useful) (NN history)) (PP (IN in) (NP (NP (DT this)) (ADVP (IN at) (DT all)))))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBZ borders) (PP (IN on) (NP (JJ tabloid) (NN journalism))) (PP (IN under) (NP (NP (DT the) (NN guise)) (PP (IN of) (NP (DT a) (JJ respectable) (NN documentary)))))) (. .)))
+(ROOT (S (NP (NNP Dick) (NNP Morris)) (VP (VBZ is) (VP (VBN interviewed) (ADVP (RB quite) (NP (DT a) (NN lot))) (PP (IN throughout) (NP (DT this) (CD one))))) (. .)))

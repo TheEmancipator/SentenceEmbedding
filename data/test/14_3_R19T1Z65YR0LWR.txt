@@ -1,0 +1,6 @@
+(ROOT (S (S (NP (NNP Mine)) (VP (VBZ does) (RB not) (VP (VB chop)))) (, ,) (NP (PRP it)) (ADVP (RB just)) (VP (VBZ trys) (PP (TO to))) (. .)))
+(ROOT (S (VP (MD Wo) (RB n't) (VP (VB chop) (PP (IN through) (NP (NN apple) (, ,) (NN garlic) (, ,) (NN onion))))) (. .)))
+(ROOT (S (NP (DT The) (NN food)) (VP (VBZ gets) (VP (VBN caught) (PRT (RP up)) (PP (IN in) (NP (DT the) (NNS blades))))) (. .)))
+(ROOT (S (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ first) (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD used) (NP (PRP it)))))))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG looking) (PP (IN for) (NP (DT an) (ADJP (JJR easier)) (CD one))) (S (VP (TO to) (VP (VB chop) (PP (IN with)))))))) (. .)))
+(ROOT (S (S (S (NP (NP (NP (DT The)) (VP (VBN chopped) (NP (NN onion)))) (PRN (-LRB- -LRB-) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (SBAR (WHADVP (WRB why)) (S (NP (PRP I)) (VP (VBD bought) (NP (PRP it)))))))) (-RRB- -RRB-))) (VP (VBZ comes) (PRT (RP out)) (PP (IN in) (NP (JJ big) (NNS pieces))))) (CC and) (S (NP (PRP they)) (VP (VBP are) (VP (VBN stuck) (PP (IN in) (NP (DT the) (NNS blades))))))) (, ,) (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB dig) (NP (PRP them)) (PRT (RP out)))))) (. .)))
+(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (DT no) (NN fun))) (. !)))

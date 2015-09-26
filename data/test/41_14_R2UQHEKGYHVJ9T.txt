@@ -1,0 +1,3 @@
+(ROOT (S (NP (DT The) (NN poster)) (VP (VBN shipped) (ADVP (RB quickly))) (. .)))
+(ROOT (S (NP (NNP Came)) (VP (ADVP (ADVP (RB carefully)) (CC and) (ADVP (RB meticulously))) (VBN protected) (PP (IN for) (NP (NN delivery)))) (. .)))
+(ROOT (SINV (S (NP (PRP I)) (VP (VBD had) (RB n't))) (VP (ADVP (RB even)) (VBD realized) (SBAR (WHNP (NP (WRB how) (JJ nice)) (PP (IN of) (NP (DT a) (NN poster)))) (S (NP (PRP I)) (VP (VBD was) (VP (VBG purchasing) (SBAR (IN until) (S (S (NP (PRP I)) (VP (VBD opened) (NP (PRP it)))) (CC and) (S (NP (DT that)) (VP (VBZ is) (ADVP (RB always))))))))))) (NP (DT a) (JJ nice) (NN feeling)) (. .)))

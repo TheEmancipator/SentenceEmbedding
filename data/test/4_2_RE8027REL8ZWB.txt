@@ -1,0 +1,6 @@
+(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJS best) (NN waffle) (NN maker)) (SBAR (S (NP (PRP I)) (VP (VBP have) (ADVP (RB ever)) (VP (VBN owned))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBD made) (NP (NNS waffles)) (PP (IN for) (NP (NP (DT a) (NN gang)) (PP (IN at) (NP (PRP$ our) (NN work) (NN holiday) (NN party))))) (PP (IN with) (S (VP (VB rave) (NP (NNS reviews)))))) (. .)))
+(ROOT (S (S (NP (NNP Easy)) (VP (TO to) (VP (VB use)))) (CC and) (S (NP (PRP they)) (VP (VBP come) (PRT (RP out)) (NP (JJ perfect) (NN everytime)))) (. .)))
+(ROOT (S (NP (DT The) (NN reminder) (NNS beeps)) (VP (VBP are) (ADJP (JJ helpful) (S (VP (TO to) (VP (VB know) (SBAR (WHADVP (WRB when)) (S (NP (PRP they)) (VP (VBP are) (VP (VBN done)))))))))) (. .)))
+(ROOT (S (ADVP (RB Just)) (VP (VP (VB put) (NP (DT the) (NN batter)) (PP (IN in))) (, ,) (VP (VB flip) (NP (PRP it))) (CC and) (VP (VB wait) (PP (IN for) (NP (DT the) (NN beep))))) (. !)))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (NP (DT a) (JJ special) (NN treat)) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBP pull) (NP (DT this)) (PRT (RP out)) (PP (IN in) (NP (DT the) (NN morning)))))))) (. .)))

@@ -1,0 +1,4 @@
+(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ great) (NN tool))) (. .)))
+(ROOT (S (S (ADJP (JJ Simple) (S (VP (TO to) (VP (VB use)))))) (, ,) (VP (VBZ has) (NP (NP (CD two) (NNS sides)) (, ,) (NP (CD one) (NN fine)) (, ,) (CC and) (NP (DT the) (ADJP (JJ other) (JJR larger)) (NNS teeth)))) (. .)))
+(ROOT (NP (NP (PRP$ Its) (NN metal) (CC and) (DT a) (JJ bright) (NN color)) (ADJP (RB so) (RB not) (JJ easy) (S (VP (TO to) (VP (VB lose) (CC or) (VB break))))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBZ gives) (NP (PRP$ my) (NN watercolor) (NN paper)) (NP (NP (DT the) (NN look)) (PP (IN of) (NP (JJ deckled) (NNS edges)))) (PP (IN on) (NP (NP (DT all) (CD four) (NNS sides)) (SBAR (WHNP (WDT which)) (S (VP (VBZ works) (PP (IN for) (NP (PRP me))) (PP (IN in) (S (VP (VP (VBG framing) (NP (PRP$ my) (NN work))) (CC and) (VP (VBG giving) (NP (PRP it)) (PP (IN that) (NP (JJ professional) (NN look))))))))))))) (. .)))

@@ -1,0 +1,2 @@
+(ROOT (S (S (NP (DT this) (NN shirt)) (VP (VBZ is) (ADJP (RB so) (JJ cute)))) (CC and) (S (NP (DT the) (NN quality)) (VP (VBZ is) (ADJP (JJ wonderful) (SBAR (S (VP (MD must) (VP (VB have) (VP (PP (IN for) (NP (NP (NN cat) (NN lover) (POS 's)) (LS i))) (VBD got) (NP (NP (CD one) (CC and) (CD one)) (PP (IN for) (NP (PRP$ my) (NN daughter))) (SBAR (WHNP (WP who)) (S (VP (VBZ loves) (PP (NP (NP (NN cat) (POS 's)) (SBAR (S (NP (PRP she)) (VP (VBD went) (ADJP (JJ crazy)))))) (IN over) (NP (DT this) (NN shirt))))))))))))))) (. .)))
+(ROOT (NP (NN diana)))

@@ -1,0 +1,4 @@
+(ROOT (S (NP (NP (NP (NNP Alli) (NNP Weight-Loss) (NNP Aid)) (, ,) (NP (NNP Orlistat) (JJ 60mg) (NNS Capsules)) (, ,)) (SBAR (S (NP (JJ 120-Count) (NNP Refill)) (VP (VB Pack) (UCP (S (VP (VBZ is) (NP (DT a) (JJ great) (NN product)))) (CC and) (PP (IN on) (NP (NNP Amazon.com)))))))) (VP (VBZ has) (NP (NP (DT a) (JJ great) (NN price)) (PP (IN with) (NP (JJ free) (NN delivery))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP do) (RB not) (VP (VP (VB have) (NP (NP (DT any) (NN problem)) (PP (IN with) (NP (DT these) (NNS peals))) (, ,) (VP (VBG working) (ADJP (JJ great))))) (, ,) (VP (VB improve) (NP (NN metabolism))))) (. .)))
+(ROOT (S (VP (ADVP (RB Slowly)) (VBZ helps) (PP (TO to) (NP (JJ loose) (NN weight))) (PP (IN without) (NP (NN exersice)))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VP (VBP am) (VP (VBG using) (NP (NP (DT this)) (PP (IN for) (NP (CD 2) (NNS months)))) (ADVP (RB already)))) (CC and) (VP (VBD lost) (NP (CD 10) (NNS lbs)))) (. .)))

@@ -1,0 +1,7 @@
+(ROOT (S (NP (PRP I)) (VP (VBP am) (ADVP (RB now)) (VP (VBG waiting) (PP (IN on) (NP (NP (PRP$ my) (JJ second) (NN seat) (CC and) (NN car) (NN seat) (NN adaptor)) (PP (IN for) (NP (NNS months))))))) (. .)))
+(ROOT (S (NP (PRP I)) (VP (VBP have) (VP (VBN written) (NP (NN baby) (NN jogger)) (ADVP (NP (CD 3) (NNS times)) (RB now)))) (. .)))
+(ROOT (S (NP (PRP They)) (VP (VBP do) (RB not) (VP (VB respond))) (. .)))
+(ROOT (S (NP (DT This)) (VP (VBZ is) (ADJP (ADVP (RB just) (JJ plain)) (JJ ridiculous))) (. .)))
+(ROOT (S (NP (PRP It)) (ADVP (RB now)) (VP (VBZ says) (PP (IN on) (NP (NP (NNS sites)) (PP (IN like) (NP (NNP Amazon))))) (SBAR (IN that) (S (NP (PRP it)) (VP (MD will) (VP (VB be) (ADJP (JJ late)) (NP-TMP (NNP May)))))) (SBAR (IN before) (S (NP (PRP they)) (VP (VBP ship))))) (. .)))
+(ROOT (FRAG (SBAR (WHADVP (WRB How)) (S (VP (MD can) (S (NP (NP (DT a) (NN company)) (SBAR (WHNP (WDT that)) (S (NP (NNS ships) (NN baby) (NNS products)) (VP (VBP have) (NP (JJ such) (NNS delays)))))))))) (. .)))
+(ROOT (S (PP (IN By) (NP (DT the) (NN time))) (NP (PRP we)) (VP (VBP get) (NP (NP (DT the) (NN car) (NN seat) (NN adaptor)) (SBAR (S (NP (NP (PRP$ my) (NN daughter)) (PRN (-LRB- -LRB-) (VP (ADVP (RB already)) (VBN born) (NP-TMP (JJ last) (NN month))) (-RRB- -RRB-))) (VP (MD will) (ADVP (RB no) (RB longer)) (VP (VB need) (NP (PRP it)))))))) (. .)))

@@ -1,0 +1,2 @@
+(ROOT (S (NP (DT The) (NN product)) (VP (VBD arrived) (SBAR (CC but) (S (NP (PRP it)) (VP (VBZ does) (RB not) (VP (VB include) (SBAR (S (NP (DT a) (VBG connecting) (NN cable)) (ADVP (RB so) (IN while) (PP (TO to) (NP (NN price)))) (VP (VBD was) (ADJP (JJ right) (SBAR (S (NP (PRP it)) (VP (VBZ has) (NP (DT no) (NN value)) (PP (IN without) (NP (NP (DT a) (NN cable)) (PP (IN from) (NP (NP (DT the) (NNS devices)) (PP (TO to) (NP (DT the) (NNP Kindle))))))))))))))))))) (. .)))
+(ROOT (SINV (VP (VBP Do) (RB n't) (VP (VB waste))) (NP (PRP$ your) (NN money))))

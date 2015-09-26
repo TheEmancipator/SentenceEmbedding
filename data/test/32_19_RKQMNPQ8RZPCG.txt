@@ -1,0 +1,6 @@
+(ROOT (NP (JJ Excellent) (NN stuff) (. .)))
+(ROOT (S (S (NP (PRP I)) (VP (VBP am) (VP (VBG using) (NP (NP (NP (NNP On) (POS 's)) (ADJP (CD 100) (NN %)) (NN whey)) (PP (IN since) (PP (IN about) (NP (DT a) (NN year))))) (ADVP (RB now))))) (CC and) (S (NP (PRP I)) (ADVP (RB highly)) (VP (VB recommend) (NP (DT this) (NN product)))) (. .)))
+(ROOT (S (NP (NP (NNP Esp)) (, ,) (NP (NP (DT the) (JJ double) (JJ rich) (JJ chololate) (NNS tastes)) (PP (IN like) (NP (NN heaven)))) (, ,)) (VP (VP (ADVP (RB easily)) (VBZ mixes) (PP (IN with) (NP (NN milk/water)))) (CC and) (VP (VBZ leaves) (NP (DT no) (NN stomach) (VBG bloating) (NN etc.)))) (. .)))
+(ROOT (S (S (NP (NP (DT This) (NN product)) (PP (IN on) (NP (NN amazon)))) (VP (VBZ is) (NP (DT a) (NN bargain)))) (CC and) (S (NP (PRP you)) (VP (MD should) (RB not) (VP (VB let) (VP (VB go))))) (. .)))
+(ROOT (S (VP (VP (VB Get) (NP (DT the) (CD 10) (NN pound) (NN box))) (CC and) (VP (VB save) (NP ($ $) (CD 30)))) (. .)))
+(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (JJ great) (NN stuff)) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VP (VB grow)) (, ,) (VP (VB get) (NP (DT this) (NN ASAP)))))))))) (. .)))

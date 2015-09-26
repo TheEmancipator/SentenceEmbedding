@@ -1,0 +1,7 @@
+(ROOT (S (NP (DT this)) (VP (VBZ is) (NP (NP (PRP$ my) (JJ third) (NN litterbox)) (PP (IN like) (NP (DT this))))) (. .)))
+(ROOT (S (NP (LS i)) (VP (VBP have) (NP (CD two) (NNS cats))) (. .)))
+(ROOT (S (NP (PRP it)) (VP (VP (VBZ keeps) (NP (DT the) (NNS dogs)) (PRT (IN out)) (PP (IN of) (NP (DT the) (NN litter)))) (CC and) (ADVP (RB also)) (VP (VBZ keeps) (PRT (RP down)) (NP (DT the) (NN smell)))) (. .)))
+(ROOT (S (NP (LS i)) (VP (VP (VBD purchased) (NP (DT the) (NN elite) (PRN (-LRB- -LRB-) (JJ new) (-RRB- -RRB-)) (NN version))) (CC and) (VP (VBD took) (NP (PRP it)) (ADVP (RB right) (RB back)))) (. .)))
+(ROOT (S (NP (PRP it)) (VP (VBD did) (RB not) (VP (VB work) (FRAG (CONJP (RB as) (RB well) (IN as)) (NP (DT this) (NN version))))) (. .)))
+(ROOT (S (NP (NP (LS i) (VBN called) (NN customer) (NN service)) (CC and) (NP (PRP she))) (VP (VBD told) (NP (PRP me)) (SBAR (IN that) (S (NP (FW i)) (VP (VBD was) (ADJP (JJ right) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ worthless)))))))))) (. .)))
+(ROOT (S (NP (FW i)) (VP (VBP am) (ADJP (RB very) (JJ happy) (PP (IN with) (NP (NP (DT this) (NN product)) (CC and) (NP (NP (FW i)) (VP (VBN received) (NP (PRP it)) (PP (IN in) (NP (QP (JJR less) (IN than) (DT a))) (NP-TMP (NN week))))))))) (. .)))

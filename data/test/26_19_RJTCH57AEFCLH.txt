@@ -1,0 +1,5 @@
+(ROOT (S (NP (DT This) (NN movie)) (VP (VBZ has) (NP (DT no) (ADJP (JJ redeeming) (CC or) (JJ inspiring)) (NN quality))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADVP (RB just)) (NP (NP (DT a) (CD two) (NN hour) (NN marathon)) (PP (IN of) (NP (NN depression))))) (. .)))
+(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP want) (S (VP (TO to) (VP (VB spoil) (NP (PRP$ your) (NN evening) (CC and) (NN experience) (NN depression)))))))) (NP (DT this)) (VP (MD will) (VP (VB do) (NP (PRP it)))) (. .)))
+(ROOT (S (NP (NP (DT All)) (SBAR (S (NP (PRP you)) (VP (VBP see))))) (VP (VBZ is) (NP (NP (DT the) (ADJP (JJ disgusting)) (NN side)) (PP (IN of) (NP (NNS things))))) (. .)))
+(ROOT (S (NP (NN Nothing)) (ADJP (JJ good)) (. .)))

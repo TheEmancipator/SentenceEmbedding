@@ -1,0 +1,2 @@
+(ROOT (S (VP (VB Thank) (NP (PRP you)) (PP (IN for) (S (VP (VBG sending) (NP (DT the) (NN order)) (ADVP (RB so) (RB quickly)))))) (. .)))
+(ROOT (S (S (NP (DT This)) (VP (VBD was) (NP (NP (DT a) (NN gift)) (PP (IN for) (NP (NP (PRP$ my) (NN son) (POS 's)) (NN birthday)))))) (CC and) (S (NP (PRP he)) (VP (VBD LOVED) (NP (PRP them)))) (. .)))

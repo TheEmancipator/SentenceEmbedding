@@ -1,0 +1,3 @@
+(ROOT (S (S (NP (PRP I)) (VP (VBD bought) (NP (NP (DT these)) (PP (IN for) (NP (PRP$ my) (NN niece))) (SBAR (WHNP (WP who)) (S (VP (VBZ is) (ADJP (JJ autistic)))))))) (CC and) (S (S (NP (PRP she)) (VP (VBZ is) (PP (IN on) (NP (DT a) (JJ strict) (NN gluten))) (ADJP (JJ free)))) (, ,) (S (NP (NN dairy)) (ADJP (JJ free)))) (, ,) (S (VP (VB dye) (NP (JJ free) (NN diet)))) (. .)))
+(ROOT (S (NP (PRP She)) (VP (VBZ loves) (NP (DT these))) (. !)))
+(ROOT (S (CC and) (VP (ADVP (RB so)) (VB do) (NP (NP (DT the) (JJ other) (NNS kids)) (SBAR (WHNP (WP who)) (S (VP (VBP are) (RB not) (PP (IN on) (NP (DT this) (JJ strict) (NN diet)))))))) (. .)))

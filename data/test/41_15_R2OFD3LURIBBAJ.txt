@@ -1,0 +1,7 @@
+(ROOT (NP (NP (NN wow)) (, ,) (NP (NP (DT the) (NN detail)) (PP (IN over) (NP (PDT such) (DT a) (JJ little) (NN thing)))) (. .)))
+(ROOT (S (S (VP (VB Look))) (, ,) (NP (PRP it)) (VP (VBZ works) (ADJP (JJ great))) (. .)))
+(ROOT (SINV (VP (VBZ does)) (NP (DT the) (NN job)) (: ...) (S (ADVP (ADVP (NP (NP (DT no) (NNS complaints)) (CC and) (NP (NP (DT a) (NN hell)) (PP (IN of) (NP (DT a) (NN lot))))) (JJR better)) (PP (IN than) (NP (DT the) (JJ crappy) (NNS ones)))) (NP (FW i)) (VP (VBD got) (NP (NP (NN drug) (NNS stores)) (VP (VBN branded) (PP (IN with) (NP (DT the) (NN name) (`` `) (NN conair) ('' '))))))) (. .)))
+(ROOT (NP (NP (DT those)) (NP (RB really) (NN stunk)) (. .)))
+(ROOT (S (NP (DT The) (NN quality) (NN difference)) (VP (VBZ is) (NP (NN night) (CC and) (NN day))) (. .)))
+(ROOT (S (S (FRAG (CC And) (, ,) (NP (DT the) (NN light)) (: :)) (NP (PRP you)) (VP (VBP are) (RB n't) (VP (VBN supposed) (S (VP (TO to) (VP (VB use) (NP (DT the) (JJ light)) (PP (IN WHILE)))))))) (NP (PRP you)) (VP (VBP are) (VP (VBG using) (NP (PRP it)))) (. .)))
+(ROOT (S (NP (PRP It)) (VP (VBZ 's) (PP (IN for) (NP (NN inspection))) (ADVP (IN before) (CC and) (IN after))) (. .)))
