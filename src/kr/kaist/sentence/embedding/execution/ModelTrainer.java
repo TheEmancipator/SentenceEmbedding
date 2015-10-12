@@ -91,15 +91,11 @@ public class ModelTrainer {
         	iterationIndex++;
             System.out.println("iteration " + iterationIndex);
             System.out.println("predicted batch size: " + allBatch.size());
-            long time = 0;
             for(int i = 0; i < allBatch.size(); i++) {
-                long start_time = System.nanoTime();
-                if(i%50 == 0 && i != 0)
-                	System.out.println("now, " + i + "th batch has been processed.\nThis iteration would be terminated after " + ((time/60000000000.0)*(allBatch.size()-i)) + "minutes.");
+                System.out.println("now, " + i + "th batch has been processed. Total Batch number: " + allBatch.size());
                 setDelta(); //set derivative to 0
                 gradientDecent(i); //gradient decent
                 update(); //parameter update
-                time = ((time * i) + (System.nanoTime() - start_time))/(i + 1);
             }
             String fileName=resultFile 
             		+ "_iter" + Integer.toString(iterationIndex)
@@ -120,7 +116,7 @@ public class ModelTrainer {
         adaWeightMatrix = new double[dimension][dimension * 2];
         adaBias = new double[dimension];
         
-        double epso=Math.sqrt(6)/(Math.sqrt(2 * dimension));
+        double epso=Math.sqrt(6)/(Math.sqrt(dimension));
         Random r = new Random();
         
         for(int i = 0; i < dimension; i++) {
@@ -132,7 +128,7 @@ public class ModelTrainer {
     }
     
     public static void setDelta(){
-        //set derivative to 0
+        // set derivative to 0
         for(int i = 0; i < dimension; i++) {
             deltaBias[i] = 0;
             for(int j = 0; j < dimension * 2; j++){
@@ -149,7 +145,7 @@ public class ModelTrainer {
 
         ExecutorService executor = Executors.newFixedThreadPool(numThread);	// multi thread
         List<Future<MultiThread>>list = new ArrayList<Future<MultiThread>>();
-        GradientDecentCalculator gradientDecentCalculator = new GradientDecentCalculator();
+        //GradientDecentCalculator gradientDecentCalculator = new GradientDecentCalculator();
 
         for(int treeIndex : batch.treeList) {
             Tree tree = allTree.get(treeIndex);
@@ -168,7 +164,7 @@ public class ModelTrainer {
         executor.shutdown();
 
         double l = (double)1 / batch.treeList.size();
-        double T = 2 * Q * 2 / allTree.size();
+        double T = 2 * Q / allTree.size();
 
         deltaBias = getVectorScalar(l, deltaBias);
         deltaWeightMatrix = getWeightMatrixScalar(l, deltaWeightMatrix);
@@ -189,8 +185,8 @@ public class ModelTrainer {
     }
     
     public static double[][][][] getWeightMatrixTree(Batch batch) throws Exception {
-        double[][][][] allWordWeightMatrix;
-        allWordWeightMatrix = new double[batch.treeList.size()][dimension][dimension * 2][dimension];
+        double[][][][] allTreeWeightMatrix;
+        allTreeWeightMatrix = new double[batch.treeList.size()][dimension][dimension * 2][dimension];
         ExecutorService executor = Executors.newFixedThreadPool(numThread);
         List<Future<double[][][]>>list = new ArrayList<Future<double[][][]>>();
         int currentTreeIndex = 0;
@@ -206,15 +202,16 @@ public class ModelTrainer {
         for (Future<double[][][]> future : list) {
             for(int i=0;i<dimension;i++)
                 for(int j=0;j<2*dimension;j++)
-                	allWordWeightMatrix[currentTreeIndex][i][j]=future.get()[i][j];
+                	allTreeWeightMatrix[currentTreeIndex][i][j]=future.get()[i][j];
             currentTreeIndex++;
         }
         executor.shutdown();
-        return allWordWeightMatrix;
+        
+        return allTreeWeightMatrix;
     }
     
     public static double[][][] getBiasTree(Batch batch) throws Exception {
-        double[][][] allWordBias = new double[batch.treeList.size()][dimension][dimension];
+        double[][][] allTreeBias = new double[batch.treeList.size()][dimension][dimension];
         ExecutorService executor = Executors.newFixedThreadPool(numThread);
         List<Future<double[][]>>list = new ArrayList<Future<double[][]>>();
         int currentTreeIndex = 0;
@@ -229,11 +226,12 @@ public class ModelTrainer {
         }
         for (Future<double[][]> future : list) {
             for(int i = 0; i < dimension; i++)
-                allWordBias[currentTreeIndex][i] = future.get()[i];
+                allTreeBias[currentTreeIndex][i] = future.get()[i];
             currentTreeIndex++;
         }
         executor.shutdown();
-        return allWordBias;
+        
+        return allTreeBias;
     }
     
     public static class CallableWeightMatrix implements Callable<double[][][]>{
@@ -245,7 +243,7 @@ public class ModelTrainer {
             double[][][] result = new double[dimension][dimension * 2][dimension];
             GradientDecentCalculator gradientDecentCalculator = new GradientDecentCalculator();
             for(int i = 0; i < dimension; i++)
-                for(int j = 0; j < 2*dimension; j++) {
+                for(int j = 0; j < 2 * dimension; j++) {
                     result[i][j] = gradientDecentCalculator.gradientDecentWeightMatrix(tree, 0, i, j);
                 }
             return result;
@@ -276,10 +274,11 @@ public class ModelTrainer {
             MultiThread thread=new MultiThread(dimension);
             GradientDecentCalculator gradientDecentCalculator = new GradientDecentCalculator();
             
-            double[][] T = new double[dimension][2 * dimension];
+            double[][] T = new double[dimension][dimension];
             for(int i = 0; i < dimension; i++)
-                for(int j = 0; j < 2 * dimension; j++)
-                    T[i][j] = weightMatrix[i][j] * thread.derivativeBias[i];
+                for(int j = 0; j < dimension; j++) {
+                    T[i][j] = weightMatrix[i][j] * bias[i];	// 이 부분이 문제
+                }
             thread.derivativeBias = gradientDecentCalculator.getGradientDecentDerivativeBias(tree, batch, T);
             thread.derivativeWeightMatrix = gradientDecentCalculator.getGradientDecentDerivativeWeightMatrix(tree, batch, T);
             return thread;
@@ -308,10 +307,10 @@ public class ModelTrainer {
                 leftWordVector = gradientDecentBias(tree, leftChildIndex, biasIndex);
                 rightWordVector = gradientDecentBias(tree, rightChildIndex, biasIndex);
                 for(int t = 0; t < dimension; t++){
-                    for(int i = 0; i < dimension; i++)
+                    for(int i = 0; i < dimension; i++) {
                         node.calculatedVector[t] += weightMatrix[t][i] * leftWordVector[i];
-                    for(int i = 0; i < dimension; i++)
                         node.calculatedVector[t] += weightMatrix[t][dimension+i] * rightWordVector[i];
+                    }
                 }
                 node.calculatedVector[biasIndex]++;
                 for(int i = 0; i < dimension; i++)
@@ -358,32 +357,29 @@ public class ModelTrainer {
         public static double[] getGradientDecentDerivativeBias(Tree tree, Batch batch, double[][] T) {
             //get derivative of tree value with respect to word_b
             double[] resultBias = new double[dimension];
-            double[][] join = new double[dimension][2 * dimension];
+            double[][] join = new double[dimension][dimension];
             
             int treeIndex = batch.treeList.indexOf(allTree.indexOf(tree));
-            for(int i = 0; i < 2; i++) {
-                for(int j = 0; j < dimension; j++) {
-                    for(int k = 0; k < dimension; k++) {
-                        join[j][dimension *  i + k] = biasTree[treeIndex][j][k];
-                    }
-                }
+            for(int i = 0; i < dimension; i++) {
+            	for(int j = 0; j < dimension; j++) {
+            		join[i][j] = biasTree[treeIndex][i][j];
+            	}
             }
             resultBias = sumMatrixLine(multiplyMatrixMatrix(join, T));
+
             return resultBias;
         }
 
         static public double[][] getGradientDecentDerivativeWeightMatrix (Tree tree, Batch batch, double[][] T){
             //get derivative of clique value with respect to word_W
             double[][] resultWeightMatrix = new double[dimension][2 * dimension];
-            double[][][] join = new double[dimension][2 * dimension][2 * dimension];
+            double[][][] join = new double[dimension][2 * dimension][dimension];
             int treeIndex = batch.treeList.indexOf(allTree.indexOf(tree));
-            for(int i = 0; i < 2; i++) {
-                for(int j = 0; j < dimension; j++) {
-                    for(int m = 0; m < 2 * dimension; m++) {
-                        for(int k = 0; k < dimension; k++)
-                        	join[j][m][dimension*i+k] = weightMatrixTree[treeIndex][j][m][k];
-                    }
-                }
+            for(int i = 0; i < dimension; i++) {
+            	for(int j = 0; j < 2 * dimension; j++) {
+            		for(int k = 0; k < dimension; k++)
+            			join[i][j][k] = weightMatrixTree[treeIndex][i][j][k];
+            	}
             }
             for(int i = 0; i < dimension; i++)
             	resultWeightMatrix[i] = sumMatrixLine(multiplyMatrixMatrix(join[i], T));

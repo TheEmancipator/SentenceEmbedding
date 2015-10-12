@@ -3,13 +3,15 @@ package kr.kaist.sentence.embedding.structure;
 import java.util.Vector;
 
 public class Node {
-	public String word;
+	public String word = "";
     public int wordIndex = -1;
-    public String posTag;
+    public String tag = "";
+    public char leftChildRole;
+    public char rightChildRole;
     // public int parseIndex;
     public boolean isLeaf = false;
-    public Vector<Integer> childrenList = new Vector<Integer>();
-    public Vector<Integer> offspringLeavesList = new Vector<Integer>();
+    public Vector<Integer> childrenList;
+    public Vector<Integer> offspringLeavesList;
     public int parent = -1;
     // public int leftSibling = -1;
     // public int rightSibling = -1;
@@ -20,5 +22,7 @@ public class Node {
     public double[] calculatedVector;
     public Node(int dimension) {
         this.dimension = dimension;
+        childrenList = new Vector<Integer>();
+        offspringLeavesList = new Vector<Integer>();
     }
 }

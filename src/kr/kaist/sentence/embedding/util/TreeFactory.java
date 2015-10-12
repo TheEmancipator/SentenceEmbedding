@@ -1,7 +1,10 @@
 package kr.kaist.sentence.embedding.util;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.util.*;
 
+import kr.kaist.sentence.embedding.structure.Document;
 import kr.kaist.sentence.embedding.structure.Node;
 import kr.kaist.sentence.embedding.structure.Tree;
 
@@ -105,7 +108,7 @@ public class TreeFactory {
                     else 
                         parent = tree.allNodes.size() - 1;
                     tempNode.parent = parent;
-                    tempNode.posTag = "INTERN";
+                    tempNode.tag = "INTERN";
                     tempNode.index = tree.allNodes.size();
                     Node leftnode = tree.allNodes.get(left);
                     Node rightnode = tree.allNodes.get(right);
@@ -158,7 +161,6 @@ public class TreeFactory {
 		
 		Queue queue = new LinkedList();
 		queue.add(tree.allNodes.get(0));
-		System.out.print("sequence: " + tree.allNodes.get(0).index + " ");
 		Vector<Integer> indexMap = new Vector<Integer>();
 		indexMap.addElement(tree.allNodes.get(0).index);
 		while(!queue.isEmpty()) {
@@ -168,12 +170,10 @@ public class TreeFactory {
 					if(tree.allNodes.get(j).index == node.childrenList.get(i)) {
 						queue.add(tree.allNodes.get(j));
 						indexMap.addElement(node.childrenList.get(i));
-						System.out.print(node.childrenList.get(i) + " ");
 					}
 				}
 			}
 		}
-		System.out.print("\n");
 		
 		for(int i = 0; i < tree.allNodes.size(); i++) {
 			for(int m = 0; m < indexMap.size(); m++) {
@@ -231,7 +231,7 @@ public class TreeFactory {
 				posTag = posTag.trim();
 				Node node = new Node(tree.dimension);
 				node.index = tree.allNodes.size();
-				node.posTag = posTag;
+				node.tag = posTag;
 				if(!stack.isEmpty()) {
 					Node rootNode = tree.allNodes.get(stack.peek());
 					rootNode.childrenList.addElement(node.index);
@@ -243,27 +243,14 @@ public class TreeFactory {
 				stack.push(node.index);
 			} else if(inputText.charAt(i)==')') {
 				Node rootNode = tree.allNodes.get(stack.peek());
-				String posWord = rootNode.posTag;
+				String posWord = rootNode.tag;
 				if(posWord.indexOf(" ") != -1) {
 					int delimeterIndex = posWord.indexOf(" ");
 					String posTag = posWord.substring(0, delimeterIndex);
 					String word = posWord.substring(delimeterIndex + 1);
-					rootNode.posTag = posTag;
+					rootNode.tag = posTag;
 					rootNode.wordIndex = WordToNum.get(word.toLowerCase());
-					if(word.equals("-LRB-"))
-						rootNode.word = "(";
-					else if(word.equals("-RRB-"))
-						rootNode.word = ")";
-					else if(word.equals("-LSB-"))
-						rootNode.word = "[";
-					else if(word.equals("-RSB-"))
-						rootNode.word = "]";
-					else if(word.equals("-LCB-"))
-						rootNode.word = "{";
-					else if(word.equals("-RCB-"))
-						rootNode.word = "}";
-					else
-						rootNode.word = word;
+					rootNode.word = word;
 					rootNode.isLeaf = true;
 					tree.leafNodeList.addElement(rootNode.index);
 					tree.allNodes.set(rootNode.index, rootNode);
@@ -276,7 +263,7 @@ public class TreeFactory {
 			else if(inputText.charAt(i)==' ')i++;
 		}
 	}
-
+	
 	public double[] sumVectors(double[] inputVector1, double[] inputVector2) {
 		// get sum of two input vectors
 		if(inputVector1.length != inputVector2.length) {

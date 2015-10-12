@@ -4,13 +4,16 @@ import java.util.Vector;
 
 public class Tree {
 	// variable declaration
-	public Vector<Node> allNodes = new Vector<Node>();
-	public Vector<Integer> leafNodeList = new Vector<Integer>();
-	public Vector<Integer> wordList = new Vector<Integer>();
+	public Vector<Node> allNodes;
+	public Vector<Integer> leafNodeList;
+	public Vector<Integer> wordList;
 
 	public int dimension;
 
 	public Tree(int dimension) {
 		this.dimension=dimension;
+		allNodes = new Vector<Node>();
+		leafNodeList = new Vector<Integer>();
+		wordList = new Vector<Integer>();
 	}
 }

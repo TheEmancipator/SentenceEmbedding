@@ -54,7 +54,7 @@ public class ReadData {
     
     public void getBatch(){ 
         //minibatch
-        int batchSize = 10;	// specify batch size
+        int batchSize = 25;	// specify batch size
         int totalIteration = allDocument.size() / batchSize + 1;
         for(int i = 0; i < totalIteration; i++) {
             Batch batch=new Batch();
@@ -97,20 +97,17 @@ public class ReadData {
                 
                 treeFactory.collapseUnaryTransformer(tree);	// transform to collapse unary form
                 treeFactory.getVector(0, weightMatrix, bias, wordVector, tree);	// calculate with recursive neural network scheme
-                doc.treeList.addElement(allTree.size());	// save the index of trees in the document into document object 
+                doc.treeList.addElement(allTree.size());	// save the index of trees in the document into document object
+                doc.fileName = listofFiles[i].getName();
                 allTree.addElement(tree);
-                /*
-                // sentence checker
-                System.out.println(fileName);
-                for(int j = 0; j < tree.allNodes.size(); j++) {
-                	if(tree.allNodes.get(j).isLeaf)
-                		System.out.print(tree.allNodes.get(j).word + " ");
-                }
-                System.out.print("\n");
-                */
             }
+            getRST(doc);
             allDocument.addElement(doc); // save document
         }
+    }
+    
+    public static void getRST(Document doc) {
+    	// RST 저장되어 있는거 열어서 구조 읽기
     }
 
     public static void readWordVector(String wordFile, String vectorFile)throws IOException { 
