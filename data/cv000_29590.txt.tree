@@ -1,0 +1,199 @@
+(Elaboration[N][S]
+  (Elaboration[N][S]
+    (Contrast[S][N]
+      (Joint[N][N]
+        (same-unit[N][N]
+          (Elaboration[N][S]
+            _!films adapted from comic books have had plenty of success ,!_
+            (Elaboration[N][S]
+              _!whether they 're about superheroes!_
+              _!( batman , superman , spawn ) ,!_))
+          (Elaboration[N][S]
+            _!or geared toward kids!_
+            _!( casper )!_))
+        (Elaboration[N][S]
+          _!or the arthouse crowd!_
+          _!( ghost world ) ,!_))
+      _!but there 's never really been a comic book like from hell before . <s>!_)
+    (Elaboration[N][S]
+      (Elaboration[N][S]
+        (Elaboration[N][S]
+          (same-unit[N][N]
+            _!for starters ,!_
+            (Elaboration[N][S]
+              _!it was created by alan moore!_
+              _!( and eddie campbell ) ,!_))
+          (Elaboration[N][S]
+            _!who brought the medium to a whole new level in the mid '80s with a 12-part series!_
+            _!called the watchmen . <s>!_))
+        (Attribution[S][N]
+          _!to say moore and campbell thoroughly!_
+          _!researched the subject of jack the ripper would be like saying michael jackson is starting to look a little odd . <s>!_))
+      (Explanation[N][S]
+        (Contrast[N][N]
+          (Elaboration[N][S]
+            (same-unit[N][N]
+              _!the book!_
+              _!( or " graphic novel , " if you will ) is over 500 pages long and includes nearly 30 more!_)
+            _!that consist of nothing!_)
+          _!but footnotes . <s>!_)
+        (Summary[N][S]
+          (Explanation[N][S]
+            _!in other words , do n't dismiss this film!_
+            _!because of its source . <s>!_)
+          (Condition[S][N]
+            _!if you can get past the whole comic book thing ,!_
+            _!you might find another stumbling block in from hell 's directors , albert and allen hughes . <s>!_)))))
+  (Elaboration[N][S]
+    (Elaboration[N][S]
+      (Elaboration[N][S]
+        (Elaboration[N][S]
+          (Elaboration[N][S]
+            (Elaboration[N][S]
+              (same-unit[N][N]
+                (Elaboration[N][S]
+                  _!getting the hughes brothers!_
+                  _!to direct this seems almost as ludicrous as casting carrot top in , well , anything ,!_)
+                _!but riddle me this :!_)
+              (Elaboration[N][S]
+                _!who better to direct a film!_
+                (Joint[N][N]
+                  _!that 's set in the ghetto!_
+                  _!and features really violent street crime than the mad geniuses behind menace ii society ? <s>!_)))
+            (Elaboration[N][S]
+              _!the ghetto in question is , of course , whitechapel in 1888 london 's east end . <s>!_
+              (Elaboration[N][S]
+                _!it 's a filthy , sooty place!_
+                (Elaboration[N][S]
+                  (Elaboration[N][S]
+                    _!where the whores!_
+                    _!( called " unfortunates " ) are starting to get a little nervous about this mysterious psychopath!_)
+                  _!who has been carving through their profession with surgical precision . <s>!_))))
+          (Elaboration[N][S]
+            (Enablement[N][S]
+              (same-unit[N][N]
+                (Elaboration[N][S]
+                  _!when the first stiff turns up , copper peter godley!_
+                  _!( robbie coltrane , the world is not enough )!_)
+                (Elaboration[N][S]
+                  _!calls in inspector frederick abberline!_
+                  _!( johnny depp , blow )!_))
+              _!to crack the case . <s>!_)
+            (Elaboration[N][S]
+              _!abberline , a widower , has prophetic dreams!_
+              _!he unsuccessfully tries to quell with copious amounts of absinthe and opium . <s>!_)))
+        (Elaboration[N][S]
+          (Joint[N][N]
+            (Contrast[S][N]
+              _!upon arriving in whitechapel ,!_
+              (Attribution[S][N]
+                (Attribution[N][S]
+                  _!he befriends an unfortunate named mary kelly!_
+                  _!( heather graham , say!_)
+                _!it is n't so )!_))
+            (Elaboration[N][S]
+              _!and proceeds to investigate the horribly gruesome crimes!_
+              _!that even the police surgeon ca n't stomach . <s>!_))
+          (Attribution[N][S]
+            _!i do n't think anyone needs to be briefed on jack the ripper , so i wo n't go into the particulars here , other than to say moore and campbell have a unique and interesting theory about both the identity of the killer and the reasons!_
+            _!he chooses to slay . <s>!_)))
+      (Summary[N][S]
+        (Contrast[S][N]
+          (Condition[S][N]
+            _!in the comic ,!_
+            _!they do n't bother cloaking the identity of the ripper ,!_)
+          (same-unit[N][N]
+            (Joint[N][N]
+              _!but screenwriters terry hayes ( vertical limit )!_
+              (Elaboration[N][S]
+                _!and rafael yglesias!_
+                _!( les mis ? rables )!_))
+            _!do a good job of keeping him hidden from viewers until the very end . <s>!_))
+        (same-unit[N][N]
+          (Explanation[N][S]
+            (Enablement[N][S]
+              _!it 's funny!_
+              _!to watch the locals blindly point the finger of blame at jews and indians!_)
+            (same-unit[N][N] _!because ,!_ _!after all ,!_))
+          _!an englishman could never be capable of committing such ghastly acts . <s>!_)))
+    (Elaboration[N][S]
+      (Elaboration[N][S]
+        (Elaboration[N][S]
+          (same-unit[N][N]
+            (Elaboration[N][S]
+              _!and from hell 's ending had me!_
+              _!whistling the stonecutters song from the simpsons for days ( "!_)
+            (same-unit[N][N]
+              (same-unit[N][N]
+                _!who holds back the electric car/who!_
+                _!made steve!_)
+              _!guttenberg a star ? " ) . <s>!_))
+          (Attribution[S][N]
+            _!do n't worry -!_
+            (Background[N][S]
+              _!it 'll all make sense!_
+              _!when you see it . <s>!_)))
+        (Attribution[S][N]
+          _!now onto from hell 's appearance :!_
+          (Elaboration[N][S]
+            (Attribution[N][S]
+              (Attribution[S][N]
+                _!it 's certainly dark and bleak enough , and it 's surprising to see!_
+                _!how much more it looks like a tim burton film than planet of the apes did!_)
+              _!( at times ,!_)
+            _!it seems like sleepy hollow 2 ) . <s>!_)))
+      (Elaboration[N][S]
+        (Elaboration[N][S]
+          (Contrast[S][N]
+            (Joint[N][N]
+              _!the print i saw was n't completely finished!_
+              _!( both color and music had not been finalized , so no comments about marilyn manson ) ,!_)
+            (Joint[N][N]
+              (same-unit[N][N]
+                (Elaboration[N][S]
+                  _!but cinematographer peter deming!_
+                  _!( do n't say a word )!_)
+                _!ably captures the dreariness of victorian-era london!_)
+              (Attribution[S][N]
+                _!and helped make!_
+                (Contrast[N][S]
+                  _!the flashy killing scenes remind me of the crazy flashbacks in twin peaks ,!_
+                  (Enablement[N][S]
+                    _!even though the violence in the film pales in comparison!_
+                    _!to that in the black-and-white comic . <s>!_)))))
+          (Elaboration[N][S]
+            (Elaboration[N][S]
+              (Elaboration[N][S]
+                (Elaboration[N][S]
+                  (same-unit[N][N]
+                    (same-unit[N][N]
+                      _!oscar winner martin childs '!_
+                      _!( shakespeare in love )!_)
+                    _!production design turns the original prague surroundings into one creepy place . <s>!_)
+                  (Joint[N][N]
+                    (Elaboration[N][S]
+                      _!even the acting in from hell is solid , with the dreamy depp!_
+                      _!turning in a typically strong performance!_)
+                    _!and deftly handling a british accent . <s>!_))
+                (same-unit[N][N]
+                  (same-unit[N][N]
+                    (Joint[N][N]
+                      (Elaboration[N][S]
+                        _!ians holm!_
+                        _!( joe gould 's secret )!_)
+                      (Elaboration[N][S]
+                        _!and richardson!_
+                        _!( 102 dalmatians )!_))
+                    _!log in great supporting roles ,!_)
+                  _!but the big surprise here is graham . <s>!_))
+              (same-unit[N][N]
+                (Elaboration[N][S]
+                  _!i cringed the first time!_
+                  (Elaboration[N][S]
+                    _!she opened her mouth ,!_
+                    _!imagining her attempt at an irish accent ,!_))
+                _!but it actually was n't half bad . <s>!_))
+            _!the film , however , is all good . <s>!_))
+        (Elaboration[N][S]
+          _!2 :!_
+          _!00 - r for strong violence/gore , sexuality , language and drug content <p>!_)))))
