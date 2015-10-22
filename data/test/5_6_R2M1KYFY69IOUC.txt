@@ -1,2 +1,0 @@
-(ROOT (S (NP (NNP Came)) (ADVP (RB quickly) (PP (IN in) (NP (NP (DT the) (NN mail) (CC and) (NN cost)) (PP (CC plus) (NP (NN shipping)))))) (VP (VBD was) (ADJP (RB still) (JJR less)) (SBAR (ADVP (RB then)) (WHNP (WP what)) (S (NP (PRP they)) (VP (VBD wanted) (PP (IN at) (NP (DT the) (NN store))))))) (. .)))
-(ROOT (S (S (NP (NNP Emery) (NNS pads)) (VP (VBP work) (ADVP (RB well)))) (, ,) (NP (NNS blades)) (VP (VBP seem) (ADJP (RB not) (RB as) (JJ good) (CC but) (JJ workable))) (. .)))

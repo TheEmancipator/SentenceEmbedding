@@ -1,3 +1,0 @@
-(ROOT (S (PP (IN As) (NP (NP (DT another) (NN reviewer)) (VP (VBD noted)))) (, ,) (NP (DT these)) (VP (VBN used) (S (VP (TO to) (VP (VB be) (NP (NP (CD 10)) (PP (IN for) (NP ($ $) (CD 10)))))))) (. .)))
-(ROOT (NP (NP (RB Now) (CD 6)) (PP (IN for) (NP (NP ($ $) (CD 10)) (, ,) (ADJP (RB pretty) (JJ outrageous)))) (. .)))
-(ROOT (S (NP (DT The) (NNS tubes)) (VP (VBP work) (NP (ADJP (ADJP (RB just) (JJ fine)) (PRN (, ,) (CC but) (ADVP (RB geez)))) (, ,) (JJ nice) (NN way)) (S (VP (TO to) (VP (VB reward) (NP (NN customer) (NN loyalty)))))) (: ...)))

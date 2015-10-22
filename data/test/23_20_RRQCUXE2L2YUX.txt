@@ -1,6 +1,0 @@
-(ROOT (S (S (VP (VB See) (NP (NP (DT the) (JJ rare) (NN spectacle)) (PP (IN of) (NP (NNP Sean) (NNP Connery)))))) (VP (VBD covered) (PP (IN in) (NP (NP (NN mud)) (PRN (-LRB- -LRB-) (CC or) (NP (NP (NN chocolate)) (NP (NN pudding))) (-RRB- -RRB-)))) (SBAR (IN while) (S (VP (VBG maintaining) (NP (DT a) (JJ straight) (NN face)))))) (. !)))
-(ROOT (S (VP (VB Hear) (NP (NP (NNP Brian) (NNP Keith) (POS 's)) (JJ contrived) (JJ Russian) (NN accent))) (. !)))
-(ROOT (NP (NP (NN Experience)) (NP (NP (DT some)) (PP (IN of) (NP (NP (DT the) (JJS worst) (JJ special) (NNS effects)) (PP (IN in) (NP (NN film) (NN history)))))) (. !)))
-(ROOT (S (NP (NP (`` ``) (NP (NNP Meteor)) ('' '') (PRN (-LRB- -LRB-) (NP (CD 1979)) (-RRB- -RRB-))) (VP (VBZ gives) (NP (NP (JJ new) (NN meaning)) (S (VP (TO to)))) (NP (DT the) (NN term) (`` ``) (NN disaster) (NN movie) (. .) ('' ''))))))
-(ROOT (S (ADVP (RB Unfortunately)) (, ,) (NP (DT a) (JJ better-than-necessary) (NN cast)) (VP (VBZ is) (VP (VBN trapped) (PP (IN in) (NP (NP (DT the) (NN wreckage)) (, ,) (PP (VBG including) (NP (NP (NNP Henry) (NNP Fonda)) (PP (IN as) (NP (NP (DT the) (NNP President)) (PP (IN of) (NP (DT the) (NNP United) (NNPS States))))))))))) (. .)))
-(ROOT (NP (NP (JJ Good)) (PP (IN for) (NP (DT a) (JJ few) (JJ unintentional) (NNS laughs))) (. .)))

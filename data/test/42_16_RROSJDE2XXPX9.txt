@@ -1,3 +1,0 @@
-(ROOT (S (VP (VBD Did) (RB not) (VP (VB work) (PRT (IN out)) (PP (IN of) (NP (DT the) (NN box))))) (. .)))
-(ROOT (S (NP (CD One) (NN joystick)) (VP (VBD was) (VP (VBN stuck) (ADVP (RB permanently)) (S (VP (VBG moving) (ADVP (RB left)))))) (. .)))
-(ROOT (S (S (UCP (VP (VBN Returned)) (CC and) (ADJP (JJ second) (NP-TMP (CD one))))) (VP (VBD survived) (NP-TMP (DT a) (JJ few) (NNS months)) (SBAR (IN before) (S (NP (PRP it)) (VP (VBD quit) (S (VP (VBG working))))))) (. .)))

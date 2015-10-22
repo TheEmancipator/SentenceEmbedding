@@ -1,2 +1,0 @@
-(ROOT (S (PP (IN For) (NP (DT the) (NN price))) (, ,) (NP (PRP you)) (ADVP (RB really)) (VP (MD should) (RB n't) (VP (VB pass) (PRT (RP up)) (NP (DT this) (NN opportunity)) (SBAR (IN for) (FRAG (PP (JJ such) (NP (DT a) (NN fun) (NN instrument))))))) (. .)))
-(ROOT (S (S (NP (PRP They)) (VP (VBP 're) (ADVP (RB just)) (NP (NP (DT the) (JJ right) (NN size)) (PP (IN for) (NP (DT the) (NN hand)))))) (, ,) (CC and) (S (VP (VBG inviting) (S (VP (TO to) (VP (VB use)))))) (. .)))

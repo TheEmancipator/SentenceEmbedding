@@ -1,3 +1,0 @@
-(ROOT (S (SBAR (IN Although) (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ skeptical))))) (, ,) (NP (DT this)) (VP (VBZ holds) (PP (IN onto) (NP (NP (DT the) (NN dash)) (PP (IN in) (NP (CC both) (NP (PRP$ my) (NNP Highlander)) (CC and) (NP (NNP RX300))))))) (. .)))
-(ROOT (S (NP (NP (DT The) (NN ball)) (VP (VBN attached) (ADVP (RB directly)) (PP (TO to) (NP (DT the))))) (VP (VBP mount) (SBAR (IN that) (S (VP (VBD came) (PP (IN with) (NP (PRP$ my) (NNP Nuvi))) (NP-TMP (CD 360)))))) (. .)))
-(ROOT (S (NP (DT No) (JJ other) (NNS kits)) (VP (VBD were) (VP (VBN required))) (. .)))

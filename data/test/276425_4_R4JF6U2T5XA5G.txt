@@ -1,5 +1,0 @@
-(ROOT (S (NP (PRP We)) (VP (VBD got) (NP (DT these) (NNS stilts)) (PP (IN for) (NP (DT a) (NN gift))) (PP (IN for) (NP (PRP$ our) (NN daughter)))) (. .)))
-(ROOT (S (NP (PRP She)) (VP (VBZ loves) (NP (PRP them))) (. .)))
-(ROOT (S (NP (PRP They)) (VP (VP (VBP are) (ADVP (RB well)) (VP (VBN built))) (, ,) (CC but) (VP (ADVP (RB still)) (ADVP (RB just) (NP (DT a) (JJ little))) (PP (TO to) (NP (NP (JJ big)) (PP (IN for) (NP (PRP$ her))) (PRN (-LRB- -LRB-) (S (NP (PRP she)) (VP (VBZ is) (NP (CD 9)))) (-RRB- -RRB-)))))) (. .)))
-(ROOT (S (NP (PRP She)) (VP (MD can) (ADVP (RB still)) (VP (VB manage) (S (VP (TO to) (VP (VB maneuver) (PP (IN around) (NP (DT the) (NN house))) (ADVP (RB quite) (RB well))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD would) (VP (VB recommend) (NP (PRP them)) (PP (IN for) (NP (NN purchase))))) (. .)))

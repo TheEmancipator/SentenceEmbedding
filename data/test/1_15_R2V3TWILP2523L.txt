@@ -1,4 +1,0 @@
-(ROOT (S (NP (DT This) (NN book)) (VP (VBZ is) (ADVP (RB simply)) (ADJP (JJ amazing))) (. .)))
-(ROOT (S (S (NP (PRP It)) (VP (VBZ is) (NP (DT the) (JJ first) (CD one)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP read) (PP (IN from) (NP (NNP Oscar) (NNP Wilde)))))))) (CC and) (S (NP (PRP I)) (VP (VBP have) (S (VP (TO to) (VP (VB admit) (SBAR (S (NP (PRP I)) (VP (VBD was) (VP (VBN amazed) (PP (IN by) (SBAR (WHADJP (WRB how) (JJ good)) (S (NP (PRP he)) (VP (VBD was) (PP (IN in) (S (VP (VBG choosing) (NP (DT the) (JJ right) (NNS words)) (S (VP (TO to) (VP (VB form) (NP (NNS sentences))))))))))))))))))))) (. .)))
-(ROOT (S (S (NP (NNP Dorian) (NNP Gray)) (VP (VBZ is) (NP (DT an) (JJ amazing) (NN character)))) (CC and) (S (NP (PRP I)) (VP (VBP think) (PP (IN that) (NP (PRP it) (NNS appeals))) (PP (TO to) (NP (NP (NN everyone)) (PP (IN in) (NP (DT a) (JJ certain) (NN way))))))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (DT a) (NN must-read))) (. .)))

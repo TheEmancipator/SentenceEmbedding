@@ -1,6 +1,0 @@
-(ROOT (S (NP (NNP Great)) (, ,) (VP (VB buy) (NP (NP (DT a) (ADJP (RBR more) (JJ expensive)) (NN piece)) (PP (IN of) (NP (NN hardware)))) (SBAR (IN so) (S (NP (PRP you)) (VP (MD can) (VP (VB download) (NP (NP (NNS games)) (SBAR (WHNP (WDT that)) (S (VP (VBP are) (VP (VBN locked) (PP (TO to) (NP (PRP it))))))))))))) (. .)))
-(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ great) (NN step)) (PP (IN in) (NP (NP (DT the) (NN direction)) (PP (IN of) (S (VP (VBG renting) (NP (DT all) (PRP$ your) (NNS games))))))))) (. .)))
-(ROOT (NP (DT No) (NNS thanks) (. .)))
-(ROOT (S (NP-TMP (NN Plus)) (, ,) (NP (PRP you)) (VP (VBP lose) (ADVP (RB backwards) (NP (NP (NN compatibility)) (PP (IN of) (NP (DT the) (NNP GBA)))))) (. .)))
-(ROOT (NP (NP (JJR Shorter) (NN battery) (NN life)) (PP (IN than) (NP (DT the) (NN DS) (NNP Lite))) (. !)))
-(ROOT (S (NP (DT The) (NN DS) (NN lite)) (VP (VBZ is) (NP (DT a) (ADJP (JJR cheaper) (CC and) (JJR better)) (JJ portable) (NN system))) (. .)))

@@ -1,4 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VP (VBP have) (VP (VBN used) (NP (JJ many) (NNS irons)) (PP (IN in) (NP (PRP$ my) (NN life))))) (CC but) (VP (VBP have) (RB not) (VP (VBN liked) (NP (DT any)) (ADVP (ADVP (RB as) (RB well)) (SBAR (IN as) (S (NP (PRP I)) (VP (VBP like) (NP (DT this) (NN iron))))))))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBZ has) (NP (NP (DT a) (JJ removable) (NN water) (NN reserve)) (SBAR (WHNP (WDT which)) (S (VP (VBZ makes) (S (VP (VBG emptying) (S (NP (PRP it)) (ADJP (RB very) (JJ easy)))))))))) (. .)))
-(ROOT (S (S (NP (PRP I)) (VP (VBD ordered) (NP (DT this) (NN iron)))) (, ,) (S (NP (DT the) (NN price)) (VP (VBD was) (ADJP (JJ right)))) (CC and) (S (NP (PRP it)) (VP (VBD arrived) (PP (IN at) (NP (NP (PRP$ my) (NN home)) (ADJP (RB very) (RB speedily)))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD would) (ADVP (RB highly)) (VP (VB recommend) (NP (DT this) (NN iron)))) (. .)))

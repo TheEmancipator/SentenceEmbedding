@@ -1,3 +1,0 @@
-(ROOT (S (NP (NN Product)) (VP (VP (VBD arrived) (ADVP (RB quickly))) (CC and) (VP (VBD was) (ADVP (RB just)) (PP (IN as) (NP (VBN advertised))))) (. .)))
-(ROOT (S (NP (NN installation)) (VP (VBD was) (NP (DT a) (NN snap))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD would) (VP (VB buy) (ADVP (RB again)) (SBAR (IN if) (S (VP (VBN needed))))))))

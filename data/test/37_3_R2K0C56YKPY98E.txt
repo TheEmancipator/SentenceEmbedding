@@ -1,2 +1,0 @@
-(ROOT (S (NP (NP (NP (DT The) (ADJP (ADJP (JJ bright)) (PRN (-LRB- -LRB-) (FRAG (CONJP (CC but) (RB not)) (NP (NN neon))) (-RRB- -RRB-))) (JJ yellow)) (, ,) (NP (JJ great) (JJ gazing) (NN wolf) (NN torso)) (, ,)) (CC and) (NP (NP (DT The) (NNP Mountain) (POS 's)) (NN quality) (NN manufacture))) (VP (VBP make) (NP (NP (DT this) (CD one)) (PP (IN of) (NP (PRP$ my) (NNS favs))))) (. .)))
-(ROOT (NP (. !)))

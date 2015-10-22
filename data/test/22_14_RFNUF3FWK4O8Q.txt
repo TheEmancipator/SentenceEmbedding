@@ -1,4 +1,0 @@
-(ROOT (S (NP (DT This)) (VP (VBD was) (NP (DT an) (JJ excellent) (NN read))) (. .)))
-(ROOT (S (NP (DT The) (NN story)) (VP (VBZ is) (UCP (VP (ADVP (RB fast)) (VBN paced)) (CC and) (ADJP (JJ interesting)))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (CD one)) (PP (IN of) (NP (NP (DT those) (NNS books)) (SBAR (S (NP (PRP I)) (VP (MD will) (VP (VB be) (VP (VBG reading) (ADVP (RB again))))))))))) (. .)))
-(ROOT (S (S (NP (PRP I)) (VP (VBP 've) (ADVP (RB never)) (VP (VBN been) (PP (IN into) (S (VP (VBG reading))))))) (S (X (X (SYM *)) (NP (NNS thrillers))) (X (SYM *)) (NP (CC but)) (VP (VBP think) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (PP (IN about) (NP (NP (NN time)) (SBAR (S (NP (PRP I)) (VP (VBD did))))))))))) (. .)))

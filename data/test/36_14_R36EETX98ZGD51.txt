@@ -1,7 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBP have) (NP (JJ fair) (VBN colored) (NN skin))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VP (VBD applied) (NP (DT the) (NN lotion)) (ADVP (ADVP (RB once) (RB daily)) (SBAR (IN as) (S (VP (VBN directed) (PP (IN for) (NP (DT a) (NN week)))))))) (CC and) (VP (VBD had) (NP (QP (RB almost) (DT no)) (NNS results)))) (. .)))
-(ROOT (S (NP (DT The) (JJ last) (CD 2) (NNS days)) (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (VP (VBG applying) (S (S (NP (PRP it)) (ADVP (RB twice) (RB daily))) (CC and) (S (ADVP (RB still)) (NP (RB almost) (DT no) (NNS results))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP 'm) (RB not) (ADJP (JJ satified))) (. .)))
-(ROOT (S (NP (PRP I)) (ADVP (RB just)) (VP (VP (VBD purchased) (NP (DT the) (NN medium/tan) (NN skin) (NN tone) (CD one))) (CC and) (VP (VBP am) (VP (VBG hoping) (SBAR (IN that) (S (VP (VBZ does) (NP (DT the) (NN trick)))))))) (. .)))
-(ROOT (S (PP (IN On) (NP (DT the) (JJ positive) (NN side))) (, ,) (NP (PRP it)) (VP (VP (VBZ smells) (ADJP (ADJP (JJ good)) (PRN (-LRB- -LRB-) (PP (IN in) (NP (PRP$ my) (NN opinion))) (-RRB- -RRB-)))) (CC and) (VP (VBZ works) (ADVP (RB well)) (PP (IN as) (NP (DT a) (NN moitsurizer))))) (. .)))
-(ROOT (S (NP (NP (PRP$ My) (NN goal)) (ADJP (IN though))) (, ,) (VP (VBZ is) (S (VP (TO to) (VP (VB have) (NP (DT a) (ADJP (JJ natual) (S (VP (VBG looking) (ADJP (VBN tanned))))) (NN face)))))) (. .)))

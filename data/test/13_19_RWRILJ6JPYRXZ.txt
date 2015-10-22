@@ -1,5 +1,0 @@
-(ROOT (SINV (S (NP (PRP It)) (VP (VBZ is) (ADJP (RB so) (JJ refreshing)) (S (VP (TO to) (RB not) (VP (VB have) (S (VP (TO to) (VP (VB worry) (PP (IN about) (S (VP (VBG letting) (NP (PRP$ your) (NN child))))))))))))) (VP (VBD put) (NP (NN something)) (PP (IN in) (NP (NN his/her) (NN mouth)))) (NP (CD !!!))))
-(ROOT (S (PP (IN With) (NP (NP (PDT all) (DT the) (NNS worries)) (PP (IN of) (NP (NN lead) (NN paint))))) (, ,) (NP (DT this) (NN product)) (VP (VBZ is) (NP (DT a) (DT a) (JJ great) (NN reliever))) (. !)))
-(ROOT (S (NP (PRP It)) (VP (VBZ is) (VP (VBN made) (PP (IN in) (NP (DT the) (JJ French) (NNPS Alps))) (PP (IN with) (NP (NP (JJ natural) (NN rubber)) (CC and) (NP (NP (JJ non-toxic) (NN paint)) (SBAR (WHNP (WDT which)) (S (VP (VBD made) (SBAR (S (NP (PRP it)) (VP (VBZ 's) (VP (VBG selling) (NP (NN point)) (PP (IN with) (NP (PRP me))))))))))))))) (. .)))
-(ROOT (S (S (NP (PRP$ My) (NN child)) (VP (VBZ loves) (NP (PRP it)))) (CC and) (S (NP (DT the) (NN size)) (VP (VBZ is) (ADJP (JJ perfect) (PP (IN for) (NP (JJ little) (NNS hands)))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP recommend) (NP (DT this) (NN product))) (. !)))

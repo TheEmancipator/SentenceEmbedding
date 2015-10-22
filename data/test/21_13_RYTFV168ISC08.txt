@@ -1,3 +1,0 @@
-(ROOT (S (NP (DT The) (NNP Belkin) (NN sleeve)) (VP (VBZ does) (SBAR (WHNP (WP what)) (S (NP (PRP$ its)) (VP (VBN supposed) (S (VP (TO to) (VP (VB do)))) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (VP (VB protect) (NP (NP (PRP$ my) (NN Kindle)) (NP (CD 2))))))))))) (. .)))
-(ROOT (NP (NP (NN Nothing) (JJ fancy)) (PP (IN about) (NP (PRP it))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP wasnt) (NP (NP (DT a) (NN fan)) (PP (IN of) (NP (DT the) (JJ original) (NP (NNP Kindle) (POS 's)) (NN case)))) (SBAR (IN so) (S (NP (PRP I)) (VP (VBD opted) (PP (IN for) (NP (NN something))) (SBAR (IN that) (S (NP (PRP it)) (ADVP (RB just)) (VP (VBZ slides) (ADVP (IN in) (CC and) (IN out)) (PP (IN of))))))))) (. .)))

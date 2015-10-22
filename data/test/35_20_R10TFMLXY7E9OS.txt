@@ -1,4 +1,0 @@
-(ROOT (S (NP (DT This) (NN product)) (VP (VBZ has) (VP (VBN worked) (ADVP (RB well)) (PP (IN for) (NP (PRP me))) (PP (IN for) (NP (NP (NNS years)) (PP (IN on) (NP (CD 2) (NNS dogs))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP have) (ADVP (RB never)) (VP (VBN had) (NP (DT a) (NN problem)) (PP (IN with) (NP (NNS fleas) (CC or) (NNS ticks))) (SBAR (IN while) (S (VP (VBG using) (NP (DT this))))))) (. .)))
-(ROOT (S (S (NP (PRP It)) (VP (VBZ is) (ADJP (ADJP (RB substantially) (JJR cheaper)) (PP (IN than) (NP (NN advantage) (CC or) (NN frontline)))))) (CC but) (S (NP (PRP it)) (VP (VBZ works) (ADJP (ADJP (RB just) (RB as) (JJ good)) (IN if) (ADJP (RB not) (JJR better))))) (. .)))
-(ROOT (S (NP (DT The) (JJ only) (NN downside)) (VP (VBZ is) (NP (NP (DT the) (JJ citrusy) (NN smell)) (SBAR (WHNP (WDT that)) (S (VP (VBZ lasts) (NP (CD 24-48) (NNS hours))))))) (. .)))

@@ -1,5 +1,0 @@
-(ROOT (S (NP (DT These)) (VP (VBP are) (ADJP (RB so) (JJ yummy))) (. !)))
-(ROOT (S (NP (DT The) (JJ whole) (NN family)) (VP (VBZ enjoys) (NP (NP (DT these)) (PP (IN as) (NP (DT a) (NN snack))))) (. .)))
-(ROOT (S (NP (PRP$ My) (NNS kids)) (VP (MD would) (RB rather) (VP (VB eat) (NP (NP (NNP Funky) (NNP Monkey)) (PP (IN for) (NP (DT a) (NN snack)))) (PP (IN than) (NP (NN fruit) (NNS snacks))))) (. .)))
-(ROOT (S (CC And) (NP (DT these)) (VP (VBP are) (ADVP (RB actually)) (NP (NP (NN fruit)) (, ,) (SBAR (WHNP (WDT which)) (S (PP (IN as) (NP (DT a) (NN mom))) (NP (PRP I)) (VP (VBP feel) (ADJP (JJ great) (IN about))))))) (. !)))
-(ROOT (S (NP (PRP I)) (VP (MD would) (ADVP (RB highly)) (VP (VB recommend) (NP (DT this) (NN product)))) (. .)))

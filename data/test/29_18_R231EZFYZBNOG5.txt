@@ -1,3 +1,0 @@
-(ROOT (S (NP (DT This) (NN hat)) (VP (VBZ is) (ADJP (RB so) (JJ weird) (CC and) (JJ funny))) (. !)))
-(ROOT (S (NP (DT This)) (VP (VBZ has) (VP (VBN got) (S (VP (TO to) (VP (VB be) (ADVP (DT the) (RBS most)) (NP (NP (NN fun)) (SBAR (S (NP (PRP I)) (VP (VBP have) (ADVP (RB ever)) (VP (VBN had) (S (VP (VBG putting) (NP (NN poultry)) (PP (IN on) (NP (PRP$ my) (NN head))))))))))))))) (. !)))
-(ROOT (S (CC But) (ADVP (RB seriously)) (, ,) (NP (DT This) (NN thing)) (VP (VBD made) (NP (PRP$ my) (NN day)) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD got) (NP (PRP it)) (PP (IN in) (NP (DT the) (NN mail))))))) (. .)))

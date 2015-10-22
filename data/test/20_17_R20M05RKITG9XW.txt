@@ -1,4 +1,0 @@
-(ROOT (S (NP (DT This) (NN DVD)) (VP (MD will) (VP (VB make) (S (NP (PRP you)) (ADJP (ADJP (ADJP (JJR thinner)) (PRN (, ,) (NP (NN tanner)) (, ,))) (CC and) (ADJP (RBR more) (JJ attractive) (PP (TO to) (NP (DT both) (NNS men) (CC and) (NNS women)))))))) (. .)))
-(ROOT (NP (NP (NN Stuff)) (SBAR (S (NP (PRP it)) (PP (IN in) (NP (PRP$ your) (NNS pants) (CC or) (NN bra))) (VP (TO to) (VP (VB get) (NP (DT that) (JJ extra) (NN edge)))))) (. .)))
-(ROOT (S (NP (PRP You)) (VP (VBD did) (RB n't) (VP (VB do) (NP (DT a) (JJ good) (NN job)))) (. .)))
-(ROOT (NP (NP (JJ Great)) (NP (NNP Job)) (. !)))

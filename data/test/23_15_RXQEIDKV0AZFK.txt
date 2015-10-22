@@ -1,3 +1,0 @@
-(ROOT (S (NP (PRP I)) (ADVP (RB just)) (VP (VBD wanted) (S (VP (TO to) (VP (VB write) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD watched) (NP (DT this) (NN show)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBD aired) (PP (IN on) (NP (NNP HBO))) (NP-TMP (DT this) (JJ past) (NN summer)))))))))))) (. .)))
-(ROOT (S (S (NP (DT The) (NN dvd) (NN box) (NN set)) (VP (VBZ is) (ADJP (JJ sure) (S (VP (TO to) (VP (VB be) (ADJP (JJ awesome)))))))) (, ,) (CC and) (S (NP (PRP I)) (VP (MD will) (VP (VB be) (VP (VBG purchasing) (PP (IN on) (NP (NNP Bluray))))))) (. .)))
-(ROOT (S (NP (DT The) (NN DVD)) (VP (VBZ is) (VP (VBG being) (VP (VBN released) (PP (IN on) (NP (NNP June) (JJ 24th))) (, ,) (PP (VBG according) (PP (TO to) (NP (NNP HBO))))))) (. .)))

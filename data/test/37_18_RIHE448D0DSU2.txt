@@ -1,4 +1,0 @@
-(ROOT (S (NP (EX There)) (VP (VBZ 's) (ADVP (RB really)) (RB not) (ADJP (JJ much) (S (VP (TO to) (VP (VB say) (PP (IN about) (NP (DT this) (NN film)))))))) (. .)))
-(ROOT (S (S (NP (EX There)) (VP (VBD were) (NP (NP (DT a) (JJ few) (JJ funny) (NNS moments)) (SBAR (WHNP (WDT that)) (S (VP (VBD had) (S (NP (PRP me)) (VP (VBG laughing) (ADVP (RP out) (RB loud)))))))))) (, ,) (CC but) (S (ADVP (RB overall)) (NP (NP (DT the) (NN storyline)) (ADVP (PRP itself))) (VP (VBZ is) (ADJP (RB just) (JJ awful)))) (. .)))
-(ROOT (NP (NP (NP (NP (CD 2002) (POS 's)) (NN version)) (PP (IN of) (NP (NN blackploitation)))) (. .)))
-(ROOT (NP (NP (NNS Lots)) (PP (IN of) (NP (NP (JJ talented) (NNS actors)) (SBAR (WHNP (WP who)) (S (VP (MD should) (VP (VB be) (VP (VBG working) (PP (IN with) (NP (NP (NN material)) (ADJP (RBR more) (JJ worthy)) (PP (IN of) (NP (PRP$ their) (NNS skills)))))))))))) (. .)))

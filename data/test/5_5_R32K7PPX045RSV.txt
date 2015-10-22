@@ -1,2 +1,0 @@
-(ROOT (S (S (NP (DT This) (NN shirt)) (VP (VBZ is) (NP (DT a) (JJ top) (NN quality) (NN product)))) (, ,) (CC and) (S (NP (NP (DT the) (NN price)) (VP (VBN charged))) (VP (VBZ is) (ADJP (JJ excellent)))) (. .)))
-(ROOT (S (NP (PRP We)) (VP (VBD were) (ADJP (RB totally) (VBN pleased) (PP (IN with) (NP (NP (DT the) (NN product)) (CC and) (NP (DT the) (NN seller)))))) (. .)))

@@ -1,1 +1,0 @@
-(ROOT (S (PP (IN With) (NP (NP (DT a) (JJ little) (NN peanut) (NN butter)) (CC and) (NP (NN jelly)))) (, ,) (NP (DT these) (NNS things)) (VP (VBP make) (NP (NP (DT a) (JJ great) (NN snack)) (PP (IN on) (NP (DT the) (NN go))))) (. .)))

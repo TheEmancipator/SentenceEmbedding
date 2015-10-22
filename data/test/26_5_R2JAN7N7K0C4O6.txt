@@ -1,7 +1,0 @@
-(ROOT (NP (NP (DT The) (NN pinnacle)) (PP (IN of) (NP (NN bat) (NN perfection))) (. .)))
-(ROOT (S (NP (NN Blood) (NNS stains)) (VP (VBP wash) (PRT (RP off)) (ADVP (RB easily)) (PP (IN with) (NP (NN soap) (CC and) (NN water)))) (. .)))
-(ROOT (S (NP (NNPS Femurs)) (VP (VBP snap) (SBAR (IN like) (S (NP (NP (NNS toothpicks)) (PP (IN under) (NP (PRP it)))) (VP (VBZ 's) (NP (JJ irresistible) (NN force)))))) (. .)))
-(ROOT (S (NP (NNS Deadbeats)) (VP (VBP pay) (PRT (RP up)) (ADVP (RB instantly)) (PP (IN at) (NP (NP (DT the) (JJ mere) (NN sight)) (PP (IN of) (NP (DT this) (NN instrument)))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VB imagine) (SBAR (WHADVP (WRB how)) (S (NP (PRP I)) (ADVP (RB ever)) (VP (VBD got) (PP (IN by) (PP (IN without) (NP (PRP it)))) (ADVP (RB before))))))) (. .)))
-(ROOT (S (NP (DT This) (NN thing)) (VP (MD could) (VP (VB drop) (NP (DT an) (NN elephant)))) (. .)))
-(ROOT (S (VP (VB Buy) (NP (DT this) (NN bat))) (. .)))

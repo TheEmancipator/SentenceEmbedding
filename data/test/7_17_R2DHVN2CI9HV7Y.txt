@@ -1,6 +1,0 @@
-(ROOT (S (ADVP (CC But)) (, ,) (SBAR (WHADVP (WRB why)) (S (VP (MD should)) (NP (PRP you)))) (VP (VB buy) (NP (DT this) (NN T&EASGJS) (NN 2DVD))) (. ?)))
-(ROOT (NP (NN Simple) (. .)))
-(ROOT (NP (NN Flexibility) (. !)))
-(ROOT (S (NP (DT The) (NN DVD)) (VP (MD can) (VP (VB double) (PP (IN as) (: :) (S (NP (NP (JJ Constant) (NNS Feelings)) (PP (IN of) (NP (NP (JJ Inescapable) (NN sorrow) (NN Disenfranchisement)) (PP (IN from) (NP (NP (NNS peers)) (CC and) (NP (JJ social) (NNS groups))))))) (VP (VBG Pretending) (S (NP (PRP$ its)) (ADJP (DT all) (JJ ok)) (S (VP (VBG Forgetting) (S (VP (TO to) (VP (VB take) (NP (PRP$ your) (NN medicine)) (S (VP (VBG Driving) (NP (DT a) (NN car)) (PP (IN off) (NP (NP (DT a) (NN slick)) (, ,) (NP (NP (JJ iced) (NN bridge)) (SBAR (S (NP (PRP It)) (VP (VBZ looks) (PP (IN like) (NP (NP (DT an) (NN accident)) (VP (VBG Smoldering) (NP (NP (NP (NN metal) (NN wreckage) (NN A)) (NP (JJ solitary) (NN smile)) (, ,) (ADVP (RB finally))) (PP (IN at) (NP (NN peace)))))))))))))))))))))))))) (. .)))
-(ROOT (NP (NP (NNP Great)) (PP (IN for) (NP (NP (NNPS Dads)) (CC and) (NP (NNS Grads)))) (. !)))
-(ROOT (S (VP (VB Buy) (NP (PRP it))) (. !)))

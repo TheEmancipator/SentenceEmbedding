@@ -1,4 +1,0 @@
-(ROOT (S (S (NP (PRP I)) (VP (VBD was) (ADJP (NP (DT a) (NN bit)) (JJ skeptical)) (PP (IN about) (S (VP (VBG buying) (S (NP (DT these)) (VP (VBG considering) (NP (NP (DT the) (NN price)) (SBAR (S (NP (PRP they)) (VP (VBD were)))))))))))) (, ,) (CC but) (S (NP (FW i)) (VP (VBD was) (ADJP (JJ wrong)))) (. .)))
-(ROOT (S (NP (PRP They)) (VP (VBP are) (ADJP (JJ amazing) (S (VP (TO to) (VP (VB feel) (PP (IN inside) (PP (IN of) (NP (PRP you))))))))) (. !)))
-(ROOT (S (NP (PRP I)) (VP (MD would) (RB rather) (VP (VB have) (NP (NP (NN something)) (ADJP (ADJP (JJ other) (PP (IN than) (NP (NN plastic)))) (, ,) (CC but) (ADJP (RB still) (JJ amazing)))))) (. .)))
-(ROOT (FRAG (PP (ADVP (RB Definitely)) (IN worth) (NP (DT the) (CD 99) (NNS cents))) (. .)))

@@ -1,3 +1,0 @@
-(ROOT (FRAG (ADVP (RB Yikes)) (. !)))
-(ROOT (S (S (NP (PRP I)) (VP (VBD loved) (NP (PDT all) (DT the) (JJ other) (NNS books)) (PP (IN in) (NP (DT the) (NN series))))) (CC but) (S (NP (DT this) (NN one)) (VP (VBD was) (ADJP (JJ horrible)))) (. !)))
-(ROOT (S (ADJP (JJ Sorry)) (NP (PRP I)) (VP (VBD stood) (PP (IN in) (NP (NN line))) (S (VP (TO to) (VP (VB have) (NP (NP (PRP$ her) (NN sign)) (NP (DT this) (NN book))))))) (. .)))

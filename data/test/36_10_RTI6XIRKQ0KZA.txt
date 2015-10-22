@@ -1,4 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ skeptical)) (SBAR (SBAR (WHADVP (WRB how) (RB well)) (S (NP (DT the) (NN curve)) (VP (MD would) (VP (VB work) (PP (IN on) (NP (DT this) (JJ huge) (NN slide))))))) (, ,) (CC but) (SBAR (IN with) (S (NP (NP (DT the) (NN water)) (VP (VBG running) (NP (PRP it)))) (VP (VBZ works) (ADJP (JJ great))))))) (. !)))
-(ROOT (S (NP (NNS Kids)) (VP (VBP fly) (PRT (RP up)) (NP (NP (DT the) (NN wall)) (PP (IN of) (NP (NP (DT the) (NN curve)) (SBAR (IN like) (S (NP (PRP they)) (VP (VBD were) (VP (VBG going) (PRT (RP down)) (NP (DT a) (NN water) (NN park) (NN waterslide)))))))))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN been) (ADJP (JJ great) (PP (IN for) (S (VP (VBG occupying) (NP (DT the) (NNS kids)) (PP (IN for) (NP (NP (NNS hours)) (PP (IN at) (NP (DT a) (NN time))))))))))) (. !)))
-(ROOT (S (ADVP (RB Definitely)) (VP (VB recommend) (NP (NN !!)))))

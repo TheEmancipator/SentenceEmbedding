@@ -1,2 +1,0 @@
-(ROOT (S (NP (NNP Herpes)) (VP (VBZ is) (ADJP (JJ great) (S (VP (TO to) (VP (VP (VB pass) (PRT (RP around)) (NP (DT the) (NN office))) (CC and) (VP (VB toss) (PP (TO to) (NP (JJ other) (NNS people))))))))) (. .)))
-(ROOT (S (S (NP (PRP He)) (VP (VBZ comes) (PRT (RP out)) (PP (IN at) (NP (DT the) (ADJP (RBS most) (JJ random)) (NNS times))))) (, ,) (CC but) (S (NP (PRP$ its) (ADJP (RB so) (JJ much)) (NN fun)) (VP (TO to) (VP (VB play) (PP (IN with))))) (. .)))

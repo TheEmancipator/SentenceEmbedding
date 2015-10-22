@@ -1,8 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBD had) (NP (DT this) (NN stuff)) (NP-TMP (RB almost) (DT every) (NN day)) (SBAR (IN while) (S (VP (VBG living) (PP (IN in) (NP (NP (NNP Chile)) (PP (IN for) (NP (CD 2) (NNS years))))))))) (. .)))
-(ROOT (S (S (VP (VB Let) (S (NP (PRP me)) (VP (VB tell) (NP (PRP you)))))) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (RB almost) (DT no) (NN comparison)) (PP (IN with) (NP (NP (DT the) (JJ non-fat) (NN milk)) (SBAR (S (NP (PRP we)) (VP (VBP drink) (ADVP (RB here)) (PP (IN in) (NP (DT the) (NNS states)))))))))) (. .)))
-(ROOT (S (NP (DT This) (NN stuff)) (VP (VBZ is) (ADVP (RB way)) (ADJP (JJR better))) (. .)))
-(ROOT (S (S (VP (VBP Do) (RB n't) (VP (VB quote) (NP (PRP me)) (PP (IN on) (NP (DT this)))))) (, ,) (S (CC but) (NP (PRP I)) (VP (VBD heard) (SBAR (IN that) (S (NP (NNP Nido)) (VP (VBZ is) (RB n't) (NP (ADJP (CD 100) (NN %)) (NN non-fat))))))) (. .)))
-(ROOT (S (S (NP (DT That)) (VP (VBG being) (NP (DT the) (NN case)))) (, ,) (NP (PRP it)) (VP (VBZ does) (RB n't) (VP (VB keep) (ADVP (RB as) (RB long)) (PP (IN as) (NP (JJ non-fat) (JJ powdered) (NN milk))))) (. .)))
-(ROOT (S (CC But) (NP (PRP I)) (VP (MD might) (VP (VB be) (ADJP (JJ wrong)))) (. .)))
-(ROOT (S (PP (IN At) (NP (DT any) (NN rate))) (, ,) (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ worth) (NP (PRP it)))) (. .)))
-(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (ADVP (RB really)) (VP (VBP want) (S (VP (TO to) (VP (VB make) (S (NP (PRP it)) (VP (VB taste) (ADJP (JJ good)))))))))) (VP (ADVP (RB just)) (VB add) (NP (NP (DT a) (JJ little) (NN bit)) (PP (IN of) (NP (NN sugar))) (S (VP (TO to) (VP (VB sweeten) (NP (PRP it)) (PRT (RP up))))))) (. .)))

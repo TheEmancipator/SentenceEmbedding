@@ -1,3 +1,0 @@
-(ROOT (FRAG (ADVP (RB Just)) (NP (JJ plain) (NN boring)) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VP (ADVP (RB usually)) (VBP do) (RB n't) (VP (VB read) (NP (PRP$ his) (NNS books)) (PP (IN with) (NP (JJ other) (NNS authors))))) (CC and) (VP (MD will) (VP (VB return) (PP (TO to) (NP (DT that) (NN practice))) (PP (IN after) (NP (DT this)))))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBZ is) (RB not) (NP (DT a) (NNP James) (NNP Patterson) (NN book))) (. .)))

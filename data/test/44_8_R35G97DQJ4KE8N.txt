@@ -1,5 +1,0 @@
-(ROOT (S (NP (NN Product)) (VP (VBZ is) (ADJP (JJ great) (PP (IN for) (NP (DT the) (NN price))))) (. .)))
-(ROOT (S (NP (PRP I)) (ADVP (RB actually)) (VP (VBD bought) (S (NP (DT these)) (VP (TO to) (VP (VB light) (PRT (RP up)) (NP (PRP$ my) (JJ American) (NN Flag)) (PP (IN at) (NP (NN night))))))) (. .)))
-(ROOT (S (NP (WDT Which)) (VP (VBZ is) (SBAR (WHNP (WP what)) (S (NP (PRP you)) (VP (VBP are) (S (VP (VB suppose) (S (VP (TO to) (VP (VB do) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP have) (NP (NP (DT a) (NN Flag)) (VP (VBG hanging) (PP (IN at) (NP (NN night))))))))))))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP am) (VP (VBG using) (NP (NP (DT both)) (PP (IN of) (NP (PRP them)))) (S (VP (TO to) (VP (VB light) (NP (DT the) (NN Flag)) (PRT (RP up))))))) (. .)))
-(ROOT (NP (NP (DT No) (JJ great) (JJ big) (NN spotlight)) (PP (CC but) (NP (SBAR (WHNP (WP what)) (S (NP (PRP I)) (VP (VBD needed)))) (CC and) (NP (NP (DT a) (NN price)) (SBAR (S (NP (PRP I)) (VP (VBD wanted))))))) (. .)))

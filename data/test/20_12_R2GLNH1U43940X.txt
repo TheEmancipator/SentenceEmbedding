@@ -1,2 +1,0 @@
-(ROOT (S (S (NP (PRP I)) (VP (VBD did) (RB n't) (VP (VB like) (NP (DT this)) (ADVP (IN at) (DT all))))) (, ,) (NP (PRP it)) (VP (VBD had) (NP (DT a) (ADJP (RB really) (JJ funky)) (NN taste))) (. .)))
-(ROOT (S (S (NP (PRP I)) (VP (VP (VBD tried) (NP (QP (JJ several) (NNS times))) (S (VP (TO to) (VP (VB drink) (NP (PRP it)))))) (CC and) (ADVP (RB finally)) (VP (ADVP (RB just)) (VBD threw) (NP (PRP it)) (PRT (RB away))))) (: -) (CC and) (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB really) (JJ tight) (PP (IN with) (NP (DT the) (NN dollar)))))) (. !)))

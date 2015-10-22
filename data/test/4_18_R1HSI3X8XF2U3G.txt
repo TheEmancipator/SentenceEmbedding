@@ -1,6 +1,0 @@
-(ROOT (S (NP (DT This) (NN movie)) (VP (VBD was) (ADJP (JJ excellent))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBD had) (VP (VBN avoided) (NP (PRP it)) (SBAR (IN because) (S (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (PRP it)) (VP (VBD was) (SBAR (IN as) (S (NP (DT the) (NNS critics)) (VP (VBD said)))))))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD should) (VP (VB have) (VP (VBN known)))) (. .)))
-(ROOT (S (NP (DT The) (NN cast)) (VP (VBD was) (UCP (ADJP (JJ great)) (CC and) (VP (VBN worked) (ADVP (RB together) (RB well))))) (. .)))
-(ROOT (S (S (NP (DT The) (NN premise)) (VP (VBD seemed) (S (VP (TO to) (VP (VB have) (VP (VBN jumped) (PP (IN from) (NP (NP (DT the) (NNS airwaves)) (PP (IN of) (NP (NP (NN coasttocoast)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP I)) (VP (VB happen) (S (VP (TO to) (VP (VB enjoy))))))))))))))))) (, ,) (CC and) (S (NP (DT the) (NN technology)) (, ,) (ADVP (RB well)) (, ,) (NP (NN unobtainium)) (VP (VBZ says) (S (NP (PRP it)) (NP (DT all))))) (. .)))
-(ROOT (S (NP (PRP I)) (ADVP (RB thoroughly)) (VP (VBD enjoyed) (NP (DT this) (NN movie)) (, ,) (SBAR (IN since) (S (NP (NP (DT the) (JJ real) (JJ raw) (NN material)) (PP (IN for) (NP (PRP it)))) (VP (VBD was) (NP (NN funobtainium)))))) (. .)))

@@ -1,2 +1,0 @@
-(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ great) (NN book)) (PP (IN for) (NP (NP (NNS kids)) (VP (VBG starting) (S (VP (TO to) (VP (VB learn) (NP (PRP$ their) (NNS letters) (CC and) (NNS sounds)))))))))) (. .)))
-(ROOT (S (NP (DT A)) (VP (MD must) (VP (VB have))) (. .)))

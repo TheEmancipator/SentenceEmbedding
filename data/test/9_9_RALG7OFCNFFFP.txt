@@ -1,5 +1,0 @@
-(ROOT (SINV (VP (VBZ Seems) (PP (IN like) (NP (NP (DT a) (JJ good) (NN quality) (NN product)) (, ,) (SBAR (IN except) (FRAG (SBAR (IN that) (S (NP (PRP I)) (VP (NNP CA) (VP (RB N'T) (NP (NNP PUT) (NNP IT))))))))) (ADVP (RB TOGETHER)))) (NP (CD !!!))))
-(ROOT (S (NP (PRP I)) (VP (VBD came) (S (VP (VBG missing) (NP (DT some) (NNS screws))))) (. .)))
-(ROOT (S (S (NP (DT The) (NN instruction) (NN manual)) (VP (VBZ lists) (SBAR (S (NP (DT all)) (VP (VBD included) (NP (NNS parts))))))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG missing) (NP (CD 8) (NNS screws))))) (. .)))
-(ROOT (NP (: --) (NP (NP (NNP UPDATE)) (: --) (S (SBAR (RB Even) (IN if) (S (NP (PRP I)) (VP (VBD were) (ADJP (JJ able) (S (VP (TO to) (VP (VB assemble) (NP (DT the) (NN bike) (NN rack))))))))) (, ,) (NP (PRP$ my) (NN bike)) (VP (VBZ does) (RB n't) (ADVP (RB even)) (VP (VB fit) (PP (IN on) (NP (PRP it))))))) (. .)))
-(ROOT (S (NP (DT The) (NN disc) (NNS brakes)) (VP (VBD hit) (NP (DT the) (NN side) (NN bar)) (SBAR (IN before) (S (NP (DT the) (NN wheel)) (VP (VBZ is) (ADVP (RB fully)) (PP (IN in) (NP (NN place))))))) (. .)))

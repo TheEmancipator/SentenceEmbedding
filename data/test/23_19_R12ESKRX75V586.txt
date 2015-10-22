@@ -1,4 +1,0 @@
-(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (DT an) (JJ excellent) (NN read)) (SBAR (IN if) (S (NP (PRP you)) (VP (VP (VBP are) (VP (VBG suffering) (PP (IN from) (NP (NN insomnia))))) (, ,) (CC or) (VP (VB need) (S (VP (TO to) (VP (VB purge) (NP (PRP$ your) (NN stomach)))))))))) (. .)))
-(ROOT (NP (NP (DT A) (NN combination)) (PP (IN of) (NP (ADJP (RB mind-numbingly) (JJ stupid) (CC and) (JJ vomit-inducing)) (NN stupidity))) (. .)))
-(ROOT (S (VP (VP (VB Save) (NP (PRP$ your) (NN money))) (CC and) (VP (ADVP (RB just)) (VB drink) (NP (DT some) (NN Drain-O)))) (. .)))
-(ROOT (S (NP (PRP You)) (VP (MD 'll) (ADVP (RB actually)) (VP (VB feel) (ADVP (JJR better) (IN than)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP read) (NP (DT this) (NN excretion))))))) (. .)))

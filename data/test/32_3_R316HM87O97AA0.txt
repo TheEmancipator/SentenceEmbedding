@@ -1,2 +1,0 @@
-(ROOT (S (S (NP (NN Product)) (VP (VBD was) (PP (IN in) (NP (JJ excellent) (NN condition))) (PP (IN upon) (NP (NN arrival))))) (, ,) (CC but) (S (NP (PRP$ my) (NN pet)) (VP (VBD did) (PP (RB not) (IN like) (NP (PRP it))))) (. .)))
-(ROOT (S (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADVP (NN kind) (IN of)) (JJ loud)))) (CC and) (S (NP (PRP it)) (ADVP (RB still)) (VP (VBZ scares) (NP (PRP her)))) (. .)))

@@ -1,2 +1,0 @@
-(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VP (VBP are) (PP (IN in) (PP (TO to) (NP (NN homeopathy))))) (CC and) (VP (VBP want) (S (VP (TO to) (VP (VB use) (NP (JJ such) (NNS toxins)) (PP (IN as) (NP (NN Poison) (NN ivy) (CC and) (NN belladonna))) (PP (IN on) (NP (PRP$ your) (JJ beloved) (NN pet)))))))))) (, ,) (ADVP (RB then)) (NP (DT this) (NN book)) (VP (VBZ is) (PP (IN for) (NP (PRP you)))) (. .)))
-(ROOT (S (NP (NNP Mine)) (VP (VBZ is) (PP (IN in) (NP (DT the) (NN trash) (NN can)))) (. .)))

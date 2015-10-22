@@ -1,1 +1,0 @@
-(ROOT (S (S (NP (PRP I)) (VP (VBP mean))) (, ,) (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD wanted) (NP (PRP$ my) (NN crotch)))) (CC and) (S (NP (PRP$ my) (NNS hands) (S (VP (TO to) (VP (VB have) (NP (NP (RBR more)) (PP (IN in) (NP (JJ common)))))))) (, ,) (ADVP (RB now)) (NP (PRP they)) (VP (VBP do))) (. !)))

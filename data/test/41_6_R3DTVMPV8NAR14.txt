@@ -1,3 +1,0 @@
-(ROOT (S (PP (IN For) (NP (DT a) (JJR better) (NN fit))) (, ,) (NP (PRP I)) (VP (VBD ordered) (NP (NP (DT a) (`` ``) (NN youth) (JJ Large) ('' '')) (SBAR (IN because) (S (NP (PRP I)) (VP (VP (VBP have) (NP (DT a) (JJ small) (NN figure))) (CC and) (VP (VBD did) (RB n't) (VP (VB want) (NP (DT a) (JJ loose) (NN fit))))))))) (. .)))
-(ROOT (S (NP (NP (DT The) (NNS wolves)) (PP (IN on) (NP (DT the) (NN t-shirt)))) (VP (VB fade) (PP (IN into) (NP (NP (DT the) (NN background)) (ADVP (NP (DT a) (NN lot)) (JJR more)))) (SBAR (IN than) (S (NP (PRP it)) (VP (VBZ shows) (PP (IN in) (NP (DT the) (NN picture))))))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBZ creates) (NP (NP (DT a) (JJ subtle) (NN effect)) (, ,) (SBAR (WHNP (WDT which)) (S (NP (PRP I)) (VP (VBP like)))))) (. .)))

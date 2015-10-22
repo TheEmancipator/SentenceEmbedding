@@ -1,4 +1,0 @@
-(ROOT (S (NP (DT That)) (VP (VBZ 's) (NP (JJ right) (NNS kids))) (. .)))
-(ROOT (S (VP (VBP Do) (RB n't) (VP (VB be) (VP (VBG doing) (NP (DT the) (NN sex) (NN thing))))) (. .)))
-(ROOT (S (CC But) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP are) (VP (VB be) (VP (VBG doing) (NP (DT the) (NN sex) (NN thing))))))) (, ,) (VP (VBP do) (RB n't) (VP (VB be) (VP (VP (VBG taking) (NP (DT no) (NNS pills))) (CC or) (VP (VBG putting) (NP (DT no) (NN rubber) (NNS things)) (PP (IN on) (NP (PRP$ your) (NN ding) (NN dong))) (S (VP (TO to) (VP (VB prevent) (NP (NP (NN god) (POS 's)) (NNS babies))))))))) (. .)))
-(ROOT (S (PP (IN After) (NP (DT all))) (, ,) (NP (PRP we)) (VP (VBP need) (NP (ADJP (RBR more) (JJ crazy)) (NNS people)) (S (VP (TO to) (VP (VB write) (NP (JJR more) (NN nonsense)) (PP (IN like) (NP (DT this))))))) (. .)))

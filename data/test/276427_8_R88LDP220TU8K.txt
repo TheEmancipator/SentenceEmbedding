@@ -1,7 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBP love) (NP (NP (DT the) (NN idea)) (PP (IN of) (NP (DT the) (NN singularity))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (NNP Ray) (NNP Kurzweil)) (VP (VBZ is) (NP (NP (DT a) (NN god)) (PP (IN among) (NP (NNS men)))))))) (. .)))
-(ROOT (S (NP (PRP$ His) (NN enthusiasm) (CC and) (NN passion)) (VP (VBP make) (S (NP (PRP me)) (VP (VB want) (S (VP (TO to) (VP (VB believe))))))) (. .)))
-(ROOT (S (CC But) (NP (PRP it)) (VP (MD may) (VP (VB take) (NP (PRP$ my) (JJ entire) (NN life)) (S (VP (TO to) (VP (VB finish) (S (NP (NN reading)) (NP (DT this) (NN book)))))))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADJP (ADJP (JJ dense)) (CC and) (ADJP (RB not) (RB very) (JJ beginner-friendly))) (PP (IN for) (NP (NP (DT those)) (PP (IN of) (NP (PRP us))) (SBAR (WHNP (WP who)) (S (VP (VBP want) (S (VP (TO to) (VP (VB learn) (NP (JJR more)) (PP (IN about) (NP (DT the) (NN topic)))))))))))) (. .)))
-(ROOT (S (VP (VBP Do) (RB n't) (VP (VB let) (SBAR (IN that) (S (VP (VB discourage) (NP (PRP you)) (ADVP (RB though))))))) (. .)))
-(ROOT (S (NP (DT This)) (VP (VBZ is) (ADVP (RB really)) (NP (ADJP (JJ powerful) (, ,) (JJ interesting)) (NN stuff))) (. .)))

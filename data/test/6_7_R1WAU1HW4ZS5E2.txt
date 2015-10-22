@@ -1,2 +1,0 @@
-(ROOT (S (NP (NP (JJ Bought) (DT this)) (PP (IN as) (NP (NP (DT a)) (VP (`` `) (VB cheer) (NP (PRP me)) (PRT (RP up)) ('' ') (PP (ADJP (JJ present) (PP (IN for) (NP (PRP$ my) (JJ second) (NN cousin)))) (IN after) (NP (PRP we))))))) (VP (VBD lost) (NP (DT the) (NN baby))) (. .)))
-(ROOT (S (NP (PRP She)) (VP (VBD LOVED) (S (NP (PRP IT)) (NP (NN !!!!))))))

@@ -1,4 +1,0 @@
-(ROOT (S (S (NP (PRP I)) (VP (VBD saw) (NP (DT this) (NN movie)) (PP (IN in) (NP (NP (DT the) (NNS theaters)) (NP-TMP (CD 6) (NNS times)))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBP love) (ADVP (NP (DT the) (NN DVD)) (RBR more)))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBZ has) (NP (JJ great) (JJ special) (NNS features))) (. .)))
-(ROOT (S (NP (PRP I)) (ADVP (RB really)) (VP (VB enjoy) (SBAR (WHADVP (WRB when)) (S (NP (NP (DT some)) (PP (IN of) (NP (DT the) (NNS actors)))) (VP (VBP are) (VP (VBN involved) (PP (IN in) (NP (DT the) (JJ audio) (NN commentary)))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP have) (VP (VP (VBN watched) (NP (PRP it)) (NP-TMP (JJ several) (NNS times)) (PP (IN at) (NP (NN home)))) (CC and) (VP (VB enjoy) (S (NP (PRP it)) (ADJP (RB just) (RB as) (JJ much) (PP (IN as) (NP (DT the) (JJ first) (NN time)))) (SBAR (S (NP (PRP I)) (VP (VBD saw) (NP (PRP it))))))))) (. .)))

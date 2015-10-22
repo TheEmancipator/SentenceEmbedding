@@ -1,7 +1,0 @@
-(ROOT (SBARQ (WHNP (WDT What)) (SQ (MD can) (NP (NP (CD one)) (ADVP (RB possibly))) (VP (VB say) (SBAR (S (NP (DT that)) (VP (VBZ is) (RB n't) (NP (NN self) (JJ explanatory))))))) (. ?)))
-(ROOT (FRAG (ADVP (RB Just)) (SBAR (IN as) (S (NP (PRP it)) (VP (VBZ looks) (: -) (NP (NP (NNS Band-Aids)) (SBAR (WHNP (WDT that)) (S (VP (VBP look) (PP (IN like) (NP (NN bacon)))))))))) (. .)))
-(ROOT (S (NP (NP (JJ Cool) (JJ enough)) (PP (IN in) (NP (PRP it)))) (VP (VBZ 's) (NP (JJ own) (NN right))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP 've) (VP (VBN been) (VP (VBG sitting) (ADVP (ADVP (RB here) (RB just)) (SBAR (X (SYM *)) (S (VP (VBG waiting) (S (SBAR (X (SYM *)) (S (NP (TO to)) (VP (VB cut) (NP (PRP myself)) (ADVP (RB just) (RB so))))) (NP (PRP I)) (VP (MD can)))) (NP-TMP (NP (NN slap) (CD one)) (PP (IN of) (NP (DT these) (JJ bad) (NNS boys) (IN on)))))) (, ,) (PP (TO to) (NP (NP (DT the) (NN envy)) (PP (IN of) (NP (DT all) (NNS friends) (CC and) (NNS coworkers))))))))) (. .)))
-(ROOT (S (NP (EX There)) (VP (VBZ 's) (ADVP (DT no) (NN doubt) (SBAR (IN that) (S (NP (NP (DT a) (NN slab)) (PP (IN of) (NP (NN bacon)))) (VP (MD will) (VP (VB heal) (NP (DT any) (NN wound)))))))) (. .)))
-(ROOT (SINV (VP (VBZ Comes)) (NP (NP (NN w)) (PRN (: /) (FRAG (NP (NP (NP (`` ``) (JJ free) (NN toy) ('' '')) (ADVP (RB too))) (: -) (NP (NP (DT a) (JJ tiny) (JJ little) (NN piglet)) (NP (NN figurine)))) (. .))))))
-(ROOT (SBARQ (WHADJP (WRB How) (ADJP (JJ demented))) (SQ (VBZ is) (NP (DT that))) (. .)))

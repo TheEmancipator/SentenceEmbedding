@@ -1,6 +1,0 @@
-(ROOT (S (NP (DT An) (JJ unknown) (NN author)) (VP (VBZ tries) (S (VP (TO to) (VP (`` ``) (VB uncover) ('' '') (NP (DT the) (NNP Tiger) (NNP Woods) (NN story)))))) (. ?)))
-(ROOT (S (NP (PRP We)) (ADVP (DT all)) (VP (VBP know) (SBAR (WHNP (WP what)) (S (VP (VBD happened) (NP-TMP (DT that) (NN night)))))) (. .)))
-(ROOT (S (NP (DT This) (NN book)) (VP (VBZ is) (ADJP (RB not) (JJ worth)) (NP (NP (DT the) ($ $) (CD 15)) (PP (IN for) (NP (DT a) (VBN used) (NN book))))) (. .)))
-(ROOT (S (VP (VB Save) (NP (PRP$ your) (NN money))) (. .)))
-(ROOT (NP (NP (NNP Steve) (NNP Helling)) (: ;) (S (VP (VB try) (S (VP (VBG getting) (NP (DT a) (JJ real) (NN story)) (NP-TMP (JJ next) (NN time)))))) (. .)))
-(ROOT (S (VP (VB Stop) (S (VP (VBG wasting) (NP (PRP$ our) (NN time)) (PP (IN with) (NP (DT this) (NN junk)))))) (. .)))

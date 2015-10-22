@@ -1,3 +1,0 @@
-(ROOT (FRAG (RB Not) (ADJP (JJ compatible) (PP (IN with) (PP (IN about) (NP (NN anything))))) (. .)))
-(ROOT (S (NP (NNP FM) (NN reception)) (VP (VBZ is) (ADJP (JJ terrible))) (. .)))
-(ROOT (NP (NP (NNP Pretty)) (NP (NP (ADJP (JJ sorry)) (NN product)) (PP (RB even) (IN for) (NP ($ $) (CD 20))))))

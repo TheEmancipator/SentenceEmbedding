@@ -1,3 +1,0 @@
-(ROOT (S (NP (DT These) (NNS tubes)) (VP (VBP work) (ADJP (JJ great)) (PP (IN with) (NP (DT the) (NNP BeerTender)))) (. .)))
-(ROOT (S (S (NP (PRP It)) (VP (VBZ is) (ADJP (RB very) (JJ easy)) (S (VP (TO to) (VP (VB swap) (NP (DT the) (NN keg)) (PRT (RP out))))))) (, ,) (CC and) (S (NP (DT the) (NN beer)) (ADVP (RB always)) (VP (VBZ tastes) (ADJP (JJ fresh)))) (. .)))
-(ROOT (S (NP (PRP$ My) (NNS friends)) (VP (VBP agree) (SBAR (IN that) (S (NP (DT the) (NN beer)) (VP (VBZ tastes) (ADJP (ADJP (RB much) (JJR better) (IN out)) (PP (IN of) (NP (DT the) (NNP BeerTender)))) (PP (IN than) (NP (DT the) (NN bottle))))))) (. .)))

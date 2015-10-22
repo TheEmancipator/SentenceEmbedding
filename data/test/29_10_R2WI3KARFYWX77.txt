@@ -1,6 +1,0 @@
-(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJS best) (NN DVD) (NN value)) (PP (IN on) (NP (NNP Amazon))))) (. .)))
-(ROOT (NP (NP (CD Eight) (NNS movies)) (PP (IN for) (NP (NP ($ $) (CD 10)) (CC and) (RB not) (NP (DT a) (JJ bad) (CD one)))) (PP (IN in) (NP (DT the) (NN bunch))) (. .)))
-(ROOT (S (NP (DT These) (NN B) (NNS movies)) (VP (VBP have) (NP (NP (DT some) (ADJP (RB well) (VBN known)) (NNS actors)) (, ,) (NP (JJ good) (NNS stories)) (CC and) (NP (ADJP (JJ decent)) (NN quality)))) (. .)))
-(ROOT (NP (NP (NN Plenty)) (PP (IN of) (NP (JJ topless) (NN nudity))) (ADVP (RB too)) (. .)))
-(ROOT (S (NP (DT A)) (VP (MD must) (VP (VB buy))) (. .)))
-(ROOT (S (NP (PRP You)) (VP (MD wo) (RB n't) (VP (VB be) (ADJP (JJ sorry)))) (. .)))

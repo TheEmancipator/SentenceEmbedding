@@ -1,2 +1,0 @@
-(ROOT (FRAG (ADJP (RB Very) (VBN pleased) (PP (IN with) (NP (NP (DT the) (NN product)) (CC and) (NP (PRP$ its) (NN quality))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD would) (VP (VB recommend) (NP (NP (DT this) (NN buckle)) (NP (DT any) (NN day))))) (. .)))

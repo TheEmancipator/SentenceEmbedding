@@ -1,5 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VP (VBD wanted) (S (VP (TO to) (VP (VB take) (NP (NP (NN advantage)) (PP (IN of) (NP (DT the) (NN video) (NN capability)))) (PP (IN on) (NP (DT the) (NNP Canon) (NN SD800IS) (JJ digital) (NN camera))))))) (CC and) (VP (VBD required) (NP (DT a) (JJ large) (NN memory) (NN card)))) (. .)))
-(ROOT (S (PP (VBN Given) (NP (NP (DT the) (NN way)) (SBAR (S (NP (NN memory) (NNS requirements)) (VP (VBP increase) (PP (IN over) (NP (NN time)))))))) (NP (PRP I)) (VP (VBD opted) (PP (IN for) (NP (DT the) (ADJP (JJS largest) (JJ available))))) (. .)))
-(ROOT (S (NP (PRP I)) (ADVP (RB also)) (VP (VBD wanted) (S (NP (DT a) (JJ fast) (NN memory)) (VP (VB write) (NP (NN speed))))) (. .)))
-(ROOT (S (NP (DT The) (NNP Transcend) (NNP 8Gb) (NNP SDHC) (NNP Class) (CD 6) (NN card)) (VP (VBD was) (NP (NP (DT the) (JJS best) (NN value)) (ADJP (JJ available)))) (. .)))
-(ROOT (S (ADVP (RB So) (RB far)) (NP (DT this) (NN card)) (VP (VBZ has) (VP (VBN worked) (ADVP (RB flawlessly)))) (. .)))

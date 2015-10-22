@@ -1,8 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBP have) (VP (VBN used) (NP (NP (NNP Olympus) (NNS cameras)) (PP (IN in) (NP (DT the) (NN past)))) (PP (IN without) (NP (DT any) (NNS complaints))))) (. .)))
-(ROOT (S (NP (DT This) (NN camera)) (VP (VBZ holds) (PRT (RP up)) (PP (TO to) (NP (PRP$ our) (NNS expectations)))) (. .)))
-(ROOT (S (NP (DT The) (NN picture) (NN quality)) (VP (VBZ is) (ADJP (JJ amazing))) (. .)))
-(ROOT (S (S (S (NP (DT The) (NN scene) (NNS modes)) (VP (VBP perform) (ADVP (RB well)))) (, ,) (CC but) (S (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VB use) (NP (PRP them)) (ADVP (DT that) (RB often)))))) (, ,) (NP (PRP we)) (VP (VBP prefer) (S (VP (TO to) (VP (VB point) (CC and) (VB shoot) (PP (IN with) (NP (DT the) (NN auto-mode))))))) (. .)))
-(ROOT (S (NP (DT This) (NN camera)) (VP (VBZ is) (VP (VBG replacing) (NP (NP (DT a) (NN 3MP) (NN nikon) (NN coolpix)) (, ,) (SBAR (WHNP (WDT that)) (S (ADVP (RB finally)) (VP (VBD wore) (PRT (RP out)))))))) (. .)))
-(ROOT (S (S (ADVP (RB Just)) (VP (VB remember) (SBAR (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP buy) (NP (DT this) (NN camera))))))) (, ,) (NP (PRP it)) (VP (VBZ is) (NP (NP (DT a) (NN pocket)) (SBAR (S (VP (VBD sized) (NP (JJ digital) (NN camera)) (PP (IN for) (NP (QP (IN around) ($ $) (CD 100))))))))) (. .)))
-(ROOT (SINV (VP (VBP Do) (RB n't) (VP (VB expect) (S (VP (TO to) (VP (VB be) (VP (VBG taking) (NP (NNS photos)) (PP (IN for)))))))) (NP (NNP National) (NNP Geographic)) (PP (IN !!))))
-(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (DT a) (JJ great) (JJ little) (NN camera) (NN :-RRB-)))))

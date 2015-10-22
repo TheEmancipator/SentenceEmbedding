@@ -1,6 +1,0 @@
-(ROOT (S (NP (DT this) (NN stand)) (VP (VBZ does) (RB not) (VP (VB work) (PP (IN with) (NP (NP (DT either)) (PP (IN of) (NP (PRP$ my) (NNS bikes))) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (NP (JJ front) (NN disc) (NNS brakes))))))))) (. .)))
-(ROOT (S (NP (PRP they)) (VP (VBP do) (RB not) (VP (VB fit))) (. .)))
-(ROOT (S (ADVP (RB Also)) (NP (PRP I)) (VP (VBD found) (S (NP (PRP it)) (VP (TO to) (VP (VB be) (PP (IN of) (NP (JJ poor) (NN quality))) (, ,) (S (VP (VBG using) (NP (JJ cheap) (NN hardware)))))))) (. .)))
-(ROOT (S (S (NP (PRP I)) (VP (VBD had) (S (VP (TO to) (VP (VP (VB use) (NP (DT a) (NN tap))) (CC and) (VP (VB die) (VP (VBN set) (ADVP (RB just)) (S (VP (TO to) (VP (VP (VB put) (NP (PRP it)) (ADVP (RB together))) (CC and) (VP (VB find) (PRT (IN out))))))))))))) (NP (PRP it)) (VP (VBZ sucks)) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBD returned) (NP (PRP it))) (. .)))
-(ROOT (S (NP (NNP Amazon)) (VP (VBD took) (NP (NP (NN care)) (PP (IN of) (NP (NP (DT the) (NN return)) (NP (DT no) (NN problem)))))) (. .)))

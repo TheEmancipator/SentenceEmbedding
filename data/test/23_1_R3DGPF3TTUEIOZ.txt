@@ -1,2 +1,0 @@
-(ROOT (S (NP (NN Product)) (VP (VBD arrived) (ADVP (RB right)) (PP (IN on) (NP (NN time)))) (. .)))
-(ROOT (NP (S (S (NP (NN Everything)) (VP (VBZ is) (VP (VBN included)))) (CC and) (S (NP (PRP it)) (VP (VBZ 's) (ADJP (JJ easy) (S (VP (TO to) (VP (VB set) (PRT (RP up)))))) (PRN (-LRB- -LRB-) (FRAG (SBAR (IN although) (S (S (VP (VBG finding) (NP (DT a) (NN door) (S (VP (TO to) (VP (VB use))))))) (VP (VBZ is) (ADVP (RBR more)) (NP (NN difficulty)) (SBAR (IN that) (S (NP (PRP I)) (VP (MD would) (VP (VB imagine)))))))) (. .)) (-RRB- -RRB-)))))))

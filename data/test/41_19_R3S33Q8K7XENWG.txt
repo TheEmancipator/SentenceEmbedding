@@ -1,5 +1,0 @@
-(ROOT (S (VP (ADVP (RB Terribly)) (VBG disapointing) (NP (NN movie))) (. .)))
-(ROOT (S (NP (NNP Kevin) (NNP Spacey)) (VP (VBZ mails) (NP (PRP it)) (PP (IN in)) (, ,) (S (VP (VBG playing) (NP (NP (DT the) (JJ same) (JJ likable) (NN villain)) (SBAR (S (NP (PRP he)) (VP (VBD played) (PP (IN in) (NP (DT The) (NNP Client))) (, ,) (PP (CC minus) (NP (DT the) (JJ southern) (NN accent)))))))))) (. .)))
-(ROOT (NP (NP (NNP Choopy)) (, ,) (NP (JJ uneven) (, ,) (JJ inplausible) (NN script)) (. .)))
-(ROOT (NP (NP (DT No) (NN character)) (NP (NN development)) (. .)))
-(ROOT (NP (NP (RB Just) (DT a) (NN waste)) (PP (IN of) (NP (NN time))) (. .)))

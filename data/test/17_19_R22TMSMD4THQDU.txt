@@ -1,8 +1,0 @@
-(ROOT (S (VP (VB Buy) (NP (NP (CD 2)) (PP (IN of) (NP (DT these)))) (, ,) (SBAR (RB so) (S (NP (PRP you)) (VP (MD can) (VP (VB have) (S (NP (DT a) (JJ clean) (CD one)) (ADJP (JJ ready)) (SBAR (IN while) (S (NP (PRP you)) (VP (VBP do) (NP (NN laundry))))))))))) (. .)))
-(ROOT (S (S (ADVP (RB Usually)) (, ,) (NP (PRP I)) (VP (VBP write) (NP (NP (JJ Good) (NNS Things)) (CC and) (NP (NNP Bad) (NNS Things))))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT no) (NNS complaints)) (: -) (NP (RB so) (DT this) (NN time) (, ,) (RB only) (JJ Good) (NNS Things))))) (. !)))
-(ROOT (NP (NP (JJ Good) (NNS Things)) (: :) (NP (LST (LS 1) (-RRB- -RRB-)) (NP (NNP Easy)) (PP (TO to) (S (VP (VB get) (ADVP (IN on) (CC and) (IN off)))))) (. .)))
-(ROOT (NP (LST (LS 2) (-RRB- -RRB-)) (NP (JJ Soft) (NN cotton) (NN top)) (PP (IN over) (NP (JJ waterproof) (NN bottom))) (. .)))
-(ROOT (S (S (LST (LS 3) (-RRB- -RRB-)) (NP (PRP You)) (VP (MD can) (VP (VB put) (NP (PRP$ your) (`` `) (JJ cute) ('' ') (NNS sheets)) (PP (IN underneath))))) (, ,) (CC and) (S (ADVP (RB really)) (NP (ADVP (RB never))) (VP (VBP have) (S (VP (TO to) (VP (VB change) (NP (PRP them))))) (, ,) (SBAR (IN because) (S (NP (PRP they)) (ADVP (RB never)) (VP (VBP get) (ADJP (JJ dirty))))))) (. .)))
-(ROOT (S (IN So) (NP (PRP you)) (VP (ADVP (RB only)) (VBP need) (NP (NP (CD 1) (NN set)) (PP (IN of) (NP (JJ pricey) (NNS sheets)))) (SBAR (IN if) (S (NP (NNS looks)) (VP (VBP are) (NP (PRP$ your) (NN concern)))))) (. .)))
-(ROOT (S (LST (LS 4) (-RRB- -RRB-)) (NP (WP What)) (VP (ADVP (RB else)) (VBP do) (SBAR (S (NP (PRP you)) (VP (VB need) (PRT (RP out)) (PP (IN of) (NP (DT a) (NN crib) (NN sheet))))))) (. ?)))
-(ROOT (NP (NN :-RRB-)))

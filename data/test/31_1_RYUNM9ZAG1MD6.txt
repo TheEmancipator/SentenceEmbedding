@@ -1,3 +1,0 @@
-(ROOT (S (SBAR (WHADVP (WRB When)) (S (NP (DT the) (JJ original) (NN item)) (VP (VBD was) (VP (VBN sent))))) (NP (DT the) (NN box) (CC and) (NN product) (NN inside)) (VP (VBD was) (VP (VBN damaged))) (. .)))
-(ROOT (S (S (ADVP (RB However)) (NP (PRP I)) (VP (VBD had) (VP (VBN contacted) (NP (DT the) (NN sender))))) (CC and) (S (NP (PRP they)) (VP (VBD shipped) (PRT (RP out)) (NP (DT a) (JJ new) (NN item)))) (. .)))
-(ROOT (S (VP (VBD Was) (ADJP (RB very) (JJ pleased)) (PP (IN with) (NP (DT the) (NN service)))) (. .)))

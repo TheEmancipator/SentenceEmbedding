@@ -1,3 +1,0 @@
-(ROOT (NP (NP (PRP$ My) (NP (NP (NN husband) (POS 's)) (JJ favorite) (NN coffee))) (. !)))
-(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (PP (IN like) (NP (DT a) (JJ dark) (, ,) (JJ french) (NN roast))) (: -) (NP (PRP you)) (VP (MD 'll) (VP (VB like) (NP (DT this) (CD one)))))) (, ,) (ADVP (CC plus)) (NP (PRP it)) (VP (VBZ has) (NP (NP (DT the) (JJ terrific) (NNP Senseo) (JJ creamy) (NN foam)) (PP (IN on) (NP (JJ top))))) (. !)))
-(ROOT (S (NP (DT A) (JJ nice) (NN way)) (VP (TO to) (VP (VP (VB start) (NP (DT the) (NN morning))) (CC or) (VP (VB finish) (PRT (RP off)) (NP (DT a) (JJ great) (NN evening) (NN meal))))) (. .)))

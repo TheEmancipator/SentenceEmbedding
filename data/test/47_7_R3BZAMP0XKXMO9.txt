@@ -1,6 +1,0 @@
-(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (MD would) (VP (VB buy) (NP (NP (DT this) (NN piece)) (PP (IN of) (NP (NN trash))))))) (. ?)))
-(ROOT (S (PP (IN Because)) (, ,) (SBAR (IN if) (S (NP (PRP you)) (VP (VBD had) (RB n't) (ADVP (RB already)) (VP (VBN noticed))))) (, ,) (NP (PRP it)) (ADVP (RB now)) (VP (VBZ comes) (PP (IN in) (NP (NNP SLEEVELESS) (NN format)))) (. .)))
-(ROOT (S (NP (NNS Sleeves)) (VP (VBP are) (PP (IN for) (NP (NNS wimps)))) (. .)))
-(ROOT (SINV (FRAG (INTJ (UH Please))) (, ,) (VP (VBP do) (S (NP (PRP yourself)) (UCP (NP (DT a) (NN favor)) (CC and) (S (VP (VB grow) (NP (DT a) (NN pair) (CC and) (NN surf)) (PP (IN on) (PP (IN over) (PP (TO to) (NP (DT the) (JJ sleeveless) (NN offering)))))))))) (NP (RB now)) (. .)))
-(ROOT (S (PP (IN Because) (IN in) (NP (NN order) (S (VP (TO to) (VP (VB do) (NP (ADJP (JJ TRUE) (JJ collatoral)) (NN damage))))))) (, ,) (NP (PRP you)) (VP (MD must) (VP (VB have) (NP (NP (DT the) (NNS guns)) (VP (VBN exposed))))) (. .)))
-(ROOT (FRAG (NP (NNP KAPOW)) (. !)))

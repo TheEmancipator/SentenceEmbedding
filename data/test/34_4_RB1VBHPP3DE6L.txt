@@ -1,7 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBP love) (NP (DT the) (NNP Jenny) (NNP Cain) (NN series))) (. .)))
-(ROOT (S (S (NP (PRP I)) (VP (VBP have) (VP (VBN read) (NP (NP (DT all)) (PP (IN of) (NP (PRP them))))))) (CC and) (S (NP (DT each) (CD one)) (VP (VBZ gets) (ADJP (ADJP (JJR better)) (SBAR (IN as) (S (NP (PRP you)) (VP (VBP go) (ADVP (RB along)))))))) (. .)))
-(ROOT (S (NP (NP (DT The) (JJ only) (JJ bad) (NN thing)) (SBAR (IN that) (S (NP (PRP I)) (VP (MD can) (VP (VB say)))))) (VP (VBZ is) (SBAR (IN that) (S (NP (PRP it)) (VP (VBZ looks) (SBAR (IN as) (IN if) (S (NP (NNP Nancy) (NNP Pickard)) (VP (VBZ is) (ADVP (RB no) (RB longer)) (VP (VBG writing) (NP (NP (NNS books)) (PP (IN in) (NP (DT this) (NN series)))))))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG hoping) (SBAR (S (NP (PRP she)) (VP (MD will) (VP (VB come) (PRT (RP out)) (PP (IN with) (NP (DT a) (JJ new) (NNP Jenny) (NNP Cain) (NN book))))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD ca) (RB n't) (VP (VB say) (ADJP (JJ enough)) (PP (IN about) (NP (DT these) (NNS books))))) (. .)))
-(ROOT (S (NP (DT The) (NNS plots)) (VP (VBP are) (ADJP (JJ great))) (. .)))
-(ROOT (S (VP (VB Please) (S (NP (NNP Nancy)) (VP (VB write) (NP (JJR more)) (PP (IN !!!!!)))))))

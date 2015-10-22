@@ -1,3 +1,0 @@
-(ROOT (S (NP (DT The) (NN guitar)) (VP (VBZ is) (ADJP (JJ great))) (. !)))
-(ROOT (S (NP (PRP It)) (VP (VBZ looks) (ADJP (ADJP (RB just) (RB as) (JJ great) (PP (IN in) (NP (NN person)))) (PP (IN as) (PP (IN in) (NP (DT the) (NN picture)))))) (. .)))
-(ROOT (S (NP (NP (RB Now)) (, ,) (CONJP (IN if) (RB only)) (NP (PRP$ his) (NN singing))) (VP (VBD matched) (NP (NP (DT the) (NN beauty)) (PP (IN of) (NP (DT the) (NN guitar))))) (: ...)))

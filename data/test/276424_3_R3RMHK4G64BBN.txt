@@ -1,3 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (MD wo) (RB n't) (VP (VB spoil) (NP (NP (DT this)) (PP (IN for) (NP (NP (DT those)) (SBAR (WHNP (WDT that)) (S (VP (VBP have) (ADVP (RB yet)) (S (VP (TO to) (VP (VB watch)))))))))))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBZ 's) (ADVP (RB really)) (NP (NP (DT an) (JJ old) (NN storyline)) (SBAR (WHNP (WDT which)) (S (NP (PRP we)) (VP (VBP 've) (VP (VBN seen) (PP (IN in) (NP (NP (ADJP (RB so) (JJ many)) (NNS movies)) (PP (IN in) (NP (DT the) (NN past))))))))))) (. .)))
-(ROOT (S (VP (VB Get) (NP (PRP it)) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP want) (NP (DT a) (NN feel) (JJ good) (NN movie)))))) (. .)))

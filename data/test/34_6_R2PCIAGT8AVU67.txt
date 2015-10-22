@@ -1,3 +1,0 @@
-(ROOT (S (S (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (VB keep) (NP (NNS deer)) (PP (IN from) (S (VP (VBG eating) (NP (PRP$ my) (NN tomato) (NNS plants)))))))))) (CC and) (S (NP (DT this)) (VP (VBZ seems) (PP (IN like) (NP (DT a) (JJ good) (NN way))) (S (VP (TO to) (VP (VB convince) (NP (PRP them)))))))) (NP (EX there)) (VP (VBP are) (NP (NNS predators)) (ADVP (IN around))) (. .)))
-(ROOT (SINV (RB So) (VP (VBZ is) (NP (DT this))) (NP (NP (DT a) (NN joke) (NN product)) (CC or) (NP (JJ real))) (. ?)))
-(ROOT (S (NP (NP (NN None)) (PP (IN of) (NP (DT the) (NNS reviews)))) (VP (VBP are) (PP (IN about) (NP (DT the) (JJ actual) (NN item)))) (. .)))

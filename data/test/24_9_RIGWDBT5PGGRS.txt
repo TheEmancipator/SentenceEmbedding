@@ -1,8 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBD was) (ADJP (NP (DT a) (JJ little)) (JJ unsure) (PP (IN about) (NP (DT this) (NN purchase)))) (PP (IN since) (NP (NP (JJS most)) (SBAR (S (`` ``) (S (VP (VBN seen) (PP (IN on) (NP (NN tv))))) ('' '') (NP (NNS products)) (VP (VP (VBP are) (ADJP (JJ cheap))) (CC and) (VP (VBP do) (RB n't) (VP (VB work))))))))) (. .)))
-(ROOT (S (NP (NNP BUT) (PRP I)) (VP (VBP love) (NP (DT this))) (. !)))
-(ROOT (S (NP (PRP It)) (VP (VBD worked) (PP (IN on) (NP (NP (PRP$ my) (CD 50) (NN lb) (NN dog)) (CC and) (NP (PRP$ my) (JJ little) (CD 15) (NN lb) (NN dog))))) (. .)))
-(ROOT (S (S (NP (PRP$ My) (JJ little) (NN dog)) (VP (VBZ is) (ADJP (VBN scared) (PP (TO to) (NP (NP (NN death)) (PP (IN of) (NP (NNS noises)))))))) (, ,) (CC but) (S (NP (PRP she)) (VP (VBD was) (RB n't) (VP (VBN bothered) (ADVP (IN at) (DT all))))) (. .)))
-(ROOT (S (NP (PRP They) (DT both)) (ADVP (RB actually)) (VP (VBN liked) (S (VP (VBG getting) (NP (NP (DT this)) (VP (VBN done)))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBD was) (PP (IN in) (NP (NN shock)))) (. !)))
-(ROOT (S (NP (PRP It)) (VP (VBD trimmed) (NP (PRP$ their) (NNS nails)) (ADVP (RB perfectly))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP give) (NP (DT this) (NN product)) (ADVP (NP (CD 2) (NNS paws)) (RB up))) (. !)))

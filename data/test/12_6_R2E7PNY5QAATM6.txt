@@ -1,5 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBD proceeded) (S (VP (TO to) (VP (VB open) (SBAR (S (NP (DT the) (NN container)) (ADVP (RB then)) (VP (VBP pour) (NP (PRP it)) (NP (NP (DT all)) (PP (IN over) (NP (PRP myself)))))))))) (, ,) (PP (IN in) (NP (NP (NN front)) (PP (IN of) (NP (PRP$ my) (NN girlfriend)))))) (. .)))
-(ROOT (S (VP (VB Imagine) (NP (PRP$ my) (NN embarassment)) (PP (IN with) (NP (NN poweder))) (PP (DT all) (IN over) (NP (PRP myself)))) (. .)))
-(ROOT (S (S (ADJP (JJ Needless) (S (VP (TO to) (VP (VB say) (NP (DT the) (NN evening))))))) (VP (VBD did) (RB not) (VP (VB go) (PP (IN as) (ADJP (VBN planned))))) (. .)))
-(ROOT (S (SBAR (IN Though) (S (S (NP (PRP I)) (VP (VBD did) (VP (VB take) (NP (DT a) (NN bath))))) (, ,) (CC and) (S (NP (DT the) (NN water)) (VP (VBD did))))) (VP (VB taste) (NP (NP (DT an) (ADJP (RB awfully) (NN lot))) (PP (IN like) (NP (NN milk))))) (. .)))
-(ROOT (FRAG (NP (PRP$ My) (NN fault)) (SBAR (IN though) (S (, ,) (PP (IN for) (S (VP (VBG thinking)))) (NP (DT the) (NN company)) (VP (VBD was) (NP (NNP Nido) (NNP Powder)))))))

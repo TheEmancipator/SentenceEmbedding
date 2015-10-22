@@ -1,5 +1,0 @@
-(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ cool)) (NN CD))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP love) (NP (DT the) (NN music))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADJP (RB so) (JJ different) (CC and) (JJ interesting))) (. .)))
-(ROOT (S (NP (DT Every) (NN song)) (VP (VBZ is) (ADJP (JJ good))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP love) (NP (PRP it))) (. !)))

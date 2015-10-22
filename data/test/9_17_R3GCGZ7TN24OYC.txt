@@ -1,2 +1,0 @@
-(ROOT (S (NP (DT The) (NN ring)) (VP (VBZ is) (ADJP (JJ nice) (CC and) (JJ heavy))) (. .)))
-(ROOT (S (VP (VBP Have) (VP (VP (VBN been) (VP (VBG wearing) (ADVP (IN if) (PP (IN for) (NP-TMP (RB almost) (DT a) (NN month)))))) (CC and) (VP (ADVP (RB still)) (RB not) (NP (DT a) (NN scratch))))) (. !)))

@@ -1,2 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBD wore) (NP (DT this) (NN hat)) (PP (IN as) (NP (NP (NN part)) (PP (IN of) (NP (PRP$ my) (NNP Thanksgiving) (NN outfit))))) (PP (IN for) (NP (NN school)))) (. .)))
-(ROOT (S (NP (NN Everyone)) (VP (VBD loved) (NP (DT the) (NN hat))) (. .)))

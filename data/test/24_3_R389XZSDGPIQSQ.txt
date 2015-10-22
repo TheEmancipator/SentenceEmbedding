@@ -1,6 +1,0 @@
-(ROOT (S (NP (NP (NNP First) (NNP Linda) (NNP Howard)) (CC and) (ADVP (RB now)) (NP (NNP Lisa) (NNP Kleypas))) (VP (VBP are) (VP (VBG doing) (NP (NP (RB first) (NN person)) (VP (VBG writing))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VP (VBP am) (ADJP (RB so) (JJ disappointed))) (CC and) (VP (VB hate) (NP (PRP it)))) (. .)))
-(ROOT (S (S (NP (PRP You)) (VP (VBP have) (NP (NN nothing)) (PP (IN on) (NP (NP (DT the) (NNS thoughts)) (PP (IN of) (NP (DT the) (JJ male) (NN character))))))) (CC and) (S (NP (PRP it)) (VP (VBZ is) (VP (ADVP (RB so)) (JJ selfish) (NP (DT the) (NN way)) (SBAR (S (NP (DT the) (NN book)) (VP (VBZ comes) (PRT (RP out)))))))) (. .)))
-(ROOT (S (VP (VB Please) (VP (VP (VB stop) (S (VP (VBG writing) (PP (IN in) (NP (JJ first) (NN person)))))) (CC and) (VP (VB go) (ADVP (RB back)) (PP (TO to) (NP (NP (JJ 3rd) (NN person)) (CC and) (NP (JJR more) (JJ interesting) (NNS books))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBD used) (S (VP (TO to) (VP (VB buy) (NP (NNS books)) (PP (IN by) (NP (NNP Lisa) (NNP Kleypas))) (PP (IN without) (S (ADVP (RB even)) (VP (VBG looking)))) (PP (IN at) (NP (DT the) (NN concept))) (: ...) (ADVP (DT no) (RBR longer)))))) (. .)))
-(ROOT (S (VP (VBN Hated) (NP (DT this) (NN book))) (. .)))

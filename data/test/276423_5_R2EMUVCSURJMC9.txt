@@ -1,5 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADJP (RB not) (SBAR (WHNP (WP what)) (S (NP (JJS most) (NNS people)) (VP (MD would) (VP (VB call) (ADJP (`` ``) (JJ political)))))))) (. .) ('' '')))
-(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RBR more)) (PP (IN into) (NP (NP (NNS things)) (PP (IN like) (NP (NN backpacking)))))) (. .)))
-(ROOT (S (CC But) (S (SBAR (ADVP (RB sometimes)) (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBD read) (NP (NN something))))) (NP (PRP I)) (ADVP (RB just)) (VP (VBP think))) (, ,) (S (NP (`` ``) (NNP Yep))) (. .)))
-(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (JJ pretty) (NN killer))) (. .) ('' '')))
-(ROOT (NP (NP (NP (PRP I) (NN kind)) (PP (IN of) (NP (NN thought)))) (SBAR (FRAG (WHNP (WDT that)) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBP read) (NP (DT this) (NN book))))))) (. .)))

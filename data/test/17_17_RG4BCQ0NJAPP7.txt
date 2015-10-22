@@ -1,3 +1,0 @@
-(ROOT (S (NP (NP (PRP$ My) (NN son)) (CC and) (NP (PRP I))) (VP (VBP love) (NP (DT this) (NN movie))) (. .)))
-(ROOT (S (NP (EX There)) (VP (VBZ is) (NP (ADJP (RB so) (JJ much)) (NN action) (CC and) (JJ amazing) (NNS graphics))) (. .)))
-(ROOT (S (PP (IN With) (NP (NP (DT the) (JJ quick) (NN delivery)) (CC and) (NP (JJ low) (NN price)))) (, ,) (NP (DT this)) (VP (VBD was) (NP (NP (DT a) (JJS best) (NN buy)) (PP (IN for) (NP (PRP me))))) (. .)))

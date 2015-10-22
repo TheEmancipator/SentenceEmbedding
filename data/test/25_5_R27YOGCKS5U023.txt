@@ -1,2 +1,0 @@
-(ROOT (SQ (VBZ Is) (NP (EX there)) (NP (NP (RB really) (NN anyone)) (PP (IN in) (NP (NP (DT the) (NN world)) (ADJP (JJ dumb) (JJ enough)))) (S (VP (TO to) (VP (VB pay) (NP (DT this) (ADJP (JJ much) (PP (IN for) (NP (NP (DT an) (NN ounce)) (PP (IN of) (NP (NN silver)))))) (NN bullion)))))) (. ?)))
-(ROOT (S (SBAR (IN If) (S (ADVP (RB so)) (, ,) (NP (PRP I)) (VP (VBP have) (NP (NP (DT a) (ADJP (RB really) (JJ beautiful)) (JJ antique) (NN bridge)) (PP (IN in) (NP (NNP New) (NNP York))))))) (NP (PRP I)) (VP (MD 'll) (VP (VB sell) (ADJP (JJ cheap)))) (. .)))

@@ -1,6 +1,0 @@
-(ROOT (S (S (VP (VBN Followed) (S (NP (DT the) (NNS directions)) (ADVP (RB carefully)) (VP (TO to) (VP (VB hang) (NP (DT a) (JJ small) (NN towel) (NN bar)) (ADVP (RB just)) (PP (IN like) (NP (DT the) (NN picture)))))))) (VP (VBZ shows) (PP (IN on) (NP (DT the) (NN package)))) (. .)))
-(ROOT (S (PP (IN Within) (NP (CD 5) (NNS minutes))) (NP (NN everything)) (VP (VBD crashed) (PP (TO to) (NP (DT the) (NN floor)))) (. .)))
-(ROOT (S (IN So) (NP (PRP I)) (VP (VBD started) (PRT (RP over)) (, ,) (S (ADVP (RB even)) (VP (VBN taped) (NP (DT the) (NN towel) (NN bar)) (PP (IN in) (NP (NN place))) (PP (IN for) (NP (JJ extra) (NN support)))))) (. .)))
-(ROOT (S (VP (VBD Waited) (NP (CD 24) (NNS hours)) (S (VP (TO to) (VP (VB remove) (NP (DT the) (NN tape) (, ,) (JJ instant) (NN crash)) (PP (TO to) (NP (DT the) (NN floor))))))) (. .)))
-(ROOT (S (S (NP (DT This) (NN stuff)) (VP (VBZ does) (RB n't) (VP (VB work)))) (, ,) (NP (CC AND)) (NP (PRP they)) (VP (VBP give) (NP (PRP you)) (NP (NP (NP (CD one) (NN glove)) (, ,) (NP (RB not) (CD 2)) (, ,)) (PP (IN for) (NP (NP (DT those)) (PP (IN of) (NP (PRP us))))) (PP (IN with) (NP (JJ sensitive) (NN skin))))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBZ is) (ADJP (JJ hard) (S (VP (TO to) (VP (VB knead) (PP (IN with) (NP (RB just) (CD one) (NN hand)))))))) (. .)))

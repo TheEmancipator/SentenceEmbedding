@@ -1,1 +1,0 @@
-(ROOT (NP (NP-TMP (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ great) (NN mask)) (S (VP (TO to) (VP (VB strike) (NP (NN fear)) (PP (IN into) (NP (NP (DT those)) (PP (IN around) (NP (PRP you)))))))))) (: -) (NP (NP (DT an) (NN essentiality)) (PP (IN for) (NP (DT the) (NP (DT every) (NN day) (NN rapist)) (CC or) (NP (NN mugger)))))))

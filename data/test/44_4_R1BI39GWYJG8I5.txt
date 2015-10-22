@@ -1,4 +1,0 @@
-(ROOT (S (NP (NP (DT The) (NNP Lasko) (CD 4000)) (NP (NNP Oscillating) (NNP Ultra) (NNP Slim) (NNP Fan))) (VP (VBZ is) (ADJP (JJ perfect) (PP (IN for) (S (VP (VBG circulating) (NP (JJ cool) (NN air)) (PP (IN in) (NP (DT a) (JJ small) (NN office) (NN space)))))))) (. .)))
-(ROOT (S (NP (NP (DT The) (NN fan) (JJ easy) (NNS fits)) (PP (IN on) (NP (DT a) (JJ small) (NN computer) (NN desk)))) (, ,) (VP (VP (VBZ circulates) (NP (NN air)) (ADVP (RB quietly))) (, ,) (CC and) (VP (VBZ has) (NP (NP (DT the) (NN benefit)) (PP (IN of) (NP (DT a) (ADJP (JJ low) (CC and) (JJ high)) (NN speed)))))) (. .)))
-(ROOT (S (NP (DT The) (JJ slim) (, ,) (JJ small) (NN size)) (VP (VBZ makes) (S (NP (DT this) (NN fan)) (ADJP (JJ unobtrusive)))) (. .)))
-(ROOT (FRAG (ADJP (RB Very) (JJ satisfied)) (. .)))

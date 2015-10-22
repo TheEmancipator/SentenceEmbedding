@@ -1,3 +1,0 @@
-(ROOT (S (S (NP (PRP$ My) (NN daughter)) (VP (VBZ is) (ADJP (NP (RB only) (CD 2) (NNS yrs)) (JJ old)))) (CC and) (S (NP (PRP they)) (VP (VBP are) (NP (NP (DT a) (JJ perfect) (NN fit)) (PP (IN for) (NP (PRP her)))))) (. .)))
-(ROOT (S (NP (PRP We)) (VP (VBP are) (ADVP (RB still)) (VP (VBG working) (PP (IN on) (NP (NP (DT the) (NNS mechanics)) (PP (IN of) (S (VP (VBG cutting) (SBAR (CC but) (S (NP (PRP they)) (VP (VBP are) (ADVP (RB really)) (NP (DT a) (ADJP (JJ safe) (CC and) (JJ sturdy)) (NN set) (S (VP (TO to) (VP (VB use))))))))))))))) (. .)))
-(ROOT (S (NP (PRP We)) (VP (ADVP (RB absolutely)) (VBP love) (NP (NP (DT all)) (PP (IN of) (NP (DT the) (NNP Melissa) (CC &) (NNP Doug) (NNS products)))) (SBAR (IN that) (S (NP (PRP we)) (VP (VBP have) (VP (VBN purchased))))))))

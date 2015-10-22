@@ -1,3 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBD had) (NP (NP (DT this) (NN unit)) (PP (IN for) (NP (JJ many) (NNS years)))) (PP (IN while) (S (VP (VBG living) (PP (IN in) (NP (DT the) (NN dorm))))))) (. .)))
-(ROOT (S (S (NP (PRP It)) (VP (VBZ 's) (ADJP (RB very) (JJ convenient)))) (, ,) (NP (PRP it)) (VP (VP (VBZ cools) (ADVP (RB fast))) (CC and) (VP (VBZ is) (ADJP (RB very) (JJ quiet))) (ADVP (RB as) (RB well))) (. .)))
-(ROOT (S (S (NP (PRP I)) (ADVP (RB basically)) (VP (VBP use) (NP (PRP it)) (PP (IN for) (NP (NN milk) (, ,) (NN juice) (CC and) (NN ice) (NNS creams))))) (, ,) (ADVP (RB strongly)) (VP (VB recommend) (SBAR (IN if) (S (NP (PRP you)) (VP (VP (VBP live) (PP (IN by) (NP (PRP yourself)))) (CC and) (VP (VBP do) (RB n't) (VP (VB cook) (ADVP (RB too) (RB much)))))))) (. .)))

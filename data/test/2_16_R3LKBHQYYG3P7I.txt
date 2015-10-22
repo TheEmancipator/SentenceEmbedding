@@ -1,3 +1,0 @@
-(ROOT (S (SBAR (RB Just) (WHADVP (WRB when)) (S (NP (PRP you)) (VP (VBP think) (S (NP (PRP you)) (VP (VB have) (VP (VBN read) (NP (PRP$ his) (JJS best)))))))) (NP (PRP he)) (VP (VBZ writes) (ADVP (DT a) (RBR better)) (NP (CD one))) (. .)))
-(ROOT (S (S (NP (PRP I)) (VP (VBP have) (VP (VBN read) (NP (NP (DT all)) (PP (IN of) (NP (NNP Giltraps) (NNS books))))))) (CC and) (S (NP (PRP he)) (VP (VBZ keeps) (NP (NP (PRP you)) (PP (IN in) (NP (NN suspence)))) (NP-TMP (PDT all) (DT the) (NN time)))) (. .)))
-(ROOT (S (NP (NN Ca)) (VP (RB n't) (VP (VB wait) (PP (IN for) (NP (DT the) (JJ next) (`` ``) (NNP Digger) ('' '') (NN mission))))) (. .)))

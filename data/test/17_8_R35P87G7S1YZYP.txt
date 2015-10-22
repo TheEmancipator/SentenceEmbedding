@@ -1,6 +1,0 @@
-(ROOT (S (NP (DT The) (ADJP (JJ constant) (RB blinking)) (NNS lights)) (VP (VP (VB hurt) (NP (PRP$ my) (NNS eyes))) (CC and) (VP (VBD were) (RB not) (VP (VBG relaxing)))) (. .)))
-(ROOT (S (S (NP (PRP I)) (VP (VBD searched) (PP (IN for) (NP (DT an) (NN option))) (S (VP (TO to) (VP (VB turn) (PRT (RP off)) (NP (DT the) (NNS lights))))))) (CC but) (S (NP (PRP I)) (VP (MD could) (RB not) (VP (VB find) (NP (PRP it))))) (. .)))
-(ROOT (S (IN So) (NP (PRP I)) (VP (VBP guess) (SBAR (S (NP (EX there)) (VP (VBZ is) (NP (NN none)))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP have) (NP (NP (DT no) (NN idea)) (SBAR (WHADVP (WRB how)) (S (NP (DT this)) (VP (VBZ helps) (S (NP (NN someone)) (VP (VB go) (S (VP (TO to) (VP (VB sleep) (SBAR (IN unless) (S (NP (PRP they)) (VP (VBP put) (NP (NP (JJ duct) (NN tape)) (PP (IN over) (NP (DT the) (NNS lights))))))))))))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBD returned) (NP (PRP it)) (NP-TMP (DT the) (JJ next) (NN day)) (PP (IN for) (NP (DT a) (JJ full) (NN refund))) (S (VP (VBG saying) (SBAR (S (NP (PRP it)) (VP (VBD was) (ADJP (JJ different) (PP (IN from) (NP (DT the) (NN website) (NN description)))))))))) (. .)))
-(ROOT (S (S (NP (PRP It)) (VP (VBD was) (RB not) (VP (NN stress) (S (VP (VBG relieving)))))) (: ;) (S (NP (PRP it)) (VP (VBD created) (ADVP (RBR more)) (NP (NN stress)))) (. !)))

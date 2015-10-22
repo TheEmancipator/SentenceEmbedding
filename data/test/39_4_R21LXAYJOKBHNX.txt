@@ -1,8 +1,0 @@
-(ROOT (S (NP (DT This) (NN antenna)) (VP (VBD worked) (ADVP (JJR better) (IN than) (S (VP (VBN expected) (SBAR (IN for) (S (NP (PRP it)) (VP (VBZ 's) (NP (NN size) (CC and) (NN price))))))))) (. .)))
-(ROOT (S (NP (NN Roof) (JJ top)) (VP (VBN mounted)) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBZ 's) (NP (NP (JJ wide) (NN beam) (NN width)) (SBAR (S (VP (VBD allowed) (NP (NN reception)) (PP (IN from) (NP (NNP DTV) (NNS stations))) (PP (IN at) (NP (NP (QP (CD 136) (TO to) (CD 188)) (NNS degrees)) (PP (IN with) (NP (NP (DT no) (NN problem)) (PP (IN at) (NP (NP (DT a) (NN distance)) (PP (IN of) (NP (QP (CD 10) (TO to) (CD 50)) (NNS miles))))))))) (PP (IN with) (NP (NP (CD 6-7)) (PP (IN of) (NP (NP (CD 8) (NN signal) (NN strength) (NNS bars)) (PP (IN on) (NP (NN DTV) (NN broadcast)))))))))))) (. .)))
-(ROOT (SINV (RB Also) (VP (VBN worked)) (NP (NP (JJ good)) (PP (IN on) (NP (NN analog) (NN broadcast)))) (. .)))
-(ROOT (S (NP (PRP It)) (ADVP (RB also)) (VP (VBD worked) (ADVP (RB very) (RB well)) (PP (IN on) (NP (DT a) (JJ nearby) (JJ hi-band) (NNP VHF) (NN channel) (CD 13)))) (. .)))
-(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (JJ directional) (NN antenna)) (SBAR (IN so) (S (NP (NP (DT any) (NNS stations)) (PP (IN on) (NP (DT the) (JJ back) (NN side)))) (VP (MD will) (RB not) (VP (VB be) (VP (VBN received))))))) (. .)))
-(ROOT (S (NP (DT This)) (VP (VBD worked) (NP (JJR better)) (PP (IN than) (NP (PRP$ my) (JJ old) (NN 8-bay) (NN channel) (NN master)))) (. .)))
-(ROOT (S (S (NP (PRP It)) (VP (VBZ is) (VP (VBN made) (PP (IN for) (NP (JJ outdoor) (NN use)))))) (CC but) (S (SBAR (IN because) (S (PP (IN of) (NP (PRP it))) (VP (VBZ 's) (NP (JJ small) (NN size))))) (NP (PRP it)) (VP (MD could) (VP (VB be) (VP (VBN used) (ADVP (RB indoors)))))) (. .)))

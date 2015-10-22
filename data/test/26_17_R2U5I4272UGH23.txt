@@ -1,3 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBP have) (VP (VBN owned) (NP (NP (DT this) (NN pair)) (PP (IN of) (NP (NNP Oakleys)))) (PP (IN for) (PP (IN over) (NP (NP (DT a) (NN year)) (PRN (-LRB- -LRB-) (ADVP (RB probably)) (NP (NP (DT a) (NN record)) (PP (IN for) (NP (PRP me)))) (-RRB- -RRB-))))))) (. .)))
-(ROOT (S (S (NP (PRP I)) (VP (VBP love) (NP (DT the) (NN look)))) (, ,) (CC and) (S (NP (NP (DT the)) (VP (VBN polarized) (NP (NNS lenses)))) (VP (VBP are) (ADJP (JJ stellar) (PP (IN for) (NP (JJ optical) (NN clarity)))))) (. .)))
-(ROOT (S (VP (ADVP (RB Highly)) (VBN recommended)) (. .)))

@@ -18,7 +18,7 @@ public class Node {
     public int index;
     public int dimension;
     public double[] vector;
-    public double[] gradientVector;	// gradient = differentiated
+    public double[] vectorDerivative;	// gradient = differentiated
     public double[] calculatedVector;
     public Node(int dimension) {
         this.dimension = dimension;

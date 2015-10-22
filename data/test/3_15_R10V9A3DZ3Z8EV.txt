@@ -1,2 +1,0 @@
-(ROOT (S (NP (JJ Great) (NN product)) (ADVP (CC and)) (VP (VBD made) (NP (DT a) (JJ huge) (NN difference)) (PP (IN in) (NP (CD one) (NN use)))) (. .)))
-(ROOT (S (S (VP (MD Will) (VP (VB buy) (ADVP (RB again))))) (CC and) (S (NP (PRP it)) (VP (MD will) (VP (VB replace) (NP (DT all) (NP (PRP$ my) (JJ other) (NN mud)) (CC and) (NP (NN clay) (NNS products)))))) (. .)))

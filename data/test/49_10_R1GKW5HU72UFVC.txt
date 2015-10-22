@@ -1,5 +1,0 @@
-(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (DT a) (NN sham))) (. .)))
-(ROOT (S (NP (PRP They)) (VP (VBP dont) (RB even) (VP (VB have) (S (NP (PRP them)) (ADJP (JJ available))))) (. .)))
-(ROOT (S (NP (PRP They)) (VP (VBP need) (S (VP (TO to) (VP (VB correct) (NP (PRP$ their) (NNS postings)))))) (. .)))
-(ROOT (SINV (ADVP (RB So)) (VP (VBP do) (RB n't) (VP (VB bother) (NP (NN order)))) (NP (NP (CD one)) (, ,) (SBAR (IN because) (S (S (PP (IN in) (NP (NP (NN bout)) (NP (DT a) (NN day)))) (NP (PRP you)) (VP (MD will) (VP (VB get) (NP (NP (DT an) (NN email)) (VP (VBG saying) (ADJP (JJ sorry))))))) (CC but) (S (NP (PRP we)) (VP (VBP dont) (VP (VB have) (NP (PRP it)))))))) (. .)))
-(ROOT (FRAG (RB Not) (PP (IN worth) (NP (DT the) (NN time) (CC or) (NN effort))) (. .)))

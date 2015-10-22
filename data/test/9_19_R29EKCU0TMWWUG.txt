@@ -1,2 +1,0 @@
-(ROOT (S (VP (VB Take) (NP (PRP$ your) (NN friend)) (ADVP (IN out) (PP (IN for) (SBAR (NP (NNS beers)) (IN before) (S (NP (PRP you)) (VP (VB waste) (NP (PRP$ your) (NN money)) (PP (IN on) (NP (DT this) (NN thing))))))))) (. .)))
-(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP do) (RB n't) (VP (VB use) (NP (PRP it)))))) (, ,) (NP (PRP it)) (VP (MD could) (VP (VB last) (NP (DT a) (ADJP (RB very) (JJ long)) (NN time)))) (. .)))

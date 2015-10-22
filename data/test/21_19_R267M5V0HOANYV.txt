@@ -1,5 +1,0 @@
-(ROOT (S (S (NP (PRP I)) (VP (MD must) (VP (VB say) (PP (IN after) (S (VP (VBG reading) (NP (PDT all) (DT the) (JJ great) (NNS reviews)))))))) (, ,) (NP (DT this)) (VP (VBD was) (NP (DT a) (JJ mature) (NN disappointment))) (. .)))
-(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (PP (IN like) (NP (NP (DT a) (NN lot)) (PP (IN of) (NP (NN profanity))))))) (, ,) (NP (RB maybe) (DT this) (NN movie)) (VP (VBZ is) (PP (IN for) (NP (PRP you)))) (. .)))
-(ROOT (S (ADVP (RB However)) (, ,) (NP (PRP we)) (VP (VP (MD could) (ADVP (RB only)) (VP (VB watch) (NP (DT the) (JJ first) (CD 45) (NNS minutes)))) (, ,) (VP (ADVP (RB then)) (VP (VBD was) (ADJP (JJ disgusted))) (CC and) (VP (VBD shut) (PRT (RP off)) (NP (DT the) (NN DVD)))) (CC and) (VP (VBD watched) (NP (NN TV)))) (. .)))
-(ROOT (S (NP (DT This)) (VP (VBZ is) (ADVP (RB definitely)) (NP (RB not) (DT a) (NN family) (NN comedy))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP prefer) (SBAR (S (NP (NP (JJ comdedy)) (VP (VBN done))) (VP (VP (VBZ is) (NP (JJ good) (NN taste))) (, ,) (CC and) (VP (VBD felt) (SBAR (S (NP (DT this)) (VP (VBZ has) (NP (NN none)))))))))) (. .)))

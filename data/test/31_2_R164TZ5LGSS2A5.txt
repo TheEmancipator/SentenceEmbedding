@@ -1,3 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBP have) (ADVP (RB never)) (VP (VBN tried) (NP (NNP Miso)) (PP (IN before) (PRN (, ,) (CC and) (VP (VBD thought) (SBAR (S (S (NP (DT this) (NN soup)) (VP (MD would) (VP (VB be) (NP (DT a) (JJ good) (NN way) (S (VP (TO to) (VP (VB start)))))))) (: ...) (S (NP (PRP It)) (VP (VBZ is) (ADJP (ADJP (RB very) (JJ good)) (, ,) (ADJP (RB not) (JJ salty)))))))) (, ,)) (NP (DT a) (JJ nice) (NN taste))))) (. .)))
-(ROOT (NP (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB be) (VP (VBG buying) (NP (PRP it)) (ADVP (RB again)) (PP (IN in) (NP (DT the) (NN future))))))))

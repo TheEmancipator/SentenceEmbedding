@@ -1,6 +1,0 @@
-(ROOT (S (S (RB Not) (VP (TO to) (VP (VB diminish) (NP (NP (DT the) (NN value)) (PP (IN of) (NP (DT this) (JJ great) (NN book))))))) (, ,) (ADVP (CC but)) (, ,) (NP (PRP it)) (VP (VBZ is) (ADJP (RB very) (JJ basic))) (. .)))
-(ROOT (S (VP (VBZ Establishes) (NP (DT a) (JJ good) (JJ basic) (JJ overall) (NN process)) (S (VP (TO to) (VP (ADVP (RB efficiently)) (VB manage) (NP (NN user) (NN interface) (NN development)))))) (. .)))
-(ROOT (S (VP (VBZ Takes) (NP (PRP you)) (PP (IN through) (NP (NN step))) (PP (IN by) (NP (NN step)))) (. .)))
-(ROOT (FRAG (ADJP (JJ Essential)) (S (VP (TO to) (VP (VB have) (NP (DT this) (NN approach)) (PP (IN before) (S (VP (VBG looking) (PP (IN at) (NP (NP (JJ other) (NNS aspects)) (PP (IN in) (NP (JJR more) (NN depth))))))))))) (. .)))
-(ROOT (FRAG (NP (RB Not) (JJ technical)) (, ,) (SBAR (IN so) (S (NP (PRP you)) (VP (VBP do) (RB n't) (VP (VB need) (S (VP (TO to) (VP (VB be) (NP (DT a) (NN developer) (S (VP (TO to) (VP (VB understand) (NP (NNS concepts))))))))))))) (. .)))
-(ROOT (NP (NP (NP (JJ Good) (NN value)) (CC and) (NP (DT a) (JJ quick) (NN read))) (. .)))

@@ -1,2 +1,0 @@
-(ROOT (NP (NP (NP (NNP Works)) (NP (RB fairly) (RB well)) (, ,) (ADVP (RB just) (NP (DT a) (JJ little)))) (ADJP (JJ dangerous) (TO to) (JJ clean)) (. .)))
-(ROOT (S (CC But) (, ,) (NP (PRP it)) (VP (VBD was) (VP (VP (NP (NN fun)) (PP (TO to) (NP (NP (NN pound)) (PP (IN on) (NP (DT the) (NN knob)))))) (CC and) (VP (VB see) (NP (DT the) (NNS results))))) (. .)))

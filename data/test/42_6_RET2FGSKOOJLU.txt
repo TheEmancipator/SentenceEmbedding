@@ -1,2 +1,0 @@
-(ROOT (S (NP (NNP Dr.) (NNP Robert) (NNP Hare)) (VP (VBZ opens) (PP (TO to) (NP (DT the) (NN layman))) (NP (NP (DT the) (NN world)) (PP (IN of) (NP (NP (DT the) (NN psychopath)) (PP (IN without) (S (VP (VBG burying) (NP (PRP him)) (PP (IN in) (NP (JJ technical) (NN overload)))))))))) (. .)))
-(ROOT (S (VP (ADVP (RB Well)) (VBN done)) (. !)))

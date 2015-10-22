@@ -1,5 +1,0 @@
-(ROOT (S (ADVP (RB personaly)) (NP (PRP I)) (VP (VBD thought) (SBAR (S (NP (DT this) (NN book)) (VP (VBD was) (NP (NP (NN alot)) (PP (IN of) (NP (NN hype)))))))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBD did) (RB not) (VP (VB help) (NP (PRP me)) (ADVP (IN at) (DT all)))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP feel) (ADJP (JJ stupid) (PP (IN for) (S (VP (VBG buying) (NP (PRP it))))))) (. .)))
-(ROOT (S (NP (PRP it)) (VP (VBD felt) (SBAR (IN like) (S (NP (PRP it)) (VP (VBD was) (VP (VBN writen) (PP (IN in) (NP (CD two) (NNS weeks)))))))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBD had) (NP (DT no) (JJ real) (NN debth)))))

@@ -1,5 +1,0 @@
-(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT a) (JJ GREAT) (NN MAGAZINE)) (PP (IN for) (NP (NP (NNS kids)) (PP (IN of) (NP (DT all) (NNS ages))))) (SBAR (S (VP (VBP !!))))))))
-(ROOT (S (S (NP (PRP It)) (VP (VBZ has) (NP (NP (NNS trivia)) (PP (IN for) (NP (NP (NNS prizes)) (, ,) (NP (NNP Video) (NNP Game)) (CC and) (NP (NNP Sports) (NNP Gear) (NNPS Reviews))))) (PP (IN by) (NP (NNS kids))))) (, ,) (NP (NP (DT a) (NN lot)) (PP (IN of) (ADJP (JJ differnt)))) (VP (VB write) (NP (NP (NNS ups)) (PP (IN on) (NP (JJ great) (NNPS Sports)))) (ADVP (NP (NP (NNP Stars)) (PP (IN like) (NP (NP (NNP Tiger) (NNP Woods)) (, ,) (NP (NNP Lisa) (NNP Leslie)) (, ,) (NP (NNP Dale) (NNP Earnardt) (NNP Jr.)) (CC and) (NP (NNS lots))))) (RBR more)) (PP (IN that) (NP (NP (NNS kids)) (PP (IN like))))) (. !)))
-(ROOT (S (NP (PRP I)) (VP (VBP 'm) (VP (VBG starting) (NP (NP (PRP$ my) (JJ 2nd) (NN Year)) (PP (IN of) (NP (DT the) (NN magazine)))))) (. !)))
-(ROOT (FRAG (NP (NP (CD 5) (NNS STARS)) (ADJP (IN !!)))))
-(ROOT (FRAG (NP (JJ GREAT) (NN MAGAZINE)) (PP (IN !!))))

@@ -1,3 +1,0 @@
-(ROOT (S (SBAR (WHADVP (WRB When)) (S (NP (PRP$ my) (NN friend)) (VP (VP (VBD purchased)) (CC and) (VP (VBD forced) (S (NP (PRP me)) (VP (TO to) (VP (VB watch) (NP (DT this))))))))) (, ,) (NP (PRP I)) (VP (VBD had) (NP (NP (DT no) (NN idea)) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (DT a) (NNP Madonna) (NN concert)) (PP (IN until) (ADVP (NP (CD 30) (NNS minutes)) (IN in)))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBD was) (VP (VBN convinced) (SBAR (IN that) (S (NP (PRP I)) (VP (VBD was) (VP (VBG watching) (NP (DT a) (JJ horrifying) (NN zombie) (NN movie)))))))) (. .)))
-(ROOT (NP (NP (NP (NNP Madonna) (CD 3/4)) (ADVP (JJ naked) (PP (IN on) (NP (NN stage)))) (PP (IN at) (NP (NP (DT this) (NN point)) (PP (IN in) (NP (PRP$ her) (NN life)))))) (: ...) (NP (NN NO)) (. !)))

@@ -1,6 +1,0 @@
-(ROOT (S (NP (PRP They)) (VP (VBP are) (ADJP (RB amazingly) (JJ thin)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (ADJP (RB quite) (JJ impressive)))))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBZ lets) (S (NP (NN baby)) (VP (VB move) (PP (IN around) (ADJP (NP (DT a) (NN lot)) (JJR easier)))))) (. .)))
-(ROOT (S (CC But) (, ,) (NP (EX there)) (VP (VBZ is) (NP (NP (DT a) (JJ major) (NN con)) (: -) (S (NP (EX there)) (VP (VBZ is) (NP (DT no) (JJ elastic) (NN waistband)))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBD ordered) (NP (DT a) (NN sample) (S (VP (TO to) (VP (VB test) (NP (PRP them)) (PRT (RP out))))))) (. .)))
-(ROOT (S (NP (PRP$ My) (NN daughter)) (VP (VP (VBD wore) (NP (DT the) (JJ 1st) (CD one)) (PP (TO to) (NP (NN nap)))) (CC and) (VP (VBD woke) (PRT (RP up)) (PP (IN with) (NP (NN poop))) (PP (DT all) (IN over) (NP (PRP$ her) (NN back))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP am) (VP (VBG sticking) (PP (IN with) (NP (NNPS Huggies))) (SBAR (IN because) (S (NP (PRP they)) (VP (VBP have) (NP (DT an) (JJ ESSENTIAL) (JJ elastic) (NN band) (S (VP (TO to) (VP (VB keep) (NP (NN poop)) (PP (IN in))))))))))) (. !)))

@@ -1,4 +1,0 @@
-(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (JJ only) (NN eye) (NN cream/serum)) (SBAR (S (NP (PRP I)) (VP (VBP plan) (PP (IN on) (S (VP (VBG wearing))))))))) (. .)))
-(ROOT (S (NP (PRP It)) (VP (VBZ does) (RB not) (VP (VP (VB swell) (NP (PRP$ my) (NNS eyes)) (ADVP (IN out))) (CC and) (VP (VB drift) (PP (IN into) (NP (PRP them))) (SBAR (IN as) (S (NP (PRP I)) (VP (VBP sleep))))))) (. .)))
-(ROOT (S (NP (PRP I)) (ADVP (RB always)) (VP (VBD said) (SBAR (SBAR (S (NP (PRP I)) (VP (MD would) (ADVP (RB never)) (VP (VB wear) (NP (NN eye) (NN cream)))))) (CC and) (SBAR (IN that) (S (NP (PRP they)) (VP (VBD were) (NP (NP (DT a) (NN waste)) (PP (IN of) (NP (NN time))))))))) (. .)))
-(ROOT (S (SBAR (RB Once) (S (NP (PRP I)) (VP (VBD found) (NP (NNP Regenerist) (NNP Eye) (NN Serum))))) (, ,) (NP (PRP I)) (VP (VBD was) (ADJP (JJ hooked))) (. .)))

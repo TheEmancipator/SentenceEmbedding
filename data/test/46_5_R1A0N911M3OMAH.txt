@@ -1,7 +1,0 @@
-(ROOT (NP (NP (LS i) (NN love)) (NP (DT this) (NN product)) (. .)))
-(ROOT (NP (. .)))
-(ROOT (S (S (VP (VBZ Is) (ADJP (RB very) (JJ confortable)) (ADVP (RB everywhere)))) (CC and) (S (PP (IN for) (NP (DT the) (NN gym))) (VP (VBZ is) (NP (NP (DT the) (JJS best) (NN choise)) (SBAR (IN if) (S (NP (PRP you)) (VP (VP (VBP train) (ADJP (JJ hard))) (CC and) (VP (VB need) (NP (DT a) (JJ tecnical) (NN product))))))))) (. .)))
-(ROOT (S (S (NP (DT The) (NN seller)) (VP (VBZ is) (ADJP (RB very) (JJ serious)))) (CC and) (S (NP (NP (FW i)) (NP (NN love))) (VP (TO to) (VP (VB buy) (PP (IN from) (NP (PRP him)))))) (. .)))
-(ROOT (NP (. .)))
-(ROOT (UCP (NP (JJ good) (NNS prices)) (CC and) (ADJP (ADJP (JJ good) (NN quality)) (PP (IN !!)))))
-(ROOT (FRAG (RB always) (ADJP (DT the) (JJS best))))

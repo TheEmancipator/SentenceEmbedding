@@ -1,4 +1,0 @@
-(ROOT (S (NP (DT This) (NN stuff)) (VP (VP (VBZ keeps) (NP (PRP$ my) (`` ``) (NNS boys) ('' '')) (ADJP (JJ dry))) (CC and) (VP (ADJP (JJ cool)) (PP (RB even) (IN in) (NP (NP (DT the) (NNP HOT) (NNS summers)) (PP (IN in) (NP (NNP Las) (NNP Vegas))))))) (. .)))
-(ROOT (S (S (NP (PRP I)) (VP (VBP love) (NP (DT the) (NN scent)))) (, ,) (NP (PRP it)) (VP (VBZ is) (RB not) (ADJP (RB too) (JJ strong)) (SBAR (CC but) (S (NP (PRP I)) (VP (MD can) (ADVP (RB still)) (VP (VB smell) (NP (PRP it))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD would) (VP (VB recommend) (NP (DT this) (NN product)) (PP (TO to) (NP (DT any) (NN guy))))) (. .)))
-(ROOT (NP (NP (NNP Worth)) (NP (DT the) (NN money)) (. !)))

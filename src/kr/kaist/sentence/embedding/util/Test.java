@@ -15,15 +15,21 @@ public class Test {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-		String inputFileName = "data/cv000_29590.txt.tree";
+		String inputFileName = "data/neg_tree/cv012_29411.txt.tree";
 		Document document = new Document(50);
 		readRSTTree(inputFileName, document);
 		setRSTUnitToSentence(document);
+		for(int i = 0 ; i < document.leafNodeList.size(); i++)
+			System.out.print(document.leafNodeList.get(i) + " ");
+		System.out.println("");	
+		for(int i = 0 ; i < document.allNodes.size(); i++)
+			if(document.allNodes.get(i).isLeaf)
+				System.out.print(document.allNodes.get(i).word + "\n");
+		System.out.println("");
 		alignRSTTree(document);
 		
 		System.out.println(document.allNodes.size());
 
-		
 		for(int i = 0 ; i < document.leafNodeList.size(); i++)
 			System.out.print(document.leafNodeList.get(i) + " ");
 		System.out.println("");
@@ -44,10 +50,19 @@ public class Test {
 	       	for(int i = 0; i < allNodesSize; i++) {
 				if(document.allNodes.get(i).isLeaf == true) {
 					if(document.allNodes.get(document.allNodes.get(i).parent).childrenList.size() == 1) {
-						int parentIndex = document.allNodes.get(i).parent; 
-						document.allNodes.get(i).parent = document.allNodes.get(parentIndex).parent;
-						document.allNodes.get(i).index = parentIndex;
-						document.allNodes.set(parentIndex, document.allNodes.get(i));
+						if(document.allNodes.get(document.allNodes.get(document.allNodes.get(i).parent).parent).childrenList.size() == 1) {
+							int parentIndex = document.allNodes.get(i).parent;
+							int grandParentIndex = document.allNodes.get(document.allNodes.get(i).parent).parent; 
+							document.allNodes.get(i).parent = document.allNodes.get(grandParentIndex).parent;
+							document.allNodes.get(i).index = grandParentIndex;
+							document.allNodes.set(parentIndex, document.allNodes.get(i));
+							document.allNodes.set(grandParentIndex, document.allNodes.get(i));
+						} else {
+							int parentIndex = document.allNodes.get(i).parent; 
+							document.allNodes.get(i).parent = document.allNodes.get(parentIndex).parent;
+							document.allNodes.get(i).index = parentIndex;
+							document.allNodes.set(parentIndex, document.allNodes.get(i));							
+						}
 					}
 				}
 			}
@@ -125,7 +140,7 @@ public class Test {
 		boolean pendingMode = false;
 		
 		Vector newleafNodeList = new Vector<Integer>();
-		
+
 		for(int i = 0; i < document.leafNodeList.size(); i++) {
 			Node node = document.allNodes.elementAt(document.leafNodeList.elementAt(i));
 			if(!(node.word.endsWith("<s>") || node.word.endsWith("<p>")) && pendingMode == false) {
@@ -159,7 +174,6 @@ public class Test {
 						//System.out.println(node.word + pendingMode);
 						leftChildNode = document.allNodes.elementAt(document.allNodes.elementAt(j).childrenList.get(0));
 					}
-				
 				if(leftChildNode.word.endsWith("<s>") || leftChildNode.word.endsWith("<p>")) {
 					newNode.index = document.allNodes.elementAt(superParentIndex).childrenList.elementAt(1);
 					newNode.parent = superParentIndex;
@@ -185,7 +199,7 @@ public class Test {
 				node.word = node.word.replaceAll("<s>", "");
 				node.word = node.word.replaceAll("<p>", "");
 				node.word = node.word.trim();
-				document.allNodes.set(i, node);
+				document.allNodes.set(node.index, node);
 				newleafNodeList.addElement(node.index);
 				//System.out.println(node.word + pendingMode);
 			} else
@@ -216,79 +230,7 @@ public class Test {
 		for(int i = 0; i < document.allNodes.size(); i++) {
 			vect.addElement(document.allNodes.get(i).index);
 		}
-		/////////////////////////////////////////////
-		// 중복 노드 끌어올린다고 마구잡이로 만든 부분
-		/*
-		for(int i = 0; i < document.allNodes.size(); i++) {
-			if(document.allNodes.get(i).isLeaf == false) {	// leaf가 아닌 경우에만 
-				if(!vect.contains(document.allNodes.get(i).childrenList.get(0)) && vect.contains(document.allNodes.get(i).childrenList.get(1))) { // 왼쪽이 없는 경우
-					Node rightChild = new Node(document.dimension);
-					int rightChildIndex=0;
-					for(int j =0;j<vect.size();j++) {
-						if(vect.get(j) == document.allNodes.get(i).childrenList.get(1)) {
-							rightChild = document.allNodes.get(j);
-							rightChildIndex = j;
-						}
-					}
-					rightChild.parent = document.allNodes.get(i).parent;
-					int parentIndex=0;
-					for(int j =0;j<vect.size();j++) {
-						if(vect.get(j) == rightChild.parent) {
-							parentIndex = j;
-						}
-					}
-					if(document.allNodes.get(parentIndex).childrenList.get(0) == document.allNodes.get(i).index)
-						document.allNodes.get(parentIndex).childrenList.set(0, rightChild.index);
-					else
-						document.allNodes.get(parentIndex).childrenList.set(1, rightChild.index);
-					document.allNodes.set(rightChildIndex, rightChild);
-					document.allNodes.set(i, rightChild);
-				} else if(vect.contains(document.allNodes.get(i).childrenList.get(0)) && !vect.contains(document.allNodes.get(i).childrenList.get(1))) { // 오른쪽이 없는 경우
-					Node leftChild = new Node(document.dimension);
-					int leftChildIndex=0;
-					for(int j =0;j<vect.size();j++) {
-						if(vect.get(j) == document.allNodes.get(i).childrenList.get(0)) {
-							leftChild = document.allNodes.get(j);
-							leftChildIndex = j;
-						}
-					}
-					leftChild.parent = document.allNodes.get(i).parent;
-					int parentIndex=0;
-					for(int j =0;j<vect.size();j++) {
-						if(vect.get(j) == leftChild.parent) {
-							parentIndex = j;
-						}
-					}
-					if(document.allNodes.get(parentIndex).childrenList.get(0) == document.allNodes.get(i).index)
-						document.allNodes.get(parentIndex).childrenList.set(0, leftChild.index);
-					else
-						document.allNodes.get(parentIndex).childrenList.set(1, leftChild.index);
-					document.allNodes.set(leftChildIndex, leftChild);
-					document.allNodes.set(i, leftChild);
-				} else
-					;
-			}
-		}
-		
-		newAllNodes = new Vector<Node>();
-		for(int i=0; i < document.allNodes.size(); i++) {
-			boolean redundancyChecker = false;
-			for(Node newNode : newAllNodes)
-				if(document.allNodes.get(i).index == newNode.index) {
-					redundancyChecker = true;
-					break;
-				}
-			if(redundancyChecker == false)
-				newAllNodes.addElement(document.allNodes.get(i));
-		}
-		document.allNodes = newAllNodes;
-		
-		vect = new Vector<Integer>();
-		for(int i = 0; i < document.allNodes.size(); i++) {
-			vect.addElement(document.allNodes.get(i).index);
-		}
-		*/
-		////////////////////////////////////////////////////////////////////////////
+
 		Object[] indexMap = vect.toArray();
 		Arrays.sort(indexMap);
 		
@@ -317,111 +259,7 @@ public class Test {
 					break;
 				}
 			}
-		}
-		// 2차 뻘짓
-		/*
-		Vector<Integer> delList = new Vector<Integer>();
-		for(int i = 0; i < document.allNodes.size(); i++) {
-			if(document.allNodes.get(i).isLeaf == false) {
-				int redundancyChecker = 0;
-				for(int m = 0; m < indexMap.length; m++) {
-					if(Integer.parseInt(indexMap[m].toString()) == document.allNodes.get(i).childrenList.get(0)) {
-						document.allNodes.get(i).childrenList.set(0, m);
-						redundancyChecker += 1;
-						break;
-					}
-				}
-				for(int m = 0; m < indexMap.length; m++) {
-					if(Integer.parseInt(indexMap[m].toString()) == document.allNodes.get(i).childrenList.get(1)) {
-						document.allNodes.get(i).childrenList.set(1, m);
-						redundancyChecker += 2;
-						break;
-					}
-				}
-				if(redundancyChecker == 1) {
-					document.allNodes.get(i).childrenList.remove(1);
-					delList.addElement(i);
-				} else if(redundancyChecker == 2) {
-					document.allNodes.get(i).childrenList.remove(0);
-					delList.addElement(i);
-				} else
-					;
-			}
-		}
-		
-		for(int i = 0; i < delList.size(); i++){
-			int nodeIndex = delList.get(i);
-			Node node = document.allNodes.get(nodeIndex);
-			int childNodeIndex = node.childrenList.get(0);
-			Node childNode = document.allNodes.get(childNodeIndex);
-			
-			childNode.parent = node.parent;
-			childNode.index = node.index;
-			
-			document.allNodes.set(nodeIndex, childNode);
-		}
-		
-		newAllNodes = new Vector<Node>();
-		for(int i=0; i < document.allNodes.size(); i++) {
-			boolean redundancyChecker = false;
-			for(Node newNode : newAllNodes)
-				if(document.allNodes.get(i).index == newNode.index) {
-					redundancyChecker = true;
-					break;
-				}
-			if(redundancyChecker == false)
-				newAllNodes.addElement(document.allNodes.get(i));
-		}
-		document.allNodes = newAllNodes;
-		
-		vect = new Vector<Integer>();
-		for(int i = 0; i < document.allNodes.size(); i++) {
-			vect.addElement(document.allNodes.get(i).index);
-		}
-		
-		indexMap = vect.toArray();
-		Arrays.sort(indexMap);
-		
-		for(int i = 0; i < document.leafNodeList.size(); i++) {
-			for(int m = 0; m < indexMap.length; m++) {
-				if(Integer.parseInt(indexMap[m].toString()) == document.leafNodeList.get(i)) {
-					document.leafNodeList.set(i, m);
-					break;
-				}
-			}
-		}
-		
-		for(int i = 0; i < document.allNodes.size(); i++) {
-			for(int m = 0; m < indexMap.length; m++) {
-				if(Integer.parseInt(indexMap[m].toString()) == document.allNodes.get(i).index) {
-					document.allNodes.get(i).index = m;
-					break;
-				}
-			}
-		}
-
-		for(int i = 0; i < document.allNodes.size(); i++) {
-			for(int m = 0; m < indexMap.length; m++) {
-				if(Integer.parseInt(indexMap[m].toString()) == document.allNodes.get(i).parent) {
-					document.allNodes.get(i).parent = m;
-					break;
-				}
-			}
-		}
-		
-		for(int i = 0; i < document.allNodes.size(); i++) {
-			if(document.allNodes.get(i).isLeaf == false) {
-				for(int m = 0; m < indexMap.length; m++) 
-					if(Integer.parseInt(indexMap[m].toString()) == document.allNodes.get(i).childrenList.get(0))
-						document.allNodes.get(i).childrenList.set(0, m);
-				for(int m = 0; m < indexMap.length; m++) 
-					if(Integer.parseInt(indexMap[m].toString()) == document.allNodes.get(i).childrenList.get(1))
-						document.allNodes.get(i).childrenList.set(1, m);
-			}
-		}
-		*/
-		///////////////////////////////////////////////////////////////////////// 2차 뻘짓 종료
-		
+		}		
 		
 		newAllNodes = new Vector<Node>();
 		for(int i = 0; i < document.allNodes.size(); i++)
@@ -433,29 +271,6 @@ public class Test {
 		
 		document.allNodes = newAllNodes;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	public static void readRSTTree(String inputFileName, Document document) throws IOException {
 		//Read a RST parse tree

@@ -1,6 +1,0 @@
-(ROOT (NP (S (S (NP (PRP I)) (VP (VBD tried) (NP (DT this) (NN sunscreen)) (PP (IN by) (NP (JJ Loving) (NNS Naturals))))) (CC and) (S (NP (PRP I)) (VP (VBP love) (NP (PRP it)) (PP (IN !!)))))))
-(ROOT (S (NP (PRP I)) (VP (VBP believe) (SBAR (S (NP (DT this)) (VP (VP (VBZ is) (ADJP (JJ perfect) (PP (IN for) (S (VP (VBG applying)))))) (CC and) (VP (VBZ lasts) (PP (IN before) (S (VP (VBG having) (S (VP (TO to) (VP (VB reapply)))))))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP have) (VP (VBN found) (NP (NNS others)) (S (VP (TO to) (VP (VB be) (ADJP (RB too) (JJ thick))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VP (VBD used) (PP (IN on) (NP (PRP$ my) (NN infant)))) (CC and) (VP (VBD felt) (S (ADJP (JJ safe) (PP (IN with) (NP (DT the) (NN protection)))) (NP (NP (DT this) (NN sunscreen)) (VP (VBN provided)))))) (. .)))
-(ROOT (NP (NP (NP (JJ Nice) (JJ natural) (NN scent)) (CC and) (NP (RB not) (RB too))) (ADJP (JJ thick) (CC or) (JJ greasy)) (. .)))
-(ROOT (S (NP (DT This)) (VP (VBZ is) (PP (IN by) (NP (NP (RB far) (DT the) (JJS best) (NN sunscreen)) (SBAR (S (NP (PRP I)) (VP (VBP have) (VP (VBN found) (S (VP (TO to) (VP (VB use) (PP (IN on) (NP (PRP$ my) (NNS children))))))))))))) (. .)))

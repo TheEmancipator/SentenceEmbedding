@@ -1,3 +1,0 @@
-(ROOT (S (S (NP (NP (DT The) (JJ literary) (NN equivalent)) (PP (IN of) (NP (NN toe) (NN cheese))))) (, ,) (NP (DT this)) (VP (VBZ is) (NP (NP (NNP Hatriot) (NNP Glenn) (NNP Beck) (POS 's)) (JJ lame) (NN attempt)) (S (VP (TO to) (VP (VB capitalize) (PP (IN on) (NP (NP (`` ``) (NN tea) (NN party) ('' '')) (SBAR (S (NP (NP (NN hysteria)) (PP (IN with) (NP (PRP$ his)))) (VP (VB knock) (PRT (IN off)) (PP (IN of) (`` ``) (NP (DT The) (NNP Turner) (NNPS Diaries)))))))))))) (. .) ('' '')))
-(ROOT (S (NP (PRP It)) (VP (VBZ 's) (VP (VBN been) (VP (VBN found) (S (VP (TO to) (VP (VB cause) (NP (NN retardation)) (PP (IN in) (NP (NN lab) (NNS rats))))))))) (. .)))
-(ROOT (S (VP (VB Avoid) (NP (PRP it)) (PP (IN at) (NP (DT all) (NNS costs)))) (. .)))

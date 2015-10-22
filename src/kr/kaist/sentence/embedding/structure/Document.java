@@ -3,7 +3,8 @@ package kr.kaist.sentence.embedding.structure;
 import java.util.Vector;
 
 public class Document {
-    public boolean tag; 	
+    public int tag;
+    public double inferredClass;
 	public int dimension;
 	public String fileName = "";
 	

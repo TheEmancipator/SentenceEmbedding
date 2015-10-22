@@ -1,5 +1,0 @@
-(ROOT (S (NP (DT This) (NN urn)) (VP (VBZ is) (ADJP (ADJP (JJ beautiful)) (CC and) (RB very) (ADJP (RB well) (VBN made)))) (. .)))
-(ROOT (S (NP (DT The) (NN etching)) (VP (VBZ is) (ADJP (ADJP (VBN detailed)) (CC and) (ADJP (JJ accurate) (PP (IN with) (NP (DT a) (JJ smooth) (NN finish)))))) (. .)))
-(ROOT (S (NP (DT The) (NN inside)) (VP (VP (VBZ is) (ADJP (NP (DT a) (NN bit)) (JJ rough) (PP (IN with) (NP (NP (DT a) (JJ powdery) (NN substance)) (PRN (-LRB- -LRB-) (NP (NP (JJ possible)) (NP (DT a) (NN residue))) (-RRB- -RRB-)))))) (CC but) (VP (VBZ does) (RB not) (VP (VB affect) (NP (DT the) (NN function))))) (. .)))
-(ROOT (S (NP (DT The) (NN lid)) (VP (VP (NP (NNS screws)) (PP (IN with) (NP (NN brass) (NN threading)))) (CC and) (VP (VBZ is) (NP (DT a) (ADJP (RB very) (JJ tight)) (JJ secure) (NN fit)))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP recommend) (NP (PRP it))) (. .)))

@@ -1,2 +1,0 @@
-(ROOT (S (NP (PRP They)) (ADVP (RB now)) (VP (VBP make) (NP (NP (DT a) (NN silicone) (NN cover)) (PP (IN for) (NP (NNP Sonicare) (NNS toothbrushes))))) (. .)))
-(ROOT (S (S (NP (NNP Mine)) (VP (VBD kept) (S (VP (VBG getting) (NP (NP (DT this) (NN gunk)) (PP (IN inside) (NP (DT the) (NN head)))))))) (CC and) (S (NP (PRP it)) (VP (VBD was) (NP (JJ gross)))) (. .)))

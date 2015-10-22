@@ -1,1 +1,0 @@
-(ROOT (S (NP (PRP It)) (VP (VP (VBZ 's) (ADJP (NP (DT a) (NN bit)) (JJR bulkier) (PP (IN than) (NP (DT the) (NN apple) (CD one))))) (, ,) (CC but) (VP (VBZ works) (ADJP (RB just) (JJ fine)))) (. .)))

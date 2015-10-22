@@ -1,7 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBP 'm) (ADVP (RB actually)) (ADVP (RB somewhat)) (PP (IN of) (NP (NP (DT a) (NN fan)) (PP (IN of) (NP (NP (NNP Rufus) (POS ')) (NN work)))))) (. .)))
-(ROOT (S (ADVP (RB However)) (, ,) (NP (DT this)) (VP (VBZ is) (NP (NP (CD one)) (SBAR (S (NP (PRP he)) (VP (MD should) (VP (VB have) (VP (VBN left) (ADVP (RB alone))))))))) (. .)))
-(ROOT (S (NP (PRP$ His) (NN voice) (CC and) (NN stage) (NN presence)) (VP (VBP are) (ADVP (RB clearly)) (VP (RB not) (VBN meant) (PP (IN for) (NP (NP (JJ classic) (JJ showtune-ish) (NNS songs)) (PP (IN about) (NP (JJ adult) (NNS themes))) (SBAR (WHNP (WDT which)) (S (VP (VBP require) (NP (NP (NN range) (, ,) (NN vibrato) (, ,) (NN nuance) (, ,) (CC and) (NN gosh) (, ,)) (SBAR (S (NP (PRP you)) (VP (VBP pick) (NP (DT a) (JJ few))))))))))))) (. .)))
-(ROOT (S (NP (PRP$ His) (NN interpretation)) (VP (VBZ is) (UCP (ADJP (JJ flat)) (CC and) (VP (VBG lacking) (PP (IN in) (NP (PRN (, ,) (ADVP (RB well)) (, ,)) (NN interpretation)))))) (. .)))
-(ROOT (S (NP (PRP He)) (VP (VBZ 's) (ADJP (JJ handsome) (CC and) (JJ talented)) (, ,) (ADVP (DT no) (NN doubt))) (. .)))
-(ROOT (S (NP (PRP He)) (VP (MD should) (VP (VB stick) (PP (TO to) (SBAR (WHNP (WP what)) (S (NP (PRP he)) (VP (VBZ does) (ADJP (JJS best)))))))) (. .)))
-(ROOT (S (NP (DT The) (JJ second) (NN star)) (VP (VBZ is) (PP (IN for) (NP (DT the) (NN orchestra))) (, ,) (SBAR (IN though) (S (NP (PRP they)) (VP (MD should) (VP (VB have) (VP (VBD had) (NP (NP (RBR more)) (NP-TMP (NP (NN sense)) (ADVP (RB as) (RB well)))))))))) (. .)))

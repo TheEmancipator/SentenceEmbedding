@@ -1,3 +1,0 @@
-(ROOT (S (NP (DT this) (NN book)) (VP (VBD was) (ADJP (RB excruciatingly) (JJ painful) (S (VP (TO to) (VP (VB read)))))) (. .)))
-(ROOT (SBARQ (WHADVP (WRB when)) (SQ (NP (FW i)) (VP (VB read) (S (NP (DT this) (NN book)) (NP (NP (FW i)) (VP (ADVP (RB finally)) (VBN understood) (NP (NP (DT the) (NN definition)) (PP (IN of) (NP (DT the) (NN word) (NN infinity))))))))) (. .)))
-(ROOT (S (NP (LS i)) (VP (MD would) (VP (VB recomend) (NP (DT this) (NN book)) (PP (TO to) (NP (NP (NNS friends)) (SBAR (WHNP (WP who)) (S (VP (VBP have) (NP (NP (NN insomnia)) (CC or) (NP (NP (DT those)) (SBAR (WHNP (WP who)) (S (NP (FW i)) (ADVP (RB absolutely)) (VP (VBP despise))))))))))))) (. .)))

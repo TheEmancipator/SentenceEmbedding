@@ -1,4 +1,0 @@
-(ROOT (S (S (NP (NP (DT The) (NN movie)) (, ,) (`` ``) (NP (DT The) (NNP Bounty) (NNP Hunter)) (, ,) ('' '')) (VP (VBG starring) (NP (NNP Gerard) (NNP Butler)))) (CC and) (S (NP (NNP Jennifer) (NNP Aniston)) (VP (VBD was) (ADJP (ADJP (RB far) (JJR more)) (PP (IN than) (ADJP (JJ entertaining)))))) (. .)))
-(ROOT (S (NP (NP (DT The) (NN movie)) (PP (IN as) (NP (DT a) (NN whole)))) (VP (VBD was) (ADJP (RB very) (JJ consistent))) (. .)))
-(ROOT (S (S (NP (PRP It)) (VP (VBD was) (NP (DT a) (JJ good) (NN mix)))) (, ,) (NP (PRP it)) (VP (VBD had) (NP (NP (NN comedy)) (, ,) (NP (NN action)) (, ,) (CC and) (NP (NP (JJ serious) (NNS moments)) (SBAR (WHNP (WDT that)) (S (VP (VBD were) (VP (ADVP (RB very) (RB all) (RB well)) (VBN planned)))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD would) (VP (VB go) (VP (VP (VB see) (NP (DT this) (NN movie)) (ADVP (RB again))) (CC and) (VP (VB recommend) (NP (PRP it)) (PP (IN for) (NP (NN everyone))))))) (. !)))

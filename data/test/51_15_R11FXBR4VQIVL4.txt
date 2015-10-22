@@ -1,5 +1,0 @@
-(ROOT (NP (NP (NN Ca)) (NP (NP (RB n't) (NN power)) (PP (IN on))) (. .)))
-(ROOT (S (VP (VBN Freezed) (PP (IN at) (NP (NN beginning)))) (. .)))
-(ROOT (S (NP (NN Computer)) (VP (MD ca) (RB n't) (VP (VB recognize) (NP (PRP it)) (ADVP (DT any) (RBR more)))) (. .)))
-(ROOT (S (S (VP (VBN Recorded) (NP (NN voice)))) (VP (VBZ is) (ADJP (RB very) (JJ low))) (. .)))
-(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP buy) (NP (PRP it))))) (, ,) (VP (VB prepare) (S (VP (TO to) (VP (VB throw) (NP (PRP it)) (ADVP (RB soon)))))) (. .)))

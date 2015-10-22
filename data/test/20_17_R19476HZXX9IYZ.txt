@@ -1,4 +1,0 @@
-(ROOT (NP (NP (NN Part)) (PP (IN of) (NP (NP (NNP Cartoon) (NNP Network) (POS 's)) (`` ``) (NP (NN Adult) (NN Swim)) ('' ''))) (. .)))
-(ROOT (S (SBAR (IN If) (S (NP (PRP it)) (VP (VBZ 's) (NP (NP (PRP$ your) (NN type)) (PP (IN of) (NP (NN humor))))))) (, ,) (NP (PRP you)) (VP (MD 'll) (VP (VB love) (NP (PRP it)))) (. .)))
-(ROOT (S (SBAR (IN If) (S (NP (PRP you)) (VP (VBP enjoy) (NP (JJ safe) (, ,) (JJ generic) (NN sit-com) (NN humor))))) (, ,) (NP (PRP you)) (VP (MD 'll) (VP (VB hate) (NP (PRP it)))) (. .)))
-(ROOT (S (NP (NNP Amazon)) (VP (VBD had) (NP (DT the) (JJS best) (NN price))) (. .)))

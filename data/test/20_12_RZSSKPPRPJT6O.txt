@@ -1,2 +1,0 @@
-(ROOT (S (NP (DT This)) (VP (VBZ is) (NP (NP (DT the) (NN coffee)) (SBAR (S (NP (PRP I)) (VP (VBP love) (PRN (, ,) (S (VP (VB thank) (NP (PRP you)) (ADVP (RB so) (RB much)) (PP (IN for) (S (VP (VBG offering) (NP (PRP it)))))))) (SBAR (IN as) (S (NP (DT the) (JJ last) (NN supplier)) (VP (VBD stopped) (S (VP (VBG selling) (NP (PRP it)))))))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD will) (VP (VB continue) (S (VP (TO to) (VP (VB get) (NP (PRP it)) (ADVP (RB forever))))))) (. !)))

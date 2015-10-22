@@ -1,4 +1,0 @@
-(ROOT (NP (JJ Great) (NN product) (. !)))
-(ROOT (S (NP (JJ Thick) (NN baby) (NNS wipes)) (VP (VBP go) (SBAR (S (NP (NP (DT a) (JJ long) (NN way)) (: ;) (NP (NP (NN fregrance) (CC and) (NN alcohol)) (SBAR (S (NP (JJ free) (NNS wipes)) (VP (VBP are) (NP (NP (DT the) (JJS best) (NN care)) (PP (IN for) (NP (PRP$ my) (NN baby)))))))) (: ;)) (VP (VBZ prevents) (NP (NN diaper) (NNS rashes)))))) (. .)))
-(ROOT (S (NP (PRP I)) (ADVP (RB also)) (VP (VBP use) (NP (JJ warm) (NNS cloths)) (PP (ADVP (RB especially)) (IN in) (NP (JJ early) (NNS mornings))) (S (VP (TO to) (VP (VB prevent) (NP (NN diaper) (NNS rashes)))))) (. .)))
-(ROOT (S (S (NP (NP (NNP Snug)) (CC and) (NP (NNP Dry) (NNPS Huggies) (NNP Diapers))) (VP (VBP are) (NP (NP (DT the) (JJ only) (NNS ones)) (SBAR (S (NP (PRP I)) (VP (VBP use) (PP (IN for) (NP (JJ little) (JJ active) (NNP Marc))))))))) (: ;) (S (VP (VB Thank) (NP (PRP you) (NNPS Huggies)) (PP (IN for) (NP (PRP$ your) (JJ great) (NNS products))))) (. !)))

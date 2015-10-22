@@ -4,12 +4,15 @@ import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Random;
+import java.util.Stack;
 import java.util.Vector;
 
 import kr.kaist.sentence.embedding.structure.Batch;
 import kr.kaist.sentence.embedding.structure.Document;
+import kr.kaist.sentence.embedding.structure.Node;
 import kr.kaist.sentence.embedding.structure.Tree;
 
 public class ReadData {
@@ -81,11 +84,11 @@ public class ReadData {
     public static void read(String folderName) throws IOException{
         // read documents
         File folder = new File(folderName);
-        File[] listofFiles = folder.listFiles();
+        File[] listOfFiles = folder.listFiles();
         init();
-        for(int i = 0; i < listofFiles.length; i++){
-            String fileName = folderName + "/" + listofFiles[i].getName();
-            Document doc = new Document(dimension);
+        for(int i = 0; i < listOfFiles.length; i++){
+            String fileName = folderName + "/" + listOfFiles[i].getName();
+            Document document = new Document(dimension);
             BufferedReader inFile = new BufferedReader(new FileReader(fileName));
             System.out.println(fileName);
             for(String line = inFile.readLine(); line != null; line = inFile.readLine()){
@@ -96,18 +99,25 @@ public class ReadData {
                 treeFactory.binarizeTree(tree); // transform to binary tree
                 
                 treeFactory.collapseUnaryTransformer(tree);	// transform to collapse unary form
-                treeFactory.getVector(0, weightMatrix, bias, wordVector, tree);	// calculate with recursive neural network scheme
-                doc.treeList.addElement(allTree.size());	// save the index of trees in the document into document object
-                doc.fileName = listofFiles[i].getName();
+                treeFactory.getTreeVector(0, weightMatrix, bias, wordVector, tree);	// calculate with recursive neural network scheme
+                document.treeList.addElement(allTree.size());	// save the index of trees in the document into document object
+                document.fileName = listOfFiles[i].getName();
+                if(fileName.contains("pos"))
+                	document.tag = 1;	// positive text, 1
+                else
+                	document.tag = 0;	// negative text, 0
                 allTree.addElement(tree);
             }
-            getRST(doc);
-            allDocument.addElement(doc); // save document
+            String treeFileName = folderName.substring(0,  folderName.indexOf("_parsed")) + "_tree/" +listOfFiles[i].getName() + ".tree"; 
+            RSTTreeFactory rstTreeFactory = new RSTTreeFactory();
+            rstTreeFactory.readRSTTree(treeFileName, document);
+
+            //rstTreeFactory.setRSTUnitToSentence(document);
+            //여기에 문제가 있음          
+           // rstTreeFactory.alignRSTTree(document);
+
+            allDocument.addElement(document); // save document
         }
-    }
-    
-    public static void getRST(Document doc) {
-    	// RST 저장되어 있는거 열어서 구조 읽기
     }
 
     public static void readWordVector(String wordFile, String vectorFile)throws IOException { 
@@ -129,8 +139,8 @@ public class ReadData {
         for(wordFileLine = inWordFile.readLine(); wordFileLine != null; wordFileLine = inWordFile.readLine()){
             i++;
             vectorFileLine = inVectorFile.readLine();
-            WordToNum.put(wordFileLine, i);
-            NumToWord.put(i, wordFileLine);
+            WordToNum.put(wordFileLine.toLowerCase(), i);
+            NumToWord.put(i, wordFileLine.toLowerCase());
             String[] readWordVector = vectorFileLine.split("\\s+");
             for(int j = 0; j < dimension; j++)
                 wordVector[i][j]=Double.parseDouble(readWordVector[j]);

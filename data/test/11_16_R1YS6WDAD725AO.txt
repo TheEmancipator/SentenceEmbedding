@@ -1,5 +1,0 @@
-(ROOT (S (S (NP (PRP I)) (VP (VBP own) (NP (JJ many) (JJ digital) (NNS cameras)))) (, ,) (CC but) (S (NP (DT this) (NNP HP) (NN product)) (VP (VBZ is) (ADJP (JJ great)))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP love) (NP (NP (DT the) (NN touch) (NN screen)) (, ,) (ADJP (JJ easy) (S (VP (TO to) (VP (VB move) (ADVP (RB around)) (PP (TO to) (NP (DT the) (JJ different) (NNS features))))))))) (. .)))
-(ROOT (S (S (NP (DT The) (NN unit)) (VP (VBZ is) (ADJP (RB very) (JJ compact)))) (, ,) (CC and) (S (NP (NP (DT the) (NN clarity)) (PP (IN of) (NP (DT the) (NNS pictures)))) (VP (VBZ is) (ADJP (JJ fantastic)))) (. !)))
-(ROOT (S (NP (EX There)) (VP (VBP are) (ADVP (NP (DT no) (NNS cameras)) (IN out)) (ADVP (RB there) (PP (IN with) (NP (NP (DT this) (NN type)) (PP (IN of) (NP (NN feature) (NN pack)))))) (, ,) (NP (NP (NN 12MP)) (, ,) (NP (NP (NN touch) (NN screen)) (SBAR (WHNP (WDT that)) (S (VP (VBZ is) (NP (CD 3)))))) ('' ''))) (. !)))
-(ROOT (S (NP (PRP I)) (VP (VBP recommend) (NP (DT this) (NN product)) (PP (TO to) (NP (NP (NN anyone)) (SBAR (WHNP (WDT that)) (S (VP (VBZ wants) (NP (DT a) (JJ great) (JJ compact) (NN camera)))))))) (. !)))

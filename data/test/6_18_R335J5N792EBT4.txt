@@ -1,6 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBP love) (NP (DT this) (NN pedometer))) (. !)))
-(ROOT (S (NP (PRP It)) (VP (VBZ is) (NP (DT the) (ADJP (RBS most) (JJ accurate)) (NN pedometer)) (SBAR (IN that) (S (NP (PRP I)) (VP (VBP have) (ADVP (RB ever)) (VP (VBN had)))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBD tested) (NP (PRP it)) (UCP (PP (IN on) (NP (PRP$ my) (NN treadmill))) (CC and) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (VBP walk)))))) (. .)))
-(ROOT (S (S (NP (PRP I)) (VP (VBP have) (VP (VP (VBN put) (NP (PRP it)) (PP (IN on) (NP (PRP$ my) (NN belt) (NN loop)))) (CC and) (VP (ADVP (RB also)) (PP (IN in) (NP (PRP$ my) (NNS pants) (NN pocket))))))) (CC and) (S (NP (PRP it)) (VP (VBZ works) (ADJP (JJ great)))) (. !)))
-(ROOT (S (NP (PRP I)) (VP (VBP like) (NP (DT the) (NN feature)) (PP (IN at) (NP (NP (CD 12:00) (NN pm)) (SBAR (S (NP (PRP it)) (VP (VBZ resets) (NP (PRP itself)) (ADVP (RB back) (PP (TO to) (NP (CD zero)))))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD would) (ADVP (RB highly)) (VP (VB reccommend) (NP (PRP it)) (, ,) (PP (IN worth) (NP (DT the) (NN money))))) (. !)))

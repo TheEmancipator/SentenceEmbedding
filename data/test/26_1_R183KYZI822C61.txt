@@ -1,4 +1,0 @@
-(ROOT (S (NP (DT This) (NN toy)) (VP (VBZ is) (NP (NP (NN WAY)) (PP (IN over) (S (VP (VBN rated)))))) (. .)))
-(ROOT (S (NP (DT The) (NNS spots)) (VP (VB rub) (PRT (RP off)) (PP (IN with) (NP (NN water)))) (. .)))
-(ROOT (S (S (NP (NNP Sophie)) (VP (VBZ is) (ADJP (JJ naked)) (ADVP (RB now)))) (CC and) (S (NP (PRP$ her) (NNS eyes)) (VP (VBP look) (SBAR (IN like) (S (NP (PRP$ her) (NN mascara)) (VP (VBZ has) (VP (VBN run) (PRT (RP down)) (NP (PRP$ her) (NN face)))))))) (. .)))
-(ROOT (FRAG (RB Not) (VP (TO to) (VP (VB mention) (SBAR (IN that) (S (NP (PRP she)) (VP (VBZ feels) (CC and) (VBZ sounds) (PP (IN like) (NP (NP (DT a) (NN dog) (NN toy)) (, ,) (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (SBAR (WHADVP (WRB why)) (S (NP (NP (PRP$ my) (NN mom) (POS 's)) (NN dog)) (VP (VBD ate) (NP (PRP$ her) (NN head))))))))))))))) (. .)))

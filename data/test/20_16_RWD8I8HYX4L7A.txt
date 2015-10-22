@@ -1,4 +1,0 @@
-(ROOT (FRAG (NP (NN love)) (NP (PRP it)) (. !)))
-(ROOT (S (VP (VBN made) (S (NP (PRP$ our) (NN mattress)) (ADJP (ADVP (RB so) (RB much)) (RBR more) (JJ comfortable)))) (. .)))
-(ROOT (S (NP (LS i)) (VP (VBD liked) (S (NP (PRP it)) (ADJP (RB so) (JJ much) (SBAR (S (NP (FW i)) (VP (VBD got) (NP (CD one)) (PP (IN for) (NP (NP (PRP$ our) (JJ regular) (VBN sized) (NN crib)) (RB too))))))))) (. .)))
-(ROOT (S (S (NP (LS i)) (VP (VBD used) (NP (PRP it)) (PP (IN on) (NP (NP (DT a) (NN portacrib)) (, ,) (RB not) (NP (DT a) (NN playpen)))))) (, ,) (IN so) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB know) (PP (IN about) (NP (NN fit))) (PP (IN on) (NP (DT those)))))) (. .)))

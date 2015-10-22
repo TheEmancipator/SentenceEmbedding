@@ -1,8 +1,0 @@
-(ROOT (S (VP (NP (INTJ (UH Oh)) (NP (FW em) (FW gee)))) (. !)))
-(ROOT (S (NP (DT This)) (VP (VBZ is) (PP (IN like) (NP (NP (DT the) (RBS most)) (NP (NP (NN bomb) (NN diggity)) (NP (ADJP (JJ fantastic)) (NN album))))) (ADVP (RB ever))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP want) (S (VP (TO to) (VP (ADVP (RB permanently)) (VB attach) (NP (PRP$ my) (NNS earphones)) (PP (TO to) (NP (PRP$ my) (NN ear) (CC and) (NN blast))) (PP (NP (NP (NNP Adam) (POS 's)) (NN music)) (IN into) (NP (PRP$ my) (NN brain))))))) (. .)))
-(ROOT (S (NP (PRP He)) (VP (VBZ is) (NP (NNP God))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD would) (VP (VB do) (NP (NN anything)) (PP (IN for) (NP (DT this) (NN man))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD would) (ADVP (RB even)) (VP (VB file) (NP (PRP$ my) (NNS taxes)) (PP (IN on) (NP (NN time))) (SBAR (IN if) (S (NP (PRP he)) (VP (VBD asked) (NP (PRP me)) (PP (TO to))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBP luv) (NP (NN internet) (NN privacy))) (. .)))
-(ROOT (S (VP (VBP Do) (VP (RB n't) (NP (PRP you)))) (. ?)))

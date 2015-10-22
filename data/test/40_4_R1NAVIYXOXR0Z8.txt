@@ -1,3 +1,0 @@
-(ROOT (S (S (NP (PRP I)) (VP (VBD had) (NP (NP (DT a) (JJ two-wolf) (NN shirt)) (PP (IN for) (NP (DT a) (NN while)))))) (CC and) (S (NP (PRP I)) (VP (VBD did) (RB n't) (VP (VB think) (SBAR (S (NP (NN life)) (VP (MD could) (VP (VB get) (NP (DT any) (JJR better))))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBD was) (ADJP (JJ wrong))) (. .)))
-(ROOT (S (NP (NNP Life)) (VP (VBD got) (NP (NP (ADJP (CD 50) (NN %)) (JJR better)) (, ,) (NP (DT no) (NN lie)))) (. .)))

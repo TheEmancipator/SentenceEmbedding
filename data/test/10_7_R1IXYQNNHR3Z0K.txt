@@ -1,2 +1,0 @@
-(ROOT (S (NP (DT This) (NN toy)) (VP (MD would) (VP (VB be) (ADJP (ADJP (NP (DT a) (NN lot)) (RBR more) (JJ realistic)) (PP (IN with) (S (VP (ADVP (IN about) (NP (CD 350) (NNS people))) (VBG standing) (PP (IN in) (NP (NP (NN line)) (PP (IN for) (NP (NP (DT an) (NN average)) (PP (IN of) (NP (DT an) (NN hour))))))))))))) (. .)))
-(ROOT (S (NP (PRP It)) (ADVP (RB still)) (VP (VBZ makes) (NP (DT a) (JJ nice) (NN set)) (PP (IN with) (NP (DT the) (NN interrogation) (NN room)))) (. .)))

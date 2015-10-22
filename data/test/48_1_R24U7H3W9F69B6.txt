@@ -1,5 +1,0 @@
-(ROOT (S (VP (VBD Got) (NP (NP (CD one)) (PP (IN of) (NP (DT these)))) (PP (IN from) (NP (NNP Fry) (POS 's))) (PP (IN in) (NP (DT a) (NN MB/CPU) (NN combo) (NN deal)))) (. .)))
-(ROOT (S (NP (DT The) (NN processor)) (VP (VBZ is) (VP (VBG smoking) (ADVP (RB fast)) (PP (IN with) (NP (NP (NN software)) (SBAR (WHNP (WDT that)) (S (VP (VBZ takes) (NP (NP (NN advantage)) (PP (IN of) (NP (NP (DT all)) (ADVP (NP (CD 4) (NNS cores)) (RB efficiently)))))))))))) (. .)))
-(ROOT (S (NP (NNS Examples)) (VP (MD would) (VP (VB be) (NP (NP (NNP Photoshop) (, ,) (NNP Vegas) (, ,) (NNP Winrar) (, ,) (NNP Lightwave) (, ,) (NNP Nero)) (NP (FW etc.))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (VBD got) (NP (PRP it)) (ADVP (RB specifically)) (PP (IN for) (S (VP (VBG crunching) (NP (JJ high) (NN definition) (NN video)) (PP (IN in) (NP (NP (NNP Sony) (NNP Vegas)) (CC and) (NP (NN editing)))) (NP-TMP (NP (JJ high) (NNS res) (NNS graphics)) (PP (IN in) (NP (NNP Photoshop)))))))) (. .)))
-(ROOT (S (NP (DT The) (NN processor)) (ADVP (RB really)) (VP (VBZ makes) (NP (NP (JJ short) (NN work)) (PP (IN of) (NP (ADJP (RB previously) (JJ long)) (NN processing) (NNS tasks))))) (. .)))

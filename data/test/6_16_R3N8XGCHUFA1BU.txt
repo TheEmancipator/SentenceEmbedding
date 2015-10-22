@@ -1,6 +1,0 @@
-(ROOT (S (S (VP (ADVP (RB Just)) (VBN opened) (PRT (RP up)) (NP (NP (DT the) (NN box)) (CC and) (NP (PRP I))))) (VP (VBD was) (ADJP (JJ impressed))) (. .)))
-(ROOT (S (NP (DT The) (NN nailer) (CC and) (NN compressor)) (ADVP (CC both)) (VP (VBP look) (PP (IN like) (NP (JJ new)))) (. .)))
-(ROOT (S (VP (VP (VP (VBN Plugged) (NP (DT the) (NN thing)) (PP (IN in))) (CC and) (VP (VBD slid) (PP (IN in) (NP (NP (DT a) (NN sleeve)) (PP (IN of) (NP (NNS nails))))))) (CC and) (VP (VBD started) (S (VP (VBG looking) (PP (IN for) (NP (NN something))) (S (VP (TO to) (VP (VB test) (NP (DT the) (NN nailer))))))))) (. .)))
-(ROOT (S (NP (NP (NNP Works)) (ADJP (JJ awesome) (PP (IN although) (NP (PRP$ my) (NN workbench))))) (ADVP (RB now)) (VP (VBZ has) (NP (NP (DT a) (NN row)) (PP (IN of) (NP (NP (NNS brads)) (PP (IN in) (NP (PRP it))))))) (. .)))
-(ROOT (S (NP (PRP I)) (VP (MD 'll) (VP (VB give) (NP (DT the) (NN compressor)) (NP (NP (DT a) (NN workout) (JJ next) (NN weekend)) (SBAR (WHADVP (WRB when)) (S (NP (PRP I)) (VP (NN shingle) (NP (PRP$ my) (NNS folks) (NN roof)))))))) (. .)))
-(ROOT (S (VP (VBG Looking) (ADVP (RB forward) (PP (TO to) (NP (PRP it)))) (ADVP (RB already))) (. .)))

@@ -1,2 +1,0 @@
-(ROOT (S (NP (PRP I)) (VP (VBP like) (SBAR (WHADVP (WRB how)) (S (NP (DT the) (NN zinc) (NN oxide)) (VP (VBZ gives) (NP (DT the) (NN balm)) (NP (NP (DT a) (NN hint)) (PP (IN on) (NP (JJ white)))))))) (. .)))
-(ROOT (S (NP (DT This)) (VP (VBD helped) (S (NP (PRP me)) (VP (VB make) (ADJP (JJ sure) (SBAR (S (NP (NNS lips)) (VP (VBD were) (ADVP (RB completely)) (VP (VBN covered) (PP (IN with) (NP (NN protection))))))))))) (. .)))
