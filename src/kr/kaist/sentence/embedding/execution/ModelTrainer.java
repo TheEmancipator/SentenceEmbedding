@@ -103,7 +103,7 @@ public class ModelTrainer {
         ReadData data = new ReadData(dimension);
         data.readWordVector(vocabularyFile, wordVectorFile);
         data.read(inputDirectory);
-        data.getBatch(10);
+        data.getBatch(25);
         allTree = data.allTree;
         allDocument = data.allDocument;
         allBatch = data.allBatch;
