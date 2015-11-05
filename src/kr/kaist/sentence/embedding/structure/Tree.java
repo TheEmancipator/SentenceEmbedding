@@ -3,12 +3,18 @@ package kr.kaist.sentence.embedding.structure;
 import java.util.Vector;
 
 public class Tree {
-	// variable declaration
+	// common
 	public Vector<Node> allNodes;
 	public Vector<Integer> leafNodeList;
-	public Vector<Integer> wordList;
-
 	public int dimension;
+	
+	// sentence
+	public Vector<Integer> wordList;
+	
+	// Document 
+    public int tag;
+    public double inferredClass;
+	public String fileName = "";
 
 	public Tree(int dimension) {
 		this.dimension=dimension;

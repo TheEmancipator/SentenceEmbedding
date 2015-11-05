@@ -65,9 +65,8 @@ public class ModelTrainer {
     
     static double[][][] biasTree;
     static double[][][][] weightMatrixTree;
-    static double[][][][] wordVectorTree;
-    static double[][][] documentBiasTree;
-    static double[][][][] documentWeightMatrixTree;
+    //static double[][][] documentBiasTree;
+    //static double[][][][] documentWeightMatrixTree;
     
     public static void main(String[] args) throws Exception {
         String vocabularyFile = "";
@@ -104,7 +103,7 @@ public class ModelTrainer {
         ReadData data = new ReadData(dimension);
         data.readWordVector(vocabularyFile, wordVectorFile);
         data.read(inputDirectory);
-        data.getBatch();
+        data.getBatch(10);
         allTree = data.allTree;
         allDocument = data.allDocument;
         allBatch = data.allBatch;
@@ -184,12 +183,12 @@ public class ModelTrainer {
     }
     
     public static void gradientDecent(int batchIndex)throws Exception{
-        Batch batch=allBatch.get(batchIndex);
         updateBatch(batchIndex);
+        Batch batch=allBatch.get(batchIndex);
         weightMatrixTree = getWeightMatrixTree(batch);  //  derivative of tree vector with respective to word_W
         biasTree = getBiasTree(batch);  //  derivative of tree vector with respective to word_b
-        documentWeightMatrixTree = getDocumentWeightMatrixTree(batch); //   derivative of tree vector with respective to document_W
-        documentBiasTree = getDocumentBiasTree(batch); //   derivative of tree vector with respective to document_b
+        //documentWeightMatrixTree = getDocumentWeightMatrixTree(batch); //   derivative of tree vector with respective to document_W
+        //documentBiasTree = getDocumentBiasTree(batch); //   derivative of tree vector with respective to document_b
 
         ExecutorService executor = Executors.newFixedThreadPool(numThread); // multi thread
         List<Future<MultiThread>>list = new ArrayList<Future<MultiThread>>();
@@ -226,21 +225,21 @@ public class ModelTrainer {
 
         
         double l = (double)1 / batch.documentList.size();
-        double T = 2 * Q / allDocument.size();
+        double T = (double)Q / (2 *allDocument.size());
 
-        deltaOutputU = getVectorScalar(l, deltaOutputU);
+        deltaOutputU = multiplyScalarVector(l, deltaOutputU);
         for(int i = 0; i < dimension; i ++) // regularizer
             deltaOutputU[i] += T * outputU[i];
         
-        deltaDocumentBias = getVectorScalar(l, deltaDocumentBias);
+        deltaDocumentBias = multiplyScalarVector(l, deltaDocumentBias);
         
-        deltaDocumentWeightMatrix = getMatrixScalar(l, deltaDocumentWeightMatrix);
+        deltaDocumentWeightMatrix = multiplyScalarMatrix(l, deltaDocumentWeightMatrix);
         for(int i = 0; i < dimension; i ++) // regularizer
             for(int j = 0; j < 2 * dimension; j++)
                 deltaDocumentWeightMatrix[i][j] += T * documentWeightMatrix[i][j];
         
-        deltaBias = getVectorScalar(l, deltaBias);
-        deltaWeightMatrix = getMatrixScalar(l, deltaWeightMatrix);
+        deltaBias = multiplyScalarVector(l, deltaBias);
+        deltaWeightMatrix = multiplyScalarMatrix(l, deltaWeightMatrix);
         for(int i = 0; i < dimension; i++)
             for(int j = 0; j < 2 * dimension; j++)
                 deltaWeightMatrix[i][j] += T * weightMatrix[i][j];  // regulizer
@@ -316,7 +315,7 @@ public class ModelTrainer {
         return allTreeBias;
     }
     
-    public static double[][][][] getDocumentWeightMatrixTree(Batch batch) throws Exception {
+/*    public static double[][][][] getDocumentWeightMatrixTree(Batch batch) throws Exception {
         double[][][][] allDocumentTreeWeightMatrix;
         allDocumentTreeWeightMatrix = new double[batch.documentList.size()][dimension][dimension * 2][dimension];
         ExecutorService executor = Executors.newFixedThreadPool(numThread);
@@ -366,7 +365,7 @@ public class ModelTrainer {
         executor.shutdown();
         
         return allDocumentTreeBias;
-    }
+    }*/
     
     public static class CallableWeightMatrix implements Callable<double[][][]>{
         Tree tree;
@@ -439,20 +438,16 @@ public class ModelTrainer {
             GradientDecentCalculator gradientDecentCalculator = new GradientDecentCalculator();
             thread.derivativeOutputU = gradientDecentCalculator.getGradientDecentDerivativeOutputU(document);
 
-            double[][] T = new double[dimension][dimension];
-            for(int i = 0; i < dimension; i++)
-                for(int j = 0; j < dimension; j++)
-                    T[i][j] = documentWeightMatrix[i][j] * thread.derivativeOutputU[i];
-            thread.derivativeDocumentBias = gradientDecentCalculator.getGradientDecentDerivativeDocumentBias(batch, T);
+            thread.derivativeDocumentBias = gradientDecentCalculator.getGradientDecentDerivativeDocumentBias(document);
             /*for(int i = 0; i < dimension; i++)
                 System.out.print("tdDoucument Bias: " + thread.derivativeDocumentBias[i] + " ");
             System.out.print("\n");*/
-            thread.derivativeDocumentWeightMatrix = gradientDecentCalculator.getGradientDecentDerivativeDocumentWeightMatrix(batch, T);
+            thread.derivativeDocumentWeightMatrix = gradientDecentCalculator.getGradientDecentDerivativeDocumentWeightMatrix(document, thread.derivativeDocumentBias);
             
-            T = new double[dimension][dimension];
+            double[][] T = new double[dimension][2 * dimension];
             for(int i = 0; i < dimension; i++)
-                for(int j = 0; j < dimension; j++)
-                    T[i][j] = weightMatrix[i][j] * thread.derivativeDocumentBias[i];
+                for(int j = 0; j < 2 * dimension; j++)
+                    T[i][j] = documentWeightMatrix[i][j] * thread.derivativeDocumentBias[i];
             thread.derivativeBias = gradientDecentCalculator.getGradientDecentDerivativeBias(document, batch, T);
             /*for(int i = 0; i < dimension; i++)
                 System.out.print("tdBias: " + thread.derivativeBias[i] + " ");
@@ -603,38 +598,40 @@ public class ModelTrainer {
             //get derivative of clique value with respect to sen_U
             double[]for_U = new double[dimension];
             double t = document.inferredClass - document.tag;
-            for_U = getVectorScalar(t, document.allNodes.get(0).vector);
+            for_U = multiplyScalarVector(t, tanhVector(document.allNodes.get(0).vector));
             return for_U;
         }
         
-        public static double[] getGradientDecentDerivativeDocumentBias(Batch batch, double[][] T) {
+        public static double[] getGradientDecentDerivativeDocumentBias(Document document) {
             double[] resultBias = new double[dimension];
-            double[][] join = new double[dimension][dimension];
             
-            for(int i = 0; i < batch.documentList.size(); i++) {
-                for(int j = 0; j < dimension; j++)
-                    for(int k = 0; k < dimension; k++)
-                        join[j][k] = documentBiasTree[i][j][k]; 
-            }
-
-            resultBias = sumMatrixLine(multiplyMatrixMatrix(join, T));
+            double t = document.inferredClass - document.tag;
+            resultBias = multiplyScalarVector(t, dotDot(outputU, derivativeTanhVector(tanhVector(document.allNodes.get(0).vector))));
 
             return resultBias;
         }
         
-        static public double[][] getGradientDecentDerivativeDocumentWeightMatrix(Batch batch, double[][] T){
+        static public double[][] getGradientDecentDerivativeDocumentWeightMatrix(Document document, double[] derivativeDocumentBias){
             //get derivative of clique value with respect to sen_W
             double[][] resultWeightMatrix = new double[dimension][2 * dimension];
-            double[][][] join = new double[dimension][2 * dimension][dimension];
-            for(int i = 0; i < batch.documentList.size(); i++) {
-                for(int j = 0; j < dimension; j++) 
-                    for(int k = 0; k < 2 * dimension; k++)
-                        for(int m = 0; m < dimension; m++)
-                            join[j][k][m] = weightMatrixTree[i][j][k][m];
-            }
-
+            
+            Node node = document.allNodes.get(0);
+            
+            double[] firstChildVector = new double[dimension];
+            double[] secondChildVector = new double[dimension];
+            int firstChildIndex = node.childrenList.get(0);
+            int secondChildIndex = node.childrenList.get(1);
+            firstChildVector = document.allNodes.get(firstChildIndex).vector;
+            secondChildVector = document.allNodes.get(secondChildIndex).vector;
+            double[] concatenatedVector = new double[2 * dimension];
+            // concatenate firstChildVector and secondChildVector
             for(int i = 0; i < dimension; i++)
-                resultWeightMatrix[i] = sumMatrixLine(multiplyMatrixMatrix(join[i], T));
+                concatenatedVector[i] = firstChildVector[i];
+            for(int i = 0; i < dimension; i++)
+                concatenatedVector[dimension + i] = secondChildVector[i];
+            
+            resultWeightMatrix = vectorVectorMatrix(derivativeDocumentBias, concatenatedVector);
+
             return resultWeightMatrix;
         }
         
@@ -750,7 +747,7 @@ public class ModelTrainer {
         fw.close();
     }
 
-    public static double[] getVectorScalar(double a1, double[] a2){
+    public static double[] multiplyScalarVector(double a1, double[] a2){
         //multiple vector a2 by scalar a1
         double[] c = new double[a2.length];
         for(int i = 0; i < a2.length; i++)
@@ -758,7 +755,7 @@ public class ModelTrainer {
         return c;
     }
     
-    public static double[][] getMatrixScalar(double a1, double[][] a2){
+    public static double[][] multiplyScalarMatrix(double a1, double[][] a2){
         //multiple matrix a2 by scalar a1
         double[][] c = new double[a2.length][a2[0].length];
         for(int i = 0; i < a2.length; i++)
@@ -768,13 +765,13 @@ public class ModelTrainer {
     }
     
     public static double[][] multiplyMatrixMatrix(double[][] A, double[][] B) {
-        if(A[0].length != B[0].length)
+        if(A[0].length != B.length)
             System.out.println("Matrix Dimensions not Constant");
-        double[][]C = new double[A.length][B.length];
+        double[][]C = new double[A.length][B[0].length];
         for(int i = 0; i < A.length; i++) {
-            for(int j = 0; j < B.length; j++) {
+            for(int j = 0; j < B[0].length; j++) {
                 for(int k = 0; k < A[0].length; k++) {
-                    C[i][j] += A[i][k] * B[j][k];
+                    C[i][j] += A[i][k] * B[k][j];
                 }
             }
         }
@@ -830,5 +827,26 @@ public class ModelTrainer {
         double a1=Math.exp(-a);
         double a2=Math.exp(a);
         return (a2-a1)/(a2+a1);
+    }
+    
+    public static double derivativeTanh (double a){
+        //derivative for tanh
+        return 1 - Math.pow(a, 2);
+    }
+
+    public static double[] derivativeTanhVector (double[]a){
+        //derivative for tanh for vectors
+        double[] b = new double[a.length];
+        for(int i = 0; i < a.length; i++)
+            b[i] = derivativeTanh(a[i]);
+        return b;
+    }
+    
+    public static double[] dotDot(double[]a1,double[]a2){
+        // .dot
+        double[]c;c=new double[a1.length];
+        for(int i=0;i<a1.length;i++)
+            c[i]=a1[i]*a2[i];
+        return c;
     }
 }

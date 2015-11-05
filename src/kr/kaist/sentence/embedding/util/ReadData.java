@@ -55,9 +55,8 @@ public class ReadData {
     }
 
     
-    public void getBatch(){ 
+    public void getBatch(int batchSize){ 
         //minibatch
-        int batchSize = 25;	// specify batch size
         int totalIteration = allDocument.size() / batchSize + 1;
         for(int i = 0; i < totalIteration; i++) {
             Batch batch=new Batch();
